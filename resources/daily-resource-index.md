@@ -20,7 +20,7 @@
 | 5 | Small talk: clima e intereses | [A1 Speaking](https://learnenglish.britishcouncil.org/free-resources/speaking/a1) + diálogo interno | Practica respuesta breve y pregunta de seguimiento. Si no hay actividad del clima, usa el role-play. |
 | 6 | Combinar presentación y small talk | [Meeting other students — A1](https://learnenglish.britishcouncil.org/free-resources/listening/a1/meeting-other-students) | Escucha y luego haz una conversación combinada sin leer el diálogo. |
 | 7 | Repaso de semana 1 | Frases de días 1–6 + [A1 Listening](https://learnenglish.britishcouncil.org/free-resources/listening/a1) opcional | Día ligero; el audio es opcional y no aprueba automáticamente la semana. |
-| 8 | Compras: precios y cantidades | [Shopping for clothes — A1](https://learnenglish.britishcouncil.org/free-resources/listening/a1/shopping-clothes) | Actividad directa de compras; para cantidades de alimentos, prioriza el diálogo de la lección. |
+| 8 | Compras: precios y cantidades | [Shopping — vocabulario A2](https://learnenglish.britishcouncil.org/free-resources/vocabulary/a1-a2/shopping) + [Ordering in a café — escucha A1](https://learnenglish.britishcouncil.org/free-resources/listening/a1/ordering-cafe) | El vocabulario de compras es A2; úsalo sólo si resulta manejable. El audio aporta práctica real de precios/cantidades en un pedido, pero no es una compra de supermercado. Para comprar cantidades de alimentos, prioriza el diálogo de la lección. |
 | 9 | Compras: tallas y preferencias | [Shopping for clothes — A1](https://learnenglish.britishcouncil.org/free-resources/listening/a1/shopping-clothes) | Practica talla, color, preferencia y alternativa disponible. |
 | 10 | Pedir comida y bebida | [Ordering in a café — A1](https://learnenglish.britishcouncil.org/free-resources/listening/a1/ordering-cafe) | Actividad directa para pedidos sencillos; termina ordenando una combinación propia. |
 | 11 | Peticiones especiales en restaurante | [Ordering in a café — A1](https://learnenglish.britishcouncil.org/free-resources/listening/a1/ordering-cafe) | Úsala como modelo de pedido; las peticiones especiales se practican con el diálogo interno si el audio no las cubre. |
@@ -121,7 +121,7 @@
 - [British Council A1 Listening](https://learnenglish.britishcouncil.org/free-resources/listening/a1)
 - [British Council A2 Listening](https://learnenglish.britishcouncil.org/free-resources/listening/a2)
 - [British Council A1–A2 Grammar](https://learnenglish.britishcouncil.org/free-resources/grammar/a1-a2)
-- [British Council A1–A2 Vocabulary](https://learnenglish.britishcouncil.org/free-resources/vocabulary/a1-a2)
+- [British Council A1–A2 Vocabulary](https://learnenglish.britishcouncil.org/free-resources/vocabulary/a1-a2), including [Shopping](https://learnenglish.britishcouncil.org/free-resources/vocabulary/a1-a2/shopping) and [Money](https://learnenglish.britishcouncil.org/free-resources/vocabulary/a1-a2/money)
 - [Cambridge English — Basic activities](https://www.cambridgeenglish.org/learning-english/activities-for-learners/?level=basic)
 - [Cambridge English — pronunciation activities](https://www.cambridgeenglish.org/learning-english/activities-for-learners/?level=basic&skill=pronunciation)
 - [British Council Business English](https://learnenglish.britishcouncil.org/business-english)
