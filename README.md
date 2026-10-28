@@ -22,6 +22,8 @@ Desarrollar la capacidad de comprender y mantener conversaciones útiles en ingl
 
 ## Start here
 
+0. [Open the study resource directory](resources/README.md) for listening audio, conversation practice, pronunciation, and Anki setup.
+
 1. [Read the study method](study-method.md) and how to practice with an AI tutor.
 2. [Complete Day 1](lessons/day-001.md) as a baseline; do not mark it approved until you have completed the practice.
 3. Browse [all 90 daily lessons](lessons/), from Day 1 through Day 90.
