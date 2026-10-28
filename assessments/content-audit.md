@@ -63,3 +63,7 @@ The following groups received targeted corrections during this audit:
 ## Honest status
 
 This log records corrections already made but does **not** certify that every lesson has passed the full audit. The course remains under review. Calendar and automation work is intentionally deferred until the content and pilot test are accepted.
+
+- **Content-level audit — 2026-10-28 (Phase 3, Days 62–70):** reviewed Days 62–66 and 68–70 for objective/activity alignment, dialogue relevance, listening questions, oral production, progression, and timing. The sampled dialogues and questions align with the lesson topics. Found and corrected two workload/assessment mismatches: Day 68's self-check now matches the three idioms designated for active practice while treating the other three as recognition-only; Day 69's speaking task and self-check now match its three core phrasal verbs, with the remaining items used for recognition. Day 67 is a light-review day and was not included in this content sample. This remains a sample, not approval of all Phase 3 lessons.
+
+- **Tracker consistency — 2026-10-28:** removed the unverified “0 / 1,000” Anki mastery baseline from `tracker.md`. The deck has not been inspected yet, so its phrase count and mastery must remain **Not measured** until the user shares the actual `.apkg` file.
