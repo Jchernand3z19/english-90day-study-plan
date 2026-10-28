@@ -123,7 +123,7 @@
 - [British Council A1–A2 Grammar](https://learnenglish.britishcouncil.org/free-resources/grammar/a1-a2)
 - [British Council A1–A2 Vocabulary](https://learnenglish.britishcouncil.org/free-resources/vocabulary/a1-a2), including [Shopping](https://learnenglish.britishcouncil.org/free-resources/vocabulary/a1-a2/shopping) and [Money](https://learnenglish.britishcouncil.org/free-resources/vocabulary/a1-a2/money)
 - [Cambridge English — Basic activities](https://www.cambridgeenglish.org/learning-english/activities-for-learners/?level=basic)
-- [Cambridge English — pronunciation activities](https://www.cambridgeenglish.org/learning-english/activities-for-learners/?level=basic&skill=pronunciation)
+- [Cambridge English — catálogo de actividades](https://www.cambridgeenglish.org/learning-english/activities-for-learners/?level=basic)
 - [British Council Business English](https://learnenglish.britishcouncil.org/business-english)
 - [BBC Learning English](https://www.bbc.co.uk/learningenglish)
 
