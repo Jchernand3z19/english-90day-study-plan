@@ -27,6 +27,7 @@ Desarrollar la capacidad de comprender y mantener conversaciones útiles en ingl
 3. Browse [all 90 daily lessons](lessons/), from Day 1 through Day 90.
 4. Use the [progress tracker](tracker.md) to record only demonstrated progress.
 5. Review the [evaluation rubric](assessments/evaluation-rubric.md) and [phase assessments](assessments/phase-assessments.md) before checkpoints.
+7. Check the [content audit log](assessments/content-audit.md) for correction status and remaining validation.
 6. Update the [Anki phrase tracker](vocabulary/anki-tracker.md) using actual deck statistics.
 
 ## Progress at your own pace
