@@ -42,7 +42,7 @@ No marques una lección como Aprobada solo porque llegó su fecha o leíste el a
 | 10 | [Pedir comida y bebidas](lessons/day-010.md) | Pendiente | |
 | 11 | [Restaurante: pedidos y solicitudes](lessons/day-011.md) | Pendiente | |
 | 12 | [Servicios: pedir ayuda y aclaraciones](lessons/day-012.md) | Pendiente | |
-| 13 | [Role-play de compras y restaurante](lessons/day-013.md) | Pendiente | |
+| 13 | [Role-play de compras: talla, probador y pago](lessons/day-013.md) | Pendiente | |
 | 14 | [Repaso ligero / descanso](lessons/day-014.md) | Pendiente | |
 | 15 | [Lugares y direcciones](lessons/day-015.md) | Pendiente | |
 | 16 | [Preguntar cómo llegar](lessons/day-016.md) | Pendiente | |
