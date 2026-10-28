@@ -29,7 +29,7 @@ Desarrollar la capacidad de comprender y mantener conversaciones útiles en ingl
 3. Browse [all 90 daily lessons](lessons/), from Day 1 through Day 90.
 4. Use the [progress tracker](tracker.md) to record only demonstrated progress.
 5. Review the [evaluation rubric](assessments/evaluation-rubric.md) and [phase assessments](assessments/phase-assessments.md) before checkpoints.
-6. Update the [Anki phrase tracker](vocabulary/anki-tracker.md) using actual deck statistics.
+6. **Anki is deferred:** do not update the phrase tracker until a real deck has been selected and audited.
 7. Check the [content audit log](assessments/content-audit.md) for correction status and remaining validation.
 
 ## Progress at your own pace
@@ -61,7 +61,7 @@ Los días son días calendario. Se recomienda estudiar de lunes a sábado y usar
 
 | Actividad | Tiempo | Qué hacer |
 |---|---:|---|
-| Anki y recuperación activa | 10 min | Repasar frases y responder sin mirar |
+| Recuperación activa de frases | 10 min | Recordar frases de lecciones actuales/anteriores y usarlas oralmente, sin mirar |
 | Lección del día | 15 min | Aprender vocabulario y una estructura útil |
 | Escucha y shadowing | 15 min | Escuchar un audio corto y repetirlo imitando el ritmo |
 | Producción oral | 15 min | Responder preguntas o representar un diálogo |
@@ -72,18 +72,18 @@ Los días son días calendario. Se recomienda estudiar de lunes a sábado y usar
 El mazo de Anki no es requisito para empezar. Hasta que se seleccione y valide uno, repasa oralmente 5–10 frases de las lecciones actuales o anteriores. No registres tarjetas ni frases como dominadas en Anki. La selección, revisión, organización por tema y posible automatización del mazo quedan para después de validar el calendario y los recursos.
 
 
-**Estado inicial: 0 de 1,000 frases dominadas.**
+**Estado del mazo: pendiente de selección y auditoría.** No hay una base validada para medir frases de un deck todavía.
 
 | Métrica | Valor inicial | Definición |
 |---|---:|---|
-| Total de frases | 1,000 | Tamaño objetivo del mazo |
-| Frases estudiadas | 0 / 1,000 | Tarjetas vistas al menos una vez |
-| Frases dominadas | 0 / 1,000 | Frases recuperadas y usadas sin ayuda |
-| Progreso de dominio | 0% | Frases dominadas dividido entre 1,000 |
+| Total de frases | Pendiente | Confirmar al inspeccionar el mazo real |
+| Frases estudiadas | No medido | No hay un mazo validado |
+| Frases dominadas | No medido | Se medirá tras validar el mazo y las reglas de dominio |
+| Progreso de dominio | No medido | No calcular hasta tener datos reales |
 
-![Anki mastery progress](https://img.shields.io/badge/Frases%20dominadas-0%2F1000-lightgrey)
+![Anki status](https://img.shields.io/badge/Anki-pendiente%20de%20auditor%C3%ADa-lightgrey)
 
-Los badges son indicadores manuales; no se actualizan automáticamente desde Anki. No confundas tarjetas vistas con frases dominadas.
+El indicador es manual y no se actualiza automáticamente. No se publicará un porcentaje de dominio hasta inspeccionar el mazo real.
 
 ## Criterios de evaluación
 
