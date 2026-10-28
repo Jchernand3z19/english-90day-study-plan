@@ -57,20 +57,21 @@ For role-play, tell the tutor the situation and ask it to stay in character. Req
 - If a session is missed, keep it pending and resume it later; do not automatically skip it or mark it passed.
 - If listening cannot be performed, mark it **Not assessed** rather than inventing a score.
 
-## Anki guidance — setup deferred
+## Phrase retrieval — Anki setup deferred
 
-The Anki deck has not yet been selected or audited. Until that work is completed, **do not install a random deck and do not let Anki block a lesson**. If a daily lesson asks for Anki cards, use that time to retrieve 5–10 useful phrases from the current or previous lessons without looking, say them aloud, and use two in a new answer. Record this as phrase retrieval, not as Anki progress.
+The Anki deck has not yet been selected or audited. Until the deck is inspected, **do not install a random deck and do not let Anki block a lesson**.
 
-Deck selection, inspection, topic ordering, duplicate checks, and any import/tagging automation are deferred until the 90-day calendar and lesson resources have been validated. The 1,000-phrase target is provisional until an actual deck is inspected.
+**This rule overrides older daily lessons that still mention Anki, due cards, or a 1,000-phrase deck.** For the 10-minute retrieval block in any lesson, instead:
+1. Choose 5–10 useful phrases from the current or previous lessons.
+2. Try to say each phrase in English before looking at the notes.
+3. Use two phrases in new answers or a short role-play.
+4. Record phrases recalled without help and phrases needing review. Do not record Anki cards or claim Anki progress.
 
-
-The target deck contains 1,000 common phrases. Use the deck's real statistics when updating counts. A phrase is considered mastered for this plan only when it can be understood, recalled without looking, used in a new sentence or dialogue, and retrieved again during a later review. This is a practical tracking rule, not a replacement for Anki's scheduling algorithm.
+The 1,000-phrase target remains provisional until an actual deck is inspected. Deck selection, content/level checks, duplicates, audio availability, ordering by calendar theme, and import/tagging automation are deferred until the calendar and resources are validated.
 
 ## Level expectations
 
 A1/A2 is the estimated starting range, not a formal diagnosis. The goal is greater independence and conversational confidence. Reaching B1 or B2 in 90 days cannot be guaranteed; progress depends on starting ability, practice quality, listening exposure, and feedback. Use a recognised assessment if you need an official level.
-
-The target deck contains 1,000 common phrases. Use the deck's real statistics when updating counts. A phrase is considered mastered for this plan only when it can be understood, recalled without looking, used in a new sentence or dialogue, and retrieved again during a later review. This is a practical tracking rule, not a replacement for Anki's scheduling algorithm.
 
 ## Level expectations
 
