@@ -3,7 +3,7 @@
 > Ruta guiada para desarrollar inglés conversacional desde una base A1/A2 hacia una comunicación más independiente. El progreso depende de la constancia y la práctica; alcanzar B1/B2 en 90 días no está garantizado.
 
 ![Study progress](https://img.shields.io/badge/Plan-0%25-lightgrey)
-![Anki progress](https://img.shields.io/badge/Anki-0%25-lightgrey)
+![Anki status](https://img.shields.io/badge/Anki-pendiente%20de%20auditor%C3%ADa-lightgrey)
 ![Study mode](https://img.shields.io/badge/Mode-GitHub%20Web%20Only-blue)
 
 ## Objetivo
@@ -128,21 +128,12 @@ En conversación también se evalúa si el mensaje se entiende, si la respuesta 
 
 - Progreso del plan: 0%
 - Sesiones aprobadas: 0
-- Frases Anki dominadas: 0 / 1,000
-- Nivel inicial estimado: A1/A2; pendiente de evaluación diagnóstica formal.
+- Mazo Anki: pendiente de selección y auditoría
+- Frases dominadas en el mazo: no medido; no existe aún una base validada
+- Nivel inicial estimado: A1/A2; pendiente de evaluación diagnóstica formal
 
-**Estado inicial: 0 de 1,000 frases dominadas.**
+No se mostrará un total ni porcentaje de dominio de Anki hasta inspeccionar el mazo real.
 
-| Métrica | Valor inicial | Definición |
-|---|---:|---|
-| Total de frases | 1,000 | Tamaño objetivo del mazo |
-| Frases estudiadas | 0 / 1,000 | Tarjetas vistas al menos una vez |
-| Frases dominadas | 0 / 1,000 | Frases recuperadas y usadas sin ayuda |
-| Progreso de dominio | 0% | Frases dominadas dividido entre 1,000 |
-
-![Anki mastery progress](https://img.shields.io/badge/Frases%20dominadas-0%2F1000-lightgrey)
-
-Los badges son indicadores manuales; no se actualizan automáticamente desde Anki. No confundas tarjetas vistas con frases dominadas.
 
 ## Criterios de evaluación
 
