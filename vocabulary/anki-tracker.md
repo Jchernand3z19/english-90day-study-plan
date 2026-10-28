@@ -1,17 +1,17 @@
-# Anki — 1,000 Common English Phrases
+# Anki — Existing Deck (Pending Audit)
 
-**Starting point:** 0 mastered phrases out of 1,000.
+**Status:** The user has an existing deck, but its file has not yet been inspected. Card count and progress are unverified.
 
 ## Progress
 
 | Metric | Current value |
 |---|---:|
-| Total cards in target deck | 1,000 |
-| Cards seen at least once | 0 |
-| Phrases recalled without looking | 0 |
-| Phrases used correctly in speech | 0 |
-| Phrases mastered | 0 |
-| Mastery progress | 0% |
+| Total cards in existing deck | Not verified |
+| Cards seen at least once | Not measured |
+| Phrases recalled without looking | Not measured |
+| Phrases used correctly in speech | Not measured |
+| Phrases mastered | Not measured |
+| Mastery progress | Not calculated |
 
 ## What counts as mastered?
 
@@ -30,6 +30,6 @@ A card marked correct once in Anki is not automatically mastered.
 |---|---:|---:|---:|---:|---|
 | — | 0 | 0 | 0 | 0 | Initial state |
 
-## Updating the badge
+## Deferred setup
 
-The README badge is a manual indicator, not a live connection to Anki. Update this tracker and the README only after checking the actual deck statistics. Keep the target at 1,000 unless the real deck count differs.
+Do not update a progress badge or calculate mastery until the existing `.apkg` file is inspected. Confirm the actual card/note count, duplicate phrases, audio, level, and topic distribution first. Do not replace the user's deck or claim any cards have been reviewed. The current lesson routine can continue with oral phrase retrieval while this audit is pending.
