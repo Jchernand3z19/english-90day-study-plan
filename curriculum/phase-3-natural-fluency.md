@@ -31,7 +31,7 @@
 | Día | Contenido | Práctica |
 |---:|---|---|
 | 68 | Idioms frecuentes y significado contextual | Interpretar expresiones en ejemplos |
-| 69 | Phrasal verbs comunes | Usar find out, pick up y turn on en contexto |
+| 69 | Phrasal verbs comunes | Usar find out, look for y pick up en contexto |
 | 70 | Lenguaje informal frente a formal | Elegir expresiones según la situación |
 | 71 | Reformular para sonar más natural | Mejorar frases demasiado literales |
 | 72 | Inferir significado por contexto | Explicar la idea principal de un diálogo |
