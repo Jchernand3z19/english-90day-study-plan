@@ -1,6 +1,6 @@
 # Mapa de recursos alineado con el calendario de 90 días
 
-**Regla:** abre primero la lección del día. Este mapa indica qué recurso gratuito complementa cada semana. Los diálogos de la propia lección son el recurso principal para hablar; las webs externas se usan sólo cuando su situación coincide con el tema.
+**Regla:** abre primero la lección del día. Para recomendaciones específicas de cada día, consulta el [índice diario de recursos (días 1–90)](daily-resource-index.md). Este mapa resume los recursos por semana. Los diálogos de la propia lección son el recurso principal para hablar; las webs externas se usan sólo cuando su situación coincide con el tema.
 
 ## Enlaces directos comprobados por tema
 
