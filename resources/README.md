@@ -4,10 +4,10 @@ Este directorio está organizado según el calendario de 90 días. **La lección
 
 ## Empezar aquí
 
-Consulta el [mapa de recursos por semana](calendar-resource-map.md), organizado según los temas y días del plan.
+Empieza con el [índice diario de recursos para los 90 días](daily-resource-index.md), que indica qué usar en cada lección y cuándo un enlace es sólo un catálogo. Consulta también el [mapa semanal](calendar-resource-map.md) para ver la estrategia general.
 
 1. Abre el día que te toca en `lessons/`.
-2. Consulta el [mapa de recursos por semana](calendar-resource-map.md) para elegir el material que corresponde al tema.
+2. Consulta el [índice diario de recursos](daily-resource-index.md) y abre sólo el recurso que coincide con el objetivo de ese día.
 3. Haz primero la actividad de escucha sin leer el texto, practica hablando y después revisa los errores.
 4. Si un recurso externo no coincide con el objetivo del día, no lo uses sólo para completar una casilla: utiliza el diálogo de la lección con el tutor.
 
@@ -56,4 +56,4 @@ No hace falta buscar ni crear otro mazo. Cuando el usuario comparta su deck, se 
 
 Un recurso cuenta como alineado cuando coincide con el tema del día, está a un nivel manejable y permite practicar la habilidad indicada. Si sólo es del mismo nivel, pero trata de otro tema, es material opcional, no el recurso principal.
 
-Consulta [el mapa de recursos por semana](calendar-resource-map.md) para los enlaces y el uso recomendado. La prioridad actual es cubrir las demás actividades del plan con recursos gratuitos; la organización del mazo existente queda para cuando se comparta.
+Consulta el [índice diario de recursos](daily-resource-index.md) para el detalle de cada día y el [mapa semanal](calendar-resource-map.md) para el resumen por fase. La prioridad actual es cubrir las demás actividades del plan con recursos gratuitos; la organización del mazo existente queda para cuando se comparta.
