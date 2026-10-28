@@ -27,7 +27,8 @@ The following groups received targeted corrections during this audit:
 
 - The repository currently contains all 90 daily lesson files, and the tracker contains 90 unique lesson links with no missing day links. This verifies file/link coverage, not the pedagogical quality of every activity.
 
-- Continue checking the remaining lessons for generic phrase banks and mismatches between the title, objective, and activity. Current spot checks found and corrected several issues, but this is not yet a complete 90-file audit.
+- Continue checking the remaining lessons for generic phrase banks and mismatches between the title, objective, and activity. Current spot checks found and corrected several issues, but this is not yet a complete 90-file pedagogical audit.
+- Rechecked the phase-assessment scoring sheet: Phase 1 weights are 20 + 25 + 20 + 20 + 15 = 100; Phase 2 uses the same weights; Phase 3 uses 20 points per task = 100. The day 29 and day 89 lesson plans align with their stated 60-minute duration. Day 59 was corrected to 60 minutes by adjusting the story and social-conversation task allocations.
 
 - Complete a systematic day-by-day audit of every lesson, including titles, objectives, task content, timing, language level, and assessment criteria.
 - Check every lesson link and tracker entry.
