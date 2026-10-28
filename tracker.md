@@ -8,7 +8,7 @@
 - Sesiones aprobadas: 0 / 90
 - Progreso registrado: 0%
 - Fase actual: Fase 1
-- Frases Anki dominadas: 0 / 1,000
+- Frases del mazo Anki: No medido (pendiente de inspeccionar el archivo real)
 - Última sesión aprobada: Ninguna
 
 Actualiza este archivo manualmente desde GitHub después de completar y aprobar una sesión. El porcentaje representa días aprobados dividido entre 90. No lo actualices por intención o por haber leído el material. Los 90 días son una guía, no una fecha límite: si una habilidad esencial aún no está dominada, conserva el estado Revisión y practica antes de avanzar a contenido más difícil.
