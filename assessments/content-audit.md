@@ -58,6 +58,8 @@ The following groups received targeted corrections during this audit:
 - **Phase 3 scaffolding and task alignment — 2026-10-28:** corrected Day 84's production instruction to refer to the conversation actually provided (it incorrectly called it an announcement). Reduced overload in Days 68–69 by identifying three expressions for active production and three for recognition, rather than expecting an A1/A2 learner to master six new idioms/phrasal verbs in one session.
 - **Content-level review coverage — 2026-10-28:** directly reviewed full lesson content in representative blocks from Phase 1 (Days 1–30), Phase 2 (Days 31–60), and Phase 3 (Days 61–90), with detailed reads of key lessons and checks for placeholder translations and generic production templates. Corrected the concrete issues listed above. This is a targeted pass, not yet a full line-by-line validation of every activity, every resource link, or all timing arithmetic in all 90 files.
 
+- **Timing arithmetic scan — 2026-10-28:** checked the displayed section durations across all 90 lesson files in 10-day batches. Regular 60-minute lessons generally total 60 minutes; light review days fit their stated 20–35-minute ranges; Days 59 and 89 total 60 minutes. Day 29 was the clear mismatch (65 minutes) and has been corrected to 60 minutes by reducing Task A to 12 minutes and Task B to 13 minutes without changing their scoring weights. This scan checks printed duration labels, not how long an individual learner will actually take.
+
 ## Honest status
 
 This log records corrections already made but does **not** certify that every lesson has passed the full audit. The course remains under review. Calendar and automation work is intentionally deferred until the content and pilot test are accepted.
