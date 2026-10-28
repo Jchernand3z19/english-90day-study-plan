@@ -4,6 +4,8 @@ Este directorio está organizado según el calendario de 90 días. **La lección
 
 ## Empezar aquí
 
+Consulta el [mapa de recursos por semana](calendar-resource-map.md), organizado según los temas y días del plan.
+
 1. Abre el día que te toca en `lessons/`.
 2. Consulta el [mapa de recursos por semana](calendar-resource-map.md) para elegir el material que corresponde al tema.
 3. Haz primero la actividad de escucha sin leer el texto, practica hablando y después revisa los errores.
