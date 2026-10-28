@@ -19,6 +19,30 @@ Estos enlaces llevan a actividades concretas con audio, ejercicios y transcripci
 | 31–88, sólo cuando coincida el tema | [British Council A2 Listening](https://learnenglish.britishcouncil.org/free-resources/listening/a2) | Catálogo para buscar mensajes y diálogos algo más largos. No se considera alineado sólo por ser A2: abre la actividad concreta y revisa el tema antes de usarla. Si no coincide, usa el diálogo de la lección. |
 | Días de evaluación | [Evaluaciones del repositorio](../assessments/phase-assessments.md) | La evaluación interna es la fuente principal; no se sustituye por ejercicios externos. |
 
+## Recursos gratuitos para las demás actividades del plan
+
+Anki no forma parte de esta búsqueda de recursos. El mazo existente se organizará cuando el usuario lo comparta. Esta sección cubre escucha, conversación, pronunciación, gramática funcional, vocabulario contextual y práctica profesional.
+
+| Habilidad / tipo de actividad | Recurso gratuito | Uso recomendado y límite |
+|---|---|---|
+| Conversación guiada y frases para hablar (A1) | [British Council — A1 Speaking](https://learnenglish.britishcouncil.org/free-resources/speaking/a1) | Para presentaciones, entender al interlocutor y sugerencias sencillas. Ver el video, repetir frases y usarlas en el role-play de la lección. |
+| Conversación e interacción (A2) | [British Council — A2 Speaking](https://learnenglish.britishcouncil.org/free-resources/speaking/a2) | Para expresar intereses, hablar del trabajo, mostrar interés y disculparse. Usar más adelante o sólo si el contenido resulta manejable. |
+| Escucha con ejercicios | [British Council — A1 Listening](https://learnenglish.britishcouncil.org/free-resources/listening/a1) y [A2 Listening](https://learnenglish.britishcouncil.org/free-resources/listening/a2) | Escuchar sin ver la transcripción, responder ejercicios y revisar después. Escoge por tema, no sólo por nivel. |
+| Pronunciación de sonidos y contrastes | [Cambridge English — actividades de pronunciación A1–A2](https://www.cambridgeenglish.org/learning-english/activities-for-learners/?level=basic&skill=pronunciation) | Actividades breves como distinguir sonidos vocálicos. No reemplaza practicar la pronunciación de las frases del día. |
+| Gramática breve cuando la lección la necesita | [British Council — A1-A2 Grammar](https://learnenglish.britishcouncil.org/grammar/a1-a2-grammar) | Consultar sólo el punto que aparece en la lección (por ejemplo, presente simple o pasado simple). No convertirlo en una sesión de gramática aislada. |
+| Vocabulario contextual | [British Council — A1-A2 Vocabulary](https://learnenglish.britishcouncil.org/vocabulary/a1-a2-vocabulary) | Reforzar vocabulario relacionado con el tema del día; después usar las palabras en frases propias. |
+| Inglés para trabajo y situaciones profesionales | [British Council — Business English](https://learnenglish.britishcouncil.org/business-english) y [BBC Learning English — Office English](https://www.bbc.co.uk/learningenglish/english/features/english-at-work) | Material complementario para reuniones, solicitudes y situaciones laborales. Verifica la dificultad y no lo uses como sustituto de los role-plays del plan. |
+| Naturalidad, expresiones y uso real | [BBC Learning English](https://www.bbc.co.uk/learningenglish) | Elegir secciones de pronunciación, vocabulario o expresiones cuando el tema coincida. Algunas series son más avanzadas; no se asignan automáticamente a A1. |
+| Comprensión oral extra de temas cotidianos | [Cambridge English — actividades Basic A1–A2](https://www.cambridgeenglish.org/learning-english/activities-for-learners/?level=basic) | Filtrar por escucha, pronunciación o vocabulario y duración de 0–5 o 5–10 minutos. Revisar el contenido de la actividad antes de asignarla. |
+
+### Cómo usar cada recurso sin desplazar la práctica oral
+
+1. Haz la actividad externa sólo si coincide con el objetivo de la lección y cabe en el tiempo previsto.
+2. En escucha, no leas la transcripción antes de escuchar. Responde primero; consulta el texto después.
+3. En pronunciación, repite una frase corta y luego úsala en una respuesta propia.
+4. En gramática o vocabulario, estudia únicamente lo necesario para resolver la actividad comunicativa.
+5. Cierra con el diálogo o role-play de la lección. El objetivo es poder responder, no acumular enlaces completados.
+
 ## Fase 1 — Fundamentos y vida diaria (días 1–30)
 
 | Semana / días | Tema del plan | Recurso gratuito que corresponde | Cómo utilizarlo |
