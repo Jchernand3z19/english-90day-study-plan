@@ -22,14 +22,14 @@ Desarrollar la capacidad de comprender y mantener conversaciones útiles en ingl
 
 ## Start here
 
-0. [Open the study resource directory](resources/README.md) for listening audio, conversation practice, pronunciation, and Anki setup.
+0. Open the [free resource directory](resources/README.md) and the [daily resource index for all 90 lessons](resources/daily-resource-index.md) to choose resources by topic.
 
 1. [Read the study method](study-method.md) and how to practice with an AI tutor.
 2. [Complete Day 1](lessons/day-001.md) as a baseline; do not mark it approved until you have completed the practice.
 3. Browse [all 90 daily lessons](lessons/), from Day 1 through Day 90.
 4. Use the [progress tracker](tracker.md) to record only demonstrated progress.
 5. Review the [evaluation rubric](assessments/evaluation-rubric.md) and [phase assessments](assessments/phase-assessments.md) before checkpoints.
-6. **Anki is deferred:** do not update the phrase tracker until a real deck has been selected and audited.
+6. **Anki is deferred:** the existing deck will be reviewed and ordered when the user shares the file; no replacement deck is needed.
 7. Check the [content audit log](assessments/content-audit.md) for correction status and remaining validation.
 
 ## Progress at your own pace
