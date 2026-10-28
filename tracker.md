@@ -25,106 +25,106 @@ Actualiza este archivo manualmente desde GitHub después de completar y aprobar 
 
 | Día | Tema | Estado | Evidencia / notas |
 |---:|---|---|---|
-| 01 | Diagnóstico y presentación personal | Pendiente | |
-| 02 | Saludos y despedidas | Pendiente | |
-| 03 | Preguntas básicas para conocer a alguien | Pendiente | |
-| 04 | Información personal y deletreo | Pendiente | |
-| 05 | Small talk: clima e intereses | Pendiente | |
-| 06 | Diálogo de presentación | Pendiente | |
-| 07 | Repaso ligero / descanso | Pendiente | |
-| 08 | Compras: precios y cantidades | Pendiente | |
-| 09 | Tallas, colores y preferencias | Pendiente | |
-| 10 | Pedir comida y bebidas | Pendiente | |
-| 11 | Restaurante: pedidos y solicitudes | Pendiente | |
-| 12 | Servicios: pedir ayuda y aclaraciones | Pendiente | |
-| 13 | Role-play de compras y restaurante | Pendiente | |
-| 14 | Repaso ligero / descanso | Pendiente | |
-| 15 | Lugares y direcciones | Pendiente | |
-| 16 | Preguntar cómo llegar | Pendiente | |
-| 17 | Transporte y horarios | Pendiente | |
-| 18 | Dar indicaciones sencillas | Pendiente | |
-| 19 | Distancias y ubicación | Pendiente | |
-| 20 | Role-play: moverse por una ciudad | Pendiente | |
-| 21 | Repaso ligero / descanso | Pendiente | |
-| 22 | Rutinas y presente simple | Pendiente | |
-| 23 | Frecuencia y horarios | Pendiente | |
-| 24 | Gustos y preferencias | Pendiente | |
-| 25 | Trabajo y actividades diarias | Pendiente | |
-| 26 | Preguntas y respuestas sobre hábitos | Pendiente | |
-| 27 | Describir un día típico | Pendiente | |
-| 28 | Repaso ligero / descanso | Pendiente | |
-| 29 | Evaluación integrada de fase | Pendiente | |
-| 30 | Corrección de errores y cierre | Pendiente | |
+| 01 | [Diagnóstico y presentación personal](lessons/day-001.md) | Pendiente | |
+| 02 | [Saludos y despedidas](lessons/day-002.md) | Pendiente | |
+| 03 | [Preguntas básicas para conocer a alguien](lessons/day-003.md) | Pendiente | |
+| 04 | [Información personal y deletreo](lessons/day-004.md) | Pendiente | |
+| 05 | [Small talk: clima e intereses](lessons/day-005.md) | Pendiente | |
+| 06 | [Diálogo de presentación](lessons/day-006.md) | Pendiente | |
+| 07 | [Repaso ligero / descanso](lessons/day-007.md) | Pendiente | |
+| 08 | [Compras: precios y cantidades](lessons/day-008.md) | Pendiente | |
+| 09 | [Tallas, colores y preferencias](lessons/day-009.md) | Pendiente | |
+| 10 | [Pedir comida y bebidas](lessons/day-010.md) | Pendiente | |
+| 11 | [Restaurante: pedidos y solicitudes](lessons/day-011.md) | Pendiente | |
+| 12 | [Servicios: pedir ayuda y aclaraciones](lessons/day-012.md) | Pendiente | |
+| 13 | [Role-play de compras y restaurante](lessons/day-013.md) | Pendiente | |
+| 14 | [Repaso ligero / descanso](lessons/day-014.md) | Pendiente | |
+| 15 | [Lugares y direcciones](lessons/day-015.md) | Pendiente | |
+| 16 | [Preguntar cómo llegar](lessons/day-016.md) | Pendiente | |
+| 17 | [Transporte y horarios](lessons/day-017.md) | Pendiente | |
+| 18 | [Dar indicaciones sencillas](lessons/day-018.md) | Pendiente | |
+| 19 | [Distancias y ubicación](lessons/day-019.md) | Pendiente | |
+| 20 | [Role-play: moverse por una ciudad](lessons/day-020.md) | Pendiente | |
+| 21 | [Repaso ligero / descanso](lessons/day-021.md) | Pendiente | |
+| 22 | [Rutinas y presente simple](lessons/day-022.md) | Pendiente | |
+| 23 | [Frecuencia y horarios](lessons/day-023.md) | Pendiente | |
+| 24 | [Gustos y preferencias](lessons/day-024.md) | Pendiente | |
+| 25 | [Trabajo y actividades diarias](lessons/day-025.md) | Pendiente | |
+| 26 | [Preguntas y respuestas sobre hábitos](lessons/day-026.md) | Pendiente | |
+| 27 | [Describir un día típico](lessons/day-027.md) | Pendiente | |
+| 28 | [Repaso ligero / descanso](lessons/day-028.md) | Pendiente | |
+| 29 | [Evaluación integrada de fase](lessons/day-029.md) | Pendiente | |
+| 30 | [Corrección de errores y cierre](lessons/day-030.md) | Pendiente | |
 
 ## Fase 2 — Viajes, socialización e historias (días 31–60)
 
 | Día | Tema | Estado | Evidencia / notas |
 |---:|---|---|---|
-| 31 | Planificar un viaje | Pendiente | |
-| 32 | Reservar hotel y habitación | Pendiente | |
-| 33 | Aeropuerto y transporte | Pendiente | |
-| 34 | Fechas, horarios y confirmaciones | Pendiente | |
-| 35 | Preguntas útiles para viajar | Pendiente | |
-| 36 | Role-play de reserva y llegada | Pendiente | |
-| 37 | Repaso ligero / descanso | Pendiente | |
-| 38 | Pasado simple: verbos frecuentes | Pendiente | |
-| 39 | Contar qué hiciste ayer | Pendiente | |
-| 40 | Ordenar eventos en una historia | Pendiente | |
-| 41 | Viajes y experiencias pasadas | Pendiente | |
-| 42 | Preguntar por experiencias de otros | Pendiente | |
-| 43 | Narrar una anécdota breve | Pendiente | |
-| 44 | Repaso ligero / descanso | Pendiente | |
-| 45 | Explicar un problema | Pendiente | |
-| 46 | Cambios y cancelaciones | Pendiente | |
-| 47 | Pedir ayuda y soluciones | Pendiente | |
-| 48 | Disculparse y aclarar malentendidos | Pendiente | |
-| 49 | Necesidades básicas durante un viaje | Pendiente | |
-| 50 | Role-play de un imprevisto | Pendiente | |
-| 51 | Repaso ligero / descanso | Pendiente | |
-| 52 | Iniciar y mantener una conversación social | Pendiente | |
-| 53 | Invitaciones y respuestas | Pendiente | |
-| 54 | Intereses y actividades | Pendiente | |
-| 55 | Hacer preguntas de seguimiento | Pendiente | |
-| 56 | Aceptar, rechazar y proponer alternativas | Pendiente | |
-| 57 | Conversación social de 3–5 minutos | Pendiente | |
-| 58 | Repaso ligero / descanso | Pendiente | |
-| 59 | Evaluación integrada de fase | Pendiente | |
-| 60 | Corrección de errores y cierre | Pendiente | |
+| 31 | [Planificar un viaje](lessons/day-031.md) | Pendiente | |
+| 32 | [Reservar hotel y habitación](lessons/day-032.md) | Pendiente | |
+| 33 | [Aeropuerto y transporte](lessons/day-033.md) | Pendiente | |
+| 34 | [Fechas, horarios y confirmaciones](lessons/day-034.md) | Pendiente | |
+| 35 | [Preguntas útiles para viajar](lessons/day-035.md) | Pendiente | |
+| 36 | [Role-play de reserva y llegada](lessons/day-036.md) | Pendiente | |
+| 37 | [Repaso ligero / descanso](lessons/day-037.md) | Pendiente | |
+| 38 | [Pasado simple: verbos frecuentes](lessons/day-038.md) | Pendiente | |
+| 39 | [Contar qué hiciste ayer](lessons/day-039.md) | Pendiente | |
+| 40 | [Ordenar eventos en una historia](lessons/day-040.md) | Pendiente | |
+| 41 | [Viajes y experiencias pasadas](lessons/day-041.md) | Pendiente | |
+| 42 | [Preguntar por experiencias de otros](lessons/day-042.md) | Pendiente | |
+| 43 | [Narrar una anécdota breve](lessons/day-043.md) | Pendiente | |
+| 44 | [Repaso ligero / descanso](lessons/day-044.md) | Pendiente | |
+| 45 | [Explicar un problema](lessons/day-045.md) | Pendiente | |
+| 46 | [Cambios y cancelaciones](lessons/day-046.md) | Pendiente | |
+| 47 | [Pedir ayuda y soluciones](lessons/day-047.md) | Pendiente | |
+| 48 | [Disculparse y aclarar malentendidos](lessons/day-048.md) | Pendiente | |
+| 49 | [Necesidades básicas durante un viaje](lessons/day-049.md) | Pendiente | |
+| 50 | [Role-play de un imprevisto](lessons/day-050.md) | Pendiente | |
+| 51 | [Repaso ligero / descanso](lessons/day-051.md) | Pendiente | |
+| 52 | [Iniciar y mantener una conversación social](lessons/day-052.md) | Pendiente | |
+| 53 | [Invitaciones y respuestas](lessons/day-053.md) | Pendiente | |
+| 54 | [Intereses y actividades](lessons/day-054.md) | Pendiente | |
+| 55 | [Hacer preguntas de seguimiento](lessons/day-055.md) | Pendiente | |
+| 56 | [Aceptar, rechazar y proponer alternativas](lessons/day-056.md) | Pendiente | |
+| 57 | [Conversación social de 3–5 minutos](lessons/day-057.md) | Pendiente | |
+| 58 | [Repaso ligero / descanso](lessons/day-058.md) | Pendiente | |
+| 59 | [Evaluación integrada de fase](lessons/day-059.md) | Pendiente | |
+| 60 | [Corrección de errores y cierre](lessons/day-060.md) | Pendiente | |
 
 ## Fase 3 — Fluidez, debates y matices (días 61–90)
 
 | Día | Tema | Estado | Evidencia / notas |
 |---:|---|---|---|
-| 61 | Expresar opiniones | Pendiente | |
-| 62 | Dar razones y ejemplos | Pendiente | |
-| 63 | Estar de acuerdo y discrepar con respeto | Pendiente | |
-| 64 | Comparar opciones y consecuencias | Pendiente | |
-| 65 | Conversar sobre temas cotidianos | Pendiente | |
-| 66 | Debate guiado breve | Pendiente | |
-| 67 | Repaso ligero / descanso | Pendiente | |
-| 68 | Idioms frecuentes en contexto | Pendiente | |
-| 69 | Phrasal verbs comunes | Pendiente | |
-| 70 | Lenguaje informal y registro | Pendiente | |
-| 71 | Reformular para sonar más natural | Pendiente | |
-| 72 | Entender expresiones por contexto | Pendiente | |
-| 73 | Diálogo con expresiones naturales | Pendiente | |
-| 74 | Repaso ligero / descanso | Pendiente | |
-| 75 | Presentación profesional breve | Pendiente | |
-| 76 | Hablar de experiencia y habilidades reales | Pendiente | |
-| 77 | Preguntas de networking | Pendiente | |
-| 78 | Reuniones: aclarar y confirmar acuerdos | Pendiente | |
-| 79 | Entrevista laboral simulada | Pendiente | |
-| 80 | Conversación profesional de 5 minutos | Pendiente | |
-| 81 | Repaso ligero / descanso | Pendiente | |
-| 82 | Conectores para desarrollar ideas | Pendiente | |
-| 83 | Explicar ventajas y desventajas | Pendiente | |
-| 84 | Resumir y parafrasear | Pendiente | |
-| 85 | Responder preguntas inesperadas | Pendiente | |
-| 86 | Reparar pausas y malentendidos | Pendiente | |
-| 87 | Conversación libre guiada | Pendiente | |
-| 88 | Repaso ligero / descanso | Pendiente | |
-| 89 | Evaluación final integrada | Pendiente | |
-| 90 | Reflexión final y siguiente plan | Pendiente | |
+| 61 | [Expresar opiniones](lessons/day-061.md) | Pendiente | |
+| 62 | [Dar razones y ejemplos](lessons/day-062.md) | Pendiente | |
+| 63 | [Estar de acuerdo y discrepar con respeto](lessons/day-063.md) | Pendiente | |
+| 64 | [Comparar opciones y consecuencias](lessons/day-064.md) | Pendiente | |
+| 65 | [Conversar sobre temas cotidianos](lessons/day-065.md) | Pendiente | |
+| 66 | [Debate guiado breve](lessons/day-066.md) | Pendiente | |
+| 67 | [Repaso ligero / descanso](lessons/day-067.md) | Pendiente | |
+| 68 | [Idioms frecuentes en contexto](lessons/day-068.md) | Pendiente | |
+| 69 | [Phrasal verbs comunes](lessons/day-069.md) | Pendiente | |
+| 70 | [Lenguaje informal y registro](lessons/day-070.md) | Pendiente | |
+| 71 | [Reformular para sonar más natural](lessons/day-071.md) | Pendiente | |
+| 72 | [Entender expresiones por contexto](lessons/day-072.md) | Pendiente | |
+| 73 | [Diálogo con expresiones naturales](lessons/day-073.md) | Pendiente | |
+| 74 | [Repaso ligero / descanso](lessons/day-074.md) | Pendiente | |
+| 75 | [Presentación profesional breve](lessons/day-075.md) | Pendiente | |
+| 76 | [Hablar de experiencia y habilidades reales](lessons/day-076.md) | Pendiente | |
+| 77 | [Preguntas de networking](lessons/day-077.md) | Pendiente | |
+| 78 | [Reuniones: aclarar y confirmar acuerdos](lessons/day-078.md) | Pendiente | |
+| 79 | [Entrevista laboral simulada](lessons/day-079.md) | Pendiente | |
+| 80 | [Conversación profesional de 5 minutos](lessons/day-080.md) | Pendiente | |
+| 81 | [Repaso ligero / descanso](lessons/day-081.md) | Pendiente | |
+| 82 | [Conectores para desarrollar ideas](lessons/day-082.md) | Pendiente | |
+| 83 | [Explicar ventajas y desventajas](lessons/day-083.md) | Pendiente | |
+| 84 | [Resumir y parafrasear](lessons/day-084.md) | Pendiente | |
+| 85 | [Responder preguntas inesperadas](lessons/day-085.md) | Pendiente | |
+| 86 | [Reparar pausas y malentendidos](lessons/day-086.md) | Pendiente | |
+| 87 | [Conversación libre guiada](lessons/day-087.md) | Pendiente | |
+| 88 | [Repaso ligero / descanso](lessons/day-088.md) | Pendiente | |
+| 89 | [Evaluación final integrada](lessons/day-089.md) | Pendiente | |
+| 90 | [Reflexión final y siguiente plan](lessons/day-090.md) | Pendiente | |
 
 ## Registro de evaluación
 
