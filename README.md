@@ -128,11 +128,11 @@ En conversación también se evalúa si el mensaje se entiende, si la respuesta 
 
 - Progreso del plan: 0%
 - Sesiones aprobadas: 0
-- Mazo Anki: pendiente de selección y auditoría
+- Mazo Anki: existe; pendiente de recibir y ordenar
 - Frases dominadas en el mazo: no medido; no existe aún una base validada
 - Nivel inicial estimado: A1/A2; pendiente de evaluación diagnóstica formal
 
-No se mostrará un total ni porcentaje de dominio de Anki hasta inspeccionar el mazo real.
+No se mostrará un total ni porcentaje de dominio de Anki hasta inspeccionar el mazo real compartido por el usuario.
 
 
 ## Criterios de evaluación
