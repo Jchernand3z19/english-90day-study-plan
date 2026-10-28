@@ -130,6 +130,8 @@ En conversación también se evalúa si el mensaje se entiende, si la respuesta 
 - Sesiones aprobadas: 0
 - Mazo Anki: existe; pendiente de recibir y ordenar
 - Frases dominadas en el mazo: no medido; no existe aún una base validada
-- Nivel inicial estimado: A1/A2; pendiente de evaluación diagnóstica formal
+- Evaluación inicial escrita: completada el 2026-10-28 (lectura 3/3; gramática/vocabulario 4/5; producción escrita intentada).
+- Nivel provisional: principiante, aproximadamente A1 por confirmar; no es una certificación MCER.
+- Pendiente para completar la línea base: escucha con audio no visto previamente y producción oral en voz alta. No repetir las partes escritas ya completadas.
 
 No se mostrará un total ni porcentaje de dominio de Anki hasta inspeccionar el mazo real compartido por el usuario.
