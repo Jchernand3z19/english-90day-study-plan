@@ -19,6 +19,16 @@ Desarrollar la capacidad de comprender y mantener conversaciones útiles en ingl
 - Autonomía: explicar experiencias, planes y opiniones con complejidad progresiva.
 - Seguimiento verificable: registrar sesiones, errores y evaluaciones reales.
 
+
+## Start here
+
+1. [Read the study method](study-method.md) and how to practice with an AI tutor.
+2. [Complete Day 1](lessons/day-001.md) as a baseline; do not mark it approved until you have completed the practice.
+3. Browse [all 90 daily lessons](lessons/), from Day 1 through Day 90.
+4. Use the [progress tracker](tracker.md) to record only demonstrated progress.
+5. Review the [evaluation rubric](assessments/evaluation-rubric.md) and [phase assessments](assessments/phase-assessments.md) before checkpoints.
+6. Update the [Anki phrase tracker](vocabulary/anki-tracker.md) using actual deck statistics.
+
 ## Cómo usar el repositorio
 
 1. Abre la lección correspondiente en la carpeta lessons.
