@@ -12,7 +12,7 @@ Copy this template into the new file. Keep the result as **Pendiente** until the
 - Status: Pending / In progress / Review / Approved
 - Duration:
 - Lesson:
-- Anki reviewed:
+- Phrases recalled without help:
 - New phrases practiced:
 
 ## Evidence
