@@ -135,7 +135,7 @@ No marques una lección como Aprobada solo porque llegó su fecha o leíste el a
 
 | Fecha | Día | Escucha | Producción oral | Vocabulario | Resultado | Próximo paso |
 |---|---:|---|---|---|---|---|
-| — | — | Sin evaluar | Sin evaluar | Sin evaluar | Pendiente | Completar diagnóstico |
+| 2026-10-28 | 01 (línea base) | No evaluada | No evaluada | Lectura 3/3; gramática/vocabulario 4/5 | Diagnóstico escrito completado; Día 1 incompleto | No repetir lectura ni gramática. Iniciar Día 1; evaluar escucha con audio no visto y producción oral en voz alta. |
 
 ## Regla para actualizar
 
