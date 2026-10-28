@@ -34,7 +34,7 @@ Si no puedes escuchar el diálogo, marca la parte de escucha como **No evaluada*
 
 ### 3. Pronunciación
 
-Usa el audio de la misma actividad. Repite frases cortas imitando el ritmo y las palabras acentuadas. Cambridge también ofrece actividades gratuitas de pronunciación en su [catálogo A1–A2](https://www.cambridgeenglish.org/learning-english/activities-for-learners/?level=basic&skill=pronunciation).
+Usa el audio de la misma actividad. Repite frases cortas imitando el ritmo y las palabras acentuadas. Cambridge también ofrece actividades gratuitas de pronunciación en su [catálogo A1–A2](https://www.cambridgeenglish.org/learning-english/activities-for-learners/?level=basic); selecciona el nivel Basic (A1–A2) y el filtro Pronunciation dentro de la página.
 
 ### 4. Vocabulario contextual
 
