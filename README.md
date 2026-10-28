@@ -29,6 +29,10 @@ Desarrollar la capacidad de comprender y mantener conversaciones útiles en ingl
 5. Review the [evaluation rubric](assessments/evaluation-rubric.md) and [phase assessments](assessments/phase-assessments.md) before checkpoints.
 6. Update the [Anki phrase tracker](vocabulary/anki-tracker.md) using actual deck statistics.
 
+## Progress at your own pace
+
+The 90 days are a sequence guide, not a deadline. If you cannot complete a lesson's essential speaking task clearly or retrieve its target phrases with little help, mark it **Review** and practise that skill again before moving to harder material. If you did not perform the required speaking or listening task, leave it incomplete rather than guessing a score. Spanish explanations are available when needed; the goal is to increase English practice gradually, not to force an all-English lesson too early.
+
 ## Cómo usar el repositorio
 
 1. Abre la lección correspondiente en la carpeta lessons.
