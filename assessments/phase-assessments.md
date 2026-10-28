@@ -65,7 +65,7 @@ Respond to a different viewpoint respectfully and ask one follow-up question.
 Give a truthful professional introduction and answer two interview or networking questions using real experience.
 
 ### Task D — Listening and paraphrasing (20 points)
-Listen to a short intermediate-appropriate clip. Summarise its main point and paraphrase one idea. A tutor-read script is acceptable if it is not shown before listening.
+Listen to a short conversation that is only as challenging as your demonstrated level, with one or two new expressions at most. Summarise its main point and paraphrase one idea. A tutor-read script is acceptable if it is not shown before listening. Do not increase difficulty just because this is Phase 3.
 
 ### Task E — Conversation repair (20 points)
 Respond to an unexpected question, ask for clarification if needed, and reformulate one answer more clearly.
