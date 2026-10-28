@@ -59,7 +59,7 @@ For role-play, tell the tutor the situation and ask it to stay in character. Req
 
 ## Phrase retrieval — Anki setup deferred
 
-The Anki deck has not yet been selected or audited. Until the deck is inspected, **do not install a random deck and do not let Anki block a lesson**.
+The user already has an Anki deck; its file has not yet been shared in this workflow or inspected. Until it is provided, **do not search for or install another deck, and do not let Anki block a lesson**.
 
 **This rule overrides older daily lessons that still mention Anki, due cards, or a 1,000-phrase deck.** For the 10-minute retrieval block in any lesson, instead:
 1. Choose 5–10 useful phrases from the current or previous lessons.
@@ -67,7 +67,7 @@ The Anki deck has not yet been selected or audited. Until the deck is inspected,
 3. Use two phrases in new answers or a short role-play.
 4. Record phrases recalled without help and phrases needing review. Do not record Anki cards or claim Anki progress.
 
-The 1,000-phrase target remains provisional until an actual deck is inspected. Deck selection, content/level checks, duplicates, audio availability, ordering by calendar theme, and import/tagging automation are deferred until the calendar and resources are validated.
+The deck's actual phrase count and content remain unverified until the user shares the existing deck. Deck selection, content/level checks, duplicates, audio availability, ordering by calendar theme, and import/tagging automation are deferred until the calendar and resources are validated.
 
 ## Level expectations
 
