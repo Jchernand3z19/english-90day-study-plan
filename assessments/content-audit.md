@@ -40,6 +40,10 @@ The following groups received targeted corrections during this audit:
 
 - **Example-data cleanup:** Day 4 now uses the fictional surname **Taylor** in the spelling exercise rather than a surname that could identify the learner. Continue using fictional names and role-play details in public examples unless real personal information is essential.
 
+- **Resource alignment — 2026-10-28:** added a week-by-week map and a separate set of direct, topic-specific British Council A1 audio activities for introductions, workplace introductions/requests, shopping, ordering in a café, booking a table, and asking for directions. The linked British Council activities provide audio and comprehension tasks; use them only when the topic matches the daily lesson. A2 and Cambridge links remain catalogues to choose from, not proof that every day has a unique external resource. The internal lesson dialogue remains the fallback. The assessment link was checked against `assessments/phase-assessments.md`.
+
+- **Anki dependency — 2026-10-28:** the deck is still unselected and unaudited. The study method now explicitly overrides older lesson instructions that mention Anki or due cards: use 5–10 phrases from current/previous lessons and practise two in new answers. Day 1 and Day 7 were updated directly, and Day 90 no longer assumes Anki is available. The README's unverified 0/1,000 mastery baseline and duplicate tail sections were removed. The remaining legacy Anki wording in daily lesson files is covered by the explicit override in `study-method.md`; a systematic lesson-by-lesson content audit is still pending.
+
 ## Honest status
 
 This log records corrections already made but does **not** certify that every lesson has passed the full audit. The course remains under review. Calendar and automation work is intentionally deferred until the content and pilot test are accepted.
