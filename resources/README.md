@@ -36,14 +36,24 @@ Si no puedes escuchar el diálogo, marca la parte de escucha como **No evaluada*
 
 Usa el audio de la misma actividad. Repite frases cortas imitando el ritmo y las palabras acentuadas. Cambridge también ofrece actividades gratuitas de pronunciación en su [catálogo A1–A2](https://www.cambridgeenglish.org/learning-english/activities-for-learners/?level=basic&skill=pronunciation).
 
-### 4. Vocabulario y Anki — deliberadamente pospuesto
+### 4. Vocabulario contextual
 
-El plan menciona un objetivo de 1,000 frases, pero el mazo aún no se ha seleccionado ni auditado. **Por ahora no necesitas comprar, descargar ni configurar un mazo.** Trabaja con las frases de cada lección y repásalas oralmente.
+Usa [British Council A1–A2 Vocabulary](https://learnenglish.britishcouncil.org/free-resources/vocabulary/a1-a2) sólo cuando el tema corresponda con la lección. Prioriza usar las palabras en frases propias, no memorizar listas fuera de contexto.
 
-La integración de Anki queda para una fase posterior de automatización: conseguir/revisar un mazo candidato, comprobar si sus frases son útiles, detectar duplicados o frases fuera de nivel, ordenarlas por los temas del calendario y definir cómo importar/etiquetar las tarjetas sin perder el mazo original. No se marcará como resuelto hasta inspeccionar el contenido real del deck.
+### 5. Gramática funcional
+
+Consulta [British Council A1–A2 Grammar](https://learnenglish.britishcouncil.org/free-resources/grammar/a1-a2) únicamente cuando una estructura de la lección necesite explicación. La gramática complementa la práctica oral; no debe desplazarla.
+
+### 6. Inglés laboral
+
+Para situaciones profesionales, revisa [British Council Business English](https://learnenglish.britishcouncil.org/business-english) y el catálogo [BBC Learning English](https://www.bbc.co.uk/learningenglish). Comprueba el nivel antes de usar un material, porque parte del contenido es más avanzado.
+
+### Anki — el mazo ya existe; ordenar después
+
+No hace falta buscar ni crear otro mazo. Cuando el usuario comparta su deck, se revisará el contenido real y se organizarán las frases según los temas y la secuencia de las 90 lecciones. Hasta entonces, Anki no debe distraer de la validación de los recursos para las demás actividades.
 
 ## Cómo registrar un recurso
 
 Un recurso cuenta como alineado cuando coincide con el tema del día, está a un nivel manejable y permite practicar la habilidad indicada. Si sólo es del mismo nivel, pero trata de otro tema, es material opcional, no el recurso principal.
 
-Consulta [el mapa de recursos por semana](calendar-resource-map.md) para los enlaces y el uso recomendado.
+Consulta [el mapa de recursos por semana](calendar-resource-map.md) para los enlaces y el uso recomendado. La prioridad actual es cubrir las demás actividades del plan con recursos gratuitos; la organización del mazo existente queda para cuando se comparta.
