@@ -30,7 +30,7 @@ No marques una lección como Aprobada solo porque llegó su fecha o leíste el a
 
 | Día | Tema | Estado | Evidencia / notas |
 |---:|---|---|---|
-| 01 | [Diagnóstico y presentación personal](lessons/day-001.md) | Pendiente | |
+| 01 | [Presentación personal y línea base](lessons/day-001.md) | Pendiente | |
 | 02 | [Saludos y despedidas](lessons/day-002.md) | Pendiente | |
 | 03 | [Preguntas básicas para conocer a alguien](lessons/day-003.md) | Pendiente | |
 | 04 | [Información personal y deletreo](lessons/day-004.md) | Pendiente | |
