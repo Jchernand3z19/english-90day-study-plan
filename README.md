@@ -1,0 +1,112 @@
+# English 90-Day Conversational Study Plan
+
+> Ruta guiada para desarrollar inglés conversacional desde una base A1/A2 hacia una comunicación más independiente. El progreso depende de la constancia y la práctica; alcanzar B1/B2 en 90 días no está garantizado.
+
+![Study progress](https://img.shields.io/badge/Plan-0%25-lightgrey)
+![Anki progress](https://img.shields.io/badge/Anki-0%25-lightgrey)
+![Study mode](https://img.shields.io/badge/Mode-GitHub%20Web%20Only-blue)
+
+## Objetivo
+
+Desarrollar la capacidad de comprender y mantener conversaciones útiles en inglés, desde situaciones cotidianas hasta contextos sociales y profesionales.
+
+### Objetivos principales
+
+- Fluidez conversacional: responder con frases completas, hacer preguntas y mantener intercambios.
+- Escucha activa: comprender la idea principal y detalles relevantes en audios adecuados al nivel.
+- Vocabulario real: recuperar y usar frases comunes en contexto.
+- Pronunciación comprensible: practicar ritmo y acentuación mediante escucha y shadowing.
+- Autonomía: explicar experiencias, planes y opiniones con complejidad progresiva.
+- Seguimiento verificable: registrar sesiones, errores y evaluaciones reales.
+
+## Cómo usar el repositorio
+
+1. Abre la lección correspondiente en la carpeta lessons.
+2. Completa los ejercicios y practica en voz alta.
+3. Responde la evaluación sin consultar las respuestas.
+4. Registra evidencia en daily-logs y actualiza tracker.md desde la web de GitHub.
+5. Si no completas o apruebas una sesión, déjala pendiente o en revisión.
+6. Usa ChatGPT como tutor y evaluador; revisa los cambios antes de guardarlos en GitHub.
+
+**Regla de evidencia:** leer una lección no equivale a dominarla. Una sesión solo se marca aprobada cuando se ha practicado y superado su evaluación.
+
+## Estructura de las tres fases
+
+| Fase | Días | Enfoque | Resultado esperado |
+|---|---:|---|---|
+| 1. Fundamentos y rutinas diarias | 1–30 | Presentaciones, small talk, compras, servicios, restaurantes, ubicación, transporte y hábitos | Resolver intercambios cotidianos con frases sencillas |
+| 2. Viajes, socialización e historias | 31–60 | Reservas, viajes, narración en pasado, imprevistos y conversaciones sociales | Relatar experiencias y resolver situaciones comunes |
+| 3. Fluidez, debates y matices | 61–90 | Opiniones, expresiones idiomáticas, networking y fluidez práctica | Expresar ideas y mantener conversaciones con mayor autonomía |
+
+Los días son días calendario. Se recomienda estudiar de lunes a sábado y usar el domingo para descanso o repaso ligero. Si pierdes una sesión, no la marques como aprobada automáticamente: retoma el contenido pendiente y ajusta el calendario.
+
+## Rutina diaria recomendada (60 minutos)
+
+| Actividad | Tiempo | Qué hacer |
+|---|---:|---|
+| Anki y recuperación activa | 10 min | Repasar frases y responder sin mirar |
+| Lección del día | 15 min | Aprender vocabulario y una estructura útil |
+| Escucha y shadowing | 15 min | Escuchar un audio corto y repetirlo imitando el ritmo |
+| Producción oral | 15 min | Responder preguntas o representar un diálogo |
+| Evaluación y registro | 5 min | Anotar resultados, dudas y errores |
+
+## Seguimiento de Anki: mazo de 1,000 frases
+
+**Estado inicial: 0 de 1,000 frases dominadas.**
+
+| Métrica | Valor inicial | Definición |
+|---|---:|---|
+| Total de frases | 1,000 | Tamaño objetivo del mazo |
+| Frases estudiadas | 0 / 1,000 | Tarjetas vistas al menos una vez |
+| Frases dominadas | 0 / 1,000 | Frases recuperadas y usadas sin ayuda |
+| Progreso de dominio | 0% | Frases dominadas dividido entre 1,000 |
+
+![Anki mastery progress](https://img.shields.io/badge/Frases%20dominadas-0%2F1000-lightgrey)
+
+Los badges son indicadores manuales; no se actualizan automáticamente desde Anki. No confundas tarjetas vistas con frases dominadas.
+
+## Criterios de evaluación
+
+Una sesión se considera aprobada cuando:
+
+- Completa los ejercicios principales.
+- Responde correctamente al menos el 80% de las preguntas de comprobación.
+- Produce oralmente las frases objetivo sin leer todas las respuestas.
+- Demuestra el significado de las frases principales.
+- Registra un ejemplo de uso o una dificultad detectada.
+
+En conversación también se evalúa si el mensaje se entiende, si la respuesta es relevante y si puede pedir aclaraciones. Los errores que no impiden comprender se anotan para practicar después.
+
+## Horario y recordatorios
+
+- Horario objetivo: 7:00–8:00 p. m., hora de Honduras.
+- Días sugeridos: lunes a sábado; domingo para descanso o repaso ligero.
+- Todo el trabajo del repositorio se puede gestionar desde la interfaz web de GitHub; no hace falta clonar el proyecto ni usar Git local.
+- Los recordatorios se considerarán activos solo después de configurar y probar el workflow. GitHub Actions puede retrasar ejecuciones programadas.
+
+## Mapa del repositorio
+
+- tracker.md: estado de las 90 jornadas.
+- curriculum/: objetivos y contenidos de cada fase.
+- lessons/: instrucciones y ejercicios diarios.
+- daily-logs/: evidencia de sesiones.
+- assessments/: rúbricas y evaluaciones.
+- vocabulary/: frases y vocabulario activo.
+- error-log/: errores recurrentes y correcciones.
+- integrations/google-calendar/: documentación de calendario si se configura.
+
+## Principios
+
+1. GitHub es la fuente de verdad del avance registrado.
+2. La IA puede explicar, practicar y evaluar; no debe inventar evidencia ni aprobar sesiones no realizadas.
+3. El trabajo pendiente se mantiene pendiente.
+4. Los errores son información para mejorar.
+5. No se suben contraseñas, tokens, datos privados ni secretos.
+6. No se declara funcional ninguna automatización hasta probarla.
+
+## Estado inicial
+
+- Progreso del plan: 0%
+- Sesiones aprobadas: 0
+- Frases Anki dominadas: 0 / 1,000
+- Nivel inicial estimado: A1/A2; pendiente de evaluación diagnóstica formal.
