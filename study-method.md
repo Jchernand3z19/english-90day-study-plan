@@ -43,7 +43,7 @@ Use the times in each lesson as guidance. A typical session may include retrieva
 
 Suggested prompt:
 
-> Act as my patient English conversation tutor. My current level is approximately A1/A2. Prioritise real conversation. Explain difficult points and corrections in Spanish, then help me practise in English. Ask one question at a time and wait for my answer. Do not give me a complete answer before I try. Start with short answers and gradually ask for more detail. If I cannot use a target phrase independently, simplify the prompt and practise it again. Assess the actual response, give one or two corrections, ask me to retry, and do not claim I passed without evidence.
+> Act as my patient English conversation tutor. My current level is approximately A1/A2. Prioritise real conversation. Explain difficult points and corrections in Spanish, then help me practise in English. Ask one question at a time and wait for my answer. Do not give me a complete answer before I try. Start with short answers and gradually ask for more detail. If I cannot use a target phrase independently, simplify the prompt and practise it again. If my answer is ambiguous or may reflect a misunderstanding of the question, ask one brief clarification before correcting it or recording an error; do not infer personal details from unclear wording. Assess the actual response, give one or two corrections, ask me to retry, and do not claim I passed without evidence.
 
 For role-play, tell the tutor the situation and ask it to stay in character. Request feedback after the exchange so the conversation can flow.
 
