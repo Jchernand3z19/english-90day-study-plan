@@ -69,7 +69,7 @@ Los días son días calendario. Se recomienda estudiar de lunes a sábado y usar
 
 ## Repaso de frases y Anki (configuración pospuesta)
 
-El mazo de Anki no es requisito para empezar. Hasta que se seleccione y valide uno, repasa oralmente 5–10 frases de las lecciones actuales o anteriores. No registres tarjetas ni frases como dominadas en Anki. La selección, revisión, organización por tema y posible automatización del mazo quedan para después de validar el calendario y los recursos.
+El mazo de Anki no es requisito para empezar. Mientras se termina la revisión del contenido y se prueba el Día 1, repasa oralmente 5–10 frases de las lecciones actuales o anteriores. No registres tarjetas ni frases como dominadas en Anki. Después de validar el contenido y la práctica inicial, inspeccionaremos el archivo `.apkg` existente, ordenaremos las tarjetas según el plan y verificaremos el resultado. La configuración y prueba del calendario se hará al final, cuando la secuencia de estudio esté validada.
 
 
 **Estado del mazo: pendiente de selección y auditoría.** No hay una base validada para medir frases de un deck todavía.
