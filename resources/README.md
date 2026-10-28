@@ -14,6 +14,8 @@ For a role-play, tell the tutor the situation (for example, ordering food or che
 
 ## 2. Listening practice with real audio
 
+**Alignment rule:** these are resource libraries, not yet a verified day-by-day match. Do not assume any random A1/A2 activity matches the lesson. For each lesson, select an audio whose situation and target phrases match that day's objective, and record the direct activity link in the lesson. Until that mapping is done, use these directories only as a fallback and ask the tutor to confirm the fit before counting the activity as completed.
+
 Use these free, level-labelled resources. Open the lesson and play the recording; do not read the transcript first.
 
 - **A1 listening — British Council LearnEnglish:** https://learnenglish.britishcouncil.org/free-resources/listening/a1
@@ -59,8 +61,9 @@ Use a short section of the audio resource in section 2. Listen to one sentence, 
 
 ## Resource gaps to resolve
 
-- Select and verify the actual 1,000-phrase Anki deck; no specific deck is currently linked here.
-- During the content audit, add a direct, topic-matched audio link to lessons that currently ask for external listening without specifying a resource.
+- Build and verify a day-by-day resource map for all 90 lessons: objective, direct audio/activity URL, target phrases, speaking task, and completion evidence.
+- Select and verify the actual 1,000-phrase Anki deck; no specific deck is currently linked here. Map phrases to each week's topic rather than assigning unrelated cards.
+- Add direct, topic-matched resources inside the relevant lessons; a generic resource directory alone is not enough.
 - Prefer free resources and avoid making a paid subscription necessary to complete the core plan.
 
 The resource directory and lesson content should be reviewed together. A lesson is not ready for independent study if it tells you to use an audio or deck that you cannot locate.
