@@ -28,7 +28,7 @@ A card marked correct once in Anki is not automatically mastered.
 
 | Date | Cards reviewed | New cards | Phrases recalled | Phrases used in speech | Notes |
 |---|---:|---:|---:|---:|---|
-| — | 0 | 0 | 0 | 0 | Initial state |
+| — | Not measured | Not measured | Not measured | Not measured | Awaiting inspection of the existing deck |
 
 ## Deferred setup
 
