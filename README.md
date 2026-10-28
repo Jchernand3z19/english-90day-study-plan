@@ -67,7 +67,69 @@ Los días son días calendario. Se recomienda estudiar de lunes a sábado y usar
 | Producción oral | 15 min | Responder preguntas o representar un diálogo |
 | Evaluación y registro | 5 min | Anotar resultados, dudas y errores |
 
-## Seguimiento de Anki: mazo de 1,000 frases
+## Repaso de frases y Anki (configuración pospuesta)
+
+El mazo de Anki no es requisito para empezar. Hasta que se seleccione y valide uno, repasa oralmente 5–10 frases de las lecciones actuales o anteriores. No registres tarjetas ni frases como dominadas en Anki. La selección, revisión, organización por tema y posible automatización del mazo quedan para después de validar el calendario y los recursos.
+
+
+**Estado inicial: 0 de 1,000 frases dominadas.**
+
+| Métrica | Valor inicial | Definición |
+|---|---:|---|
+| Total de frases | 1,000 | Tamaño objetivo del mazo |
+| Frases estudiadas | 0 / 1,000 | Tarjetas vistas al menos una vez |
+| Frases dominadas | 0 / 1,000 | Frases recuperadas y usadas sin ayuda |
+| Progreso de dominio | 0% | Frases dominadas dividido entre 1,000 |
+
+![Anki mastery progress](https://img.shields.io/badge/Frases%20dominadas-0%2F1000-lightgrey)
+
+Los badges son indicadores manuales; no se actualizan automáticamente desde Anki. No confundas tarjetas vistas con frases dominadas.
+
+## Criterios de evaluación
+
+Una sesión se considera aprobada cuando:
+
+- Completa los ejercicios principales.
+- Responde correctamente al menos el 80% de las preguntas de comprobación.
+- Produce oralmente las frases objetivo sin leer todas las respuestas.
+- Demuestra el significado de las frases principales.
+- Registra un ejemplo de uso o una dificultad detectada.
+
+En conversación también se evalúa si el mensaje se entiende, si la respuesta es relevante y si puede pedir aclaraciones. Los errores que no impiden comprender se anotan para practicar después.
+
+## Horario y recordatorios
+
+- Horario objetivo: 7:00–8:00 p. m., hora de Honduras.
+- Días sugeridos: lunes a sábado; domingo para descanso o repaso ligero.
+- Todo el trabajo del repositorio se puede gestionar desde la interfaz web de GitHub; no hace falta clonar el proyecto ni usar Git local.
+- Los recordatorios se considerarán activos solo después de configurar y probar el workflow. GitHub Actions puede retrasar ejecuciones programadas.
+
+## Mapa del repositorio
+
+- tracker.md: estado de las 90 jornadas.
+- curriculum/: objetivos y contenidos de cada fase.
+- lessons/: instrucciones y ejercicios diarios.
+- daily-logs/: evidencia de sesiones.
+- assessments/: rúbricas y evaluaciones.
+- vocabulary/: frases y vocabulario activo.
+- error-log/: errores recurrentes y correcciones.
+- integrations/google-calendar/: documentación de calendario si se configura.
+
+## Principios
+
+1. GitHub es la fuente de verdad del avance registrado.
+2. La IA puede explicar, practicar y evaluar; no debe inventar evidencia ni aprobar sesiones no realizadas.
+3. El trabajo pendiente se mantiene pendiente.
+4. Los errores son información para mejorar.
+5. No se suben contraseñas, tokens, datos privados ni secretos.
+6. No se declara funcional ninguna automatización hasta probarla.
+
+## Estado inicial
+
+- Progreso del plan: 0%
+- Sesiones aprobadas: 0
+- Frases Anki dominadas: 0 / 1,000
+- Nivel inicial estimado: A1/A2; pendiente de evaluación diagnóstica formal.
 
 **Estado inicial: 0 de 1,000 frases dominadas.**
 
