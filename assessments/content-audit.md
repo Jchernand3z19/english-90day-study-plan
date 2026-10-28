@@ -18,12 +18,14 @@
 
 The following groups received targeted corrections during this audit:
 - **Beginner foundations:** days 2–6, 8–13, 14–27 — listening instructions and comprehension checks were improved in selected lessons; review days were shortened and made specific.
-- **Travel, stories, and social conversation:** days 28–60 — several generic lessons were replaced with topic-specific language, dialogues, listening questions, role-plays, and review tasks.
-- **Discussion and professional communication:** days 61–90 — several generic lessons were replaced with specific activities for opinions, reasons, disagreement, debates, phrasal verbs, idioms, networking, meetings, interviews, repair phrases, and final assessment.
+- **Travel, stories, and social conversation:** days 28–60 — several generic lessons were replaced with topic-specific language, dialogues, listening questions, role-plays, and review tasks. In this audit pass, Days 31–32 now teach trip planning and hotel reservations directly; Day 40 teaches story sequencing; Days 53, 54, and 56 now focus on invitations, interests, and accepting/declining with alternatives.
+- **Discussion and professional communication:** days 61–90 — several generic lessons were replaced with specific activities for opinions, reasons, disagreement, debates, phrasal verbs, idioms, networking, meetings, interviews, repair phrases, and final assessment. Phase 3 listening difficulty is now tied to demonstrated ability rather than an automatic intermediate-level target.
 - **Assessment and tracking:** fixed phase task weights total 100 points; daily rubric and tracker clarify evidence, Review, Incomplete/Not assessed, and approval rules.
 - **Study method and README:** added mastery-based pacing and gradual Spanish-to-English support.
 
 ## Validation still required
+
+- Continue checking the remaining lessons for generic phrase banks and mismatches between the title, objective, and activity. Current spot checks found and corrected several issues, but this is not yet a complete 90-file audit.
 
 - Complete a systematic day-by-day audit of every lesson, including titles, objectives, task content, timing, language level, and assessment criteria.
 - Check every lesson link and tracker entry.
