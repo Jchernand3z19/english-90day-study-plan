@@ -38,6 +38,8 @@ The following groups received targeted corrections during this audit:
 
 - **Spot-check — 2026-10-28:** reviewed the rubric, phase assessment instructions, all three curriculum maps, Day 1, the Phase 1 and Phase 2 review/checkpoint samples (Days 7, 14, 21, 28, 30, 37, 44, 51, 58, 59, 60), and Phase 3 samples (Days 67–85 plus Days 88–89). The sampled review days have distinct, lighter practice and do not automatically pass a phase. Checkpoint tasks and scoring are aligned in the sampled files. The sampled 60-minute Phase 3 lessons use a consistent 10 + 15 + 15 + 15 + 5 minute structure; Day 1 and Day 89 also match their stated 60-minute plans. No new timing or title/objective mismatch requiring an edit was identified in these samples. This is still a spot-check, not proof that every file is validated.
 
+- **Example-data cleanup:** Day 4 now uses the fictional surname **Taylor** in the spelling exercise rather than a surname that could identify the learner. Continue using fictional names and role-play details in public examples unless real personal information is essential.
+
 ## Honest status
 
 This log records corrections already made but does **not** certify that every lesson has passed the full audit. The course remains under review. Calendar and automation work is intentionally deferred until the content and pilot test are accepted.
