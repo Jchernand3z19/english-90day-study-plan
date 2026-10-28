@@ -14,9 +14,9 @@ Estos enlaces llevan a actividades concretas con audio, ejercicios y transcripci
 | 8–14 | [Ordering in a café — British Council A1](https://learnenglish.britishcouncil.org/free-resources/listening/a1/ordering-cafe) | Pedidos, tamaños, precios, preferencias y aclaraciones. |
 | 8–14 | [Booking a table — British Council A1](https://learnenglish.britishcouncil.org/free-resources/listening/a1/booking-table) | Peticiones educadas, confirmar hora/personas y corregir malentendidos; no sustituye la práctica de compras. |
 | 15–21 | [Finding the library — British Council A1](https://learnenglish.britishcouncil.org/free-resources/listening/a1/finding-library) | Preguntar dónde queda un lugar y entender indicaciones sencillas. No cubre por sí sola billetes ni horarios de transporte. |
-| 22–28, si el objetivo es laboral | [A request from your boss — British Council A1](https://learnenglish.britishcouncil.org/free-resources/listening/a1/request-from-your-boss) | Comprender solicitudes sencillas en el trabajo. No es una actividad general de rutinas diarias. |
+| 22–28, si el objetivo es laboral | [A request from your boss — British Council A1](https://learnenglish.britishcouncil.org/free-resources/listening/a1/request-your-boss) | Comprender solicitudes sencillas en el trabajo. No es una actividad general de rutinas diarias. |
 | 22–28, si el objetivo es laboral | [Business cards — British Council A1](https://learnenglish.britishcouncil.org/free-resources/listening/a1/business-cards) | Escuchar a personas describir sus trabajos. |
-| 31–88 | [British Council A2 Listening](https://learnenglish.britishcouncil.org/free-resources/listening/a2) | Catálogo para buscar mensajes y diálogos algo más largos. No se considera alineado sólo por ser A2: revisa el tema antes de usarlo. |
+| 31–88, sólo cuando coincida el tema | [British Council A2 Listening](https://learnenglish.britishcouncil.org/free-resources/listening/a2) | Catálogo para buscar mensajes y diálogos algo más largos. No se considera alineado sólo por ser A2: abre la actividad concreta y revisa el tema antes de usarla. Si no coincide, usa el diálogo de la lección. |
 | Días de evaluación | [Evaluaciones del repositorio](../assessments/phase-assessments.md) | La evaluación interna es la fuente principal; no se sustituye por ejercicios externos. |
 
 ## Fase 1 — Fundamentos y vida diaria (días 1–30)
