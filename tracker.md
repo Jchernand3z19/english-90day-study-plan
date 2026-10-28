@@ -11,7 +11,7 @@
 - Frases Anki dominadas: 0 / 1,000
 - Última sesión aprobada: Ninguna
 
-Actualiza este archivo manualmente desde GitHub después de completar y aprobar una sesión. El porcentaje representa días aprobados dividido entre 90. No lo actualices por intención o por haber leído el material.
+Actualiza este archivo manualmente desde GitHub después de completar y aprobar una sesión. El porcentaje representa días aprobados dividido entre 90. No lo actualices por intención o por haber leído el material. Los 90 días son una guía, no una fecha límite: si una habilidad esencial aún no está dominada, conserva el estado Revisión y practica antes de avanzar a contenido más difícil.
 
 ## Estados permitidos
 
@@ -20,6 +20,11 @@ Actualiza este archivo manualmente desde GitHub después de completar y aprobar 
 - **Revisión:** se completó, pero no se alcanzó el criterio de aprobación.
 - **Aprobado:** hay evidencia y se superó la evaluación.
 - **Descanso/repaso ligero:** día reservado para descanso o repaso sin avance obligatorio.
+- **Incompleta / no evaluada:** falta una tarea obligatoria o no hay evidencia suficiente para calificarla.
+
+## Regla de avance por dominio
+
+No marques una lección como Aprobada solo porque llegó su fecha o leíste el archivo. Para avanzar, demuestra que puedes realizar la tarea oral principal de forma comprensible, recuperar las expresiones clave con poca ayuda y alcanzar el criterio de evaluación. Si necesitas leer un guion completo o el mensaje no se entiende, marca Revisión y practica de nuevo. Si no hiciste la actividad oral o la escucha requerida, marca Incompleta / no evaluada. Los días de repaso ayudan a corregir brechas, pero no aprueban automáticamente una fase.
 
 ## Fase 1 — Fundamentos y rutinas diarias (días 1–30)
 
