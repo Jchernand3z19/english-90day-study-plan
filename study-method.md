@@ -72,7 +72,3 @@ The deck's actual phrase count and content remain unverified until the user shar
 ## Level expectations
 
 A1/A2 is the estimated starting range, not a formal diagnosis. The goal is greater independence and conversational confidence. Reaching B1 or B2 in 90 days cannot be guaranteed; progress depends on starting ability, practice quality, listening exposure, and feedback. Use a recognised assessment if you need an official level.
-
-## Level expectations
-
-A1/A2 is the estimated starting range, not a formal diagnosis. The goal is greater independence and conversational confidence. Reaching B1 or B2 in 90 days cannot be guaranteed; progress depends on starting ability, practice quality, listening exposure, and feedback. Use a recognised assessment if you need an official level.
