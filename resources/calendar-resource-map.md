@@ -21,7 +21,7 @@ Estos enlaces llevan a actividades concretas con audio, ejercicios y transcripci
 
 ## Recursos gratuitos para las demás actividades del plan
 
-Anki no forma parte de esta búsqueda de recursos. El mazo existente se organizará cuando el usuario lo comparta. Esta sección cubre escucha, conversación, pronunciación, gramática funcional, vocabulario contextual y práctica profesional.
+Anki no forma parte de la búsqueda de recursos externos. El mazo ya fue inspeccionado y se preparó una copia ordenada; el usuario informa que la importó. Esta sección se centra en escucha, conversación, pronunciación, gramática funcional, vocabulario contextual y práctica profesional.
 
 | Habilidad / tipo de actividad | Recurso gratuito | Uso recomendado y límite |
 |---|---|---|
@@ -84,6 +84,6 @@ Anki no forma parte de esta búsqueda de recursos. El mazo existente se organiza
 
 Este mapa organiza recursos por semana, pero **no afirma que cada uno de los 90 días ya tenga un enlace externo único y verificado**. La fuente principal de cada día sigue siendo su lección. Durante la auditoría de contenido, cada enlace se debe validar contra el objetivo exacto del día y sustituir si no coincide.
 
-### Anki queda para después
+### Anki: estado actual y límite de la revisión
 
-La selección, revisión y reordenamiento del mazo de 1,000 frases se difiere deliberadamente. Primero se valida el plan y su calendario; después se inspecciona el deck real, se comprueba nivel/tema/duplicados/audio y se diseña una importación o etiquetado que siga la secuencia semanal. No se supone que el mazo actual ya esté ordenado ni que la automatización esté terminada.
+El archivo original de 1,000 frases ya fue inspeccionado y se preparó una copia ordenada por fase y categoría. El usuario informa que la importó y que la comprobación inicial parece correcta. Esto no demuestra que la carga diaria sea sostenible ni que las frases estén dominadas. Tras varias sesiones, registra tarjetas nuevas y repasadas, y ajusta el ritmo si se acumulan demasiadas revisiones. La organización es temática por fase/categoría; no asigna cada tarjeta a un día exacto. La automatización del calendario sigue aplazada hasta cerrar el contenido y la prueba piloto.
