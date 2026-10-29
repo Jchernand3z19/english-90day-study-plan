@@ -72,7 +72,7 @@ Los días son días calendario. Se recomienda estudiar de lunes a sábado y usar
 
 El archivo original se inspeccionó y se preparó una copia ordenada según las tres fases del plan. La copia conserva las 1,000 frases, traducciones y audios; añade etiquetas de fase y coloca primero los temas fundamentales, después la comunicación práctica y finalmente las opiniones y expresiones más complejas. Se configuró un ritmo inicial de 13 tarjetas nuevas por día activo. Esto es una propuesta de ritmo, no una medida de dominio, y puede ajustarse tras probar la carga real de repasos.
 
-Consulta el [registro de auditoría y orden de Anki](vocabulary/anki-tracker.md). La copia ordenada aún debe importarse como mazo nuevo y probarse en una sesión pequeña; no sobrescribas el original.
+Consulta el [registro de auditoría y orden de Anki](vocabulary/anki-tracker.md). El usuario informa que ya importó la copia ordenada y que la comprobación inicial parece correcta. No sobrescribas el mazo original. Tras varias sesiones, evalúa la carga de repasos y ajusta las tarjetas nuevas si es necesario.
 
 | Métrica | Valor inicial | Definición |
 |---|---:|---|
