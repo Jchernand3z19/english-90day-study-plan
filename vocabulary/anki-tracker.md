@@ -49,8 +49,8 @@ Do not mark a phrase as mastered simply because it was answered correctly once i
 
 ## Remaining decisions
 
-- Import the ordered copy as a new deck first; do not overwrite the original.
-- After the first small study session, adjust the new-card pace if the reviews feel too heavy.
+- **Import status:** the learner reports that the ordered copy is imported and appears to work; this is an initial user-reported check, not an independent verification of the Anki collection.
+- After several study sessions, review the new-card pace and accumulated reviews; adjust if the workload feels too heavy.
 - Duplicate wording was not automatically deleted because repeated phrases may have different translations or contexts.
 - No reverse Spanish-to-English card type was added, to avoid doubling the card count before the workload is piloted.
 - This is a thematic phase mapping, not a claim that each card is assigned to an exact lesson/day or that the learner has mastered any phrase.
