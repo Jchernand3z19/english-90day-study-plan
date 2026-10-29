@@ -128,7 +128,7 @@ En conversación también se evalúa si el mensaje se entiende, si la respuesta 
 
 - Progreso del plan: 0%
 - Sesiones aprobadas: 0
-- Mazo Anki: recibido e inspeccionado; copia ordenada preparada, pendiente de importar y probar
+- Mazo Anki: copia ordenada importada según el usuario; carga diaria, revisiones y dominio de frases todavía no medidos
 - Frases dominadas en el mazo: no medido; todavía no hay sesiones de repaso registradas
 - Evaluación inicial escrita: completada el 2026-10-28 (lectura 3/3; gramática/vocabulario 4/5; producción escrita intentada).
 - Nivel provisional: principiante, aproximadamente A1 por confirmar; no es una certificación MCER.
