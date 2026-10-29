@@ -26,3 +26,8 @@ Date: 2026-10-28
 
 ## Status
 The initial presentation content is complete across the audio transcript and written follow-up. The oral-production diagnostic remains **partially assessed**: recording submitted, but detailed pronunciation/fluency scoring and oral confirmation of the last two ideas remain open. Day 1 is still pending/unapproved until its actual lesson requirements and evidence rules are met.
+
+
+## File verification — 2026-10-29
+
+The two WAV attachments were verified as byte-for-byte identical (SHA-256: `b7d4805a2fc1a1f8a7e713e33aea3e078556cd2bedf11087ca345fae3bcc42a0`), each 42.25 seconds at 48 kHz, stereo, 24-bit PCM. This confirms the duplicate-file status and recording metadata only; it does not provide a reliable pronunciation, intelligibility, or fluency score. No new recording is required to preserve the baseline. A detailed acoustic assessment remains open because the current review tools do not provide a reliable way to listen to and score the stored WAV directly.
