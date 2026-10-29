@@ -3,7 +3,7 @@
 > Ruta guiada para desarrollar inglés conversacional desde una base A1/A2 hacia una comunicación más independiente. El progreso depende de la constancia y la práctica; alcanzar B1/B2 en 90 días no está garantizado.
 
 ![Study progress](https://img.shields.io/badge/Plan-0%25-lightgrey)
-![Anki status](https://img.shields.io/badge/Anki-pendiente%20de%20auditor%C3%ADa-lightgrey)
+![Anki status](https://img.shields.io/badge/Anki-mazo%20ordenado-lightgrey)
 ![Study mode](https://img.shields.io/badge/Mode-GitHub%20Web%20Only-blue)
 
 ## Objetivo
@@ -29,7 +29,7 @@ Desarrollar la capacidad de comprender y mantener conversaciones útiles en ingl
 3. Browse [all 90 daily lessons](lessons/), from Day 1 through Day 90.
 4. Use the [progress tracker](tracker.md) to record only demonstrated progress.
 5. Review the [evaluation rubric](assessments/evaluation-rubric.md) and [phase assessments](assessments/phase-assessments.md) before checkpoints.
-6. **Anki is deferred:** the existing deck will be reviewed and ordered when the user shares the file; no replacement deck is needed.
+6. **Anki:** the existing 1,000-phrase deck has been inspected and an ordered copy prepared; see the [Anki tracker](vocabulary/anki-tracker.md). It has not yet been imported or piloted.
 7. Check the [content audit log](assessments/content-audit.md) for correction status and remaining validation.
 8. Repository checks run automatically through [GitHub Actions](.github/workflows/content-validation.yml): lesson-file coverage, tracker links, and relative Markdown links.
 
@@ -68,23 +68,22 @@ Los días son días calendario. Se recomienda estudiar de lunes a sábado y usar
 | Producción oral | 15 min | Responder preguntas o representar un diálogo |
 | Evaluación y registro | 5 min | Anotar resultados, dudas y errores |
 
-## Repaso de frases y Anki (configuración pospuesta)
+## Repaso de frases y Anki
 
-El mazo de Anki no es requisito para empezar. Mientras se termina la revisión del contenido y se prueba el Día 1, repasa oralmente 5–10 frases de las lecciones actuales o anteriores. No registres tarjetas ni frases como dominadas en Anki. Después de validar el contenido y la práctica inicial, inspeccionaremos el archivo `.apkg` existente, ordenaremos las tarjetas según el plan y verificaremos el resultado. La configuración y prueba del calendario se hará al final, cuando la secuencia de estudio esté validada.
+El archivo original se inspeccionó y se preparó una copia ordenada según las tres fases del plan. La copia conserva las 1,000 frases, traducciones y audios; añade etiquetas de fase y coloca primero los temas fundamentales, después la comunicación práctica y finalmente las opiniones y expresiones más complejas. Se configuró un ritmo inicial de 13 tarjetas nuevas por día activo. Esto es una propuesta de ritmo, no una medida de dominio, y puede ajustarse tras probar la carga real de repasos.
 
-
-**Estado del mazo: pendiente de selección y auditoría.** No hay una base validada para medir frases de un deck todavía.
+Consulta el [registro de auditoría y orden de Anki](vocabulary/anki-tracker.md). La copia ordenada aún debe importarse como mazo nuevo y probarse en una sesión pequeña; no sobrescribas el original.
 
 | Métrica | Valor inicial | Definición |
 |---|---:|---|
-| Total de frases | Pendiente | Confirmar al inspeccionar el mazo real |
-| Frases estudiadas | No medido | No hay un mazo validado |
-| Frases dominadas | No medido | Se medirá tras validar el mazo y las reglas de dominio |
-| Progreso de dominio | No medido | No calcular hasta tener datos reales |
+| Frases/tarjetas en el archivo inspeccionado | 1,000 | Conteo verificado en el paquete |
+| Categorías | 41 | Categorías del mazo original |
+| Referencias de audio | 1,000; sin referencias faltantes | Verificación de nombres de archivo en el paquete |
+| Frases estudiadas | No medido | Aún no hay sesiones registradas |
+| Frases dominadas | No medido | Requiere recuperación, uso oral y repaso posterior |
+| Progreso de dominio | No medido | No se calcula sin datos reales |
 
-![Anki status](https://img.shields.io/badge/Anki-pendiente%20de%20auditor%C3%ADa-lightgrey)
-
-El indicador es manual y no se actualiza automáticamente. No se publicará un porcentaje de dominio hasta inspeccionar el mazo real.
+El indicador de dominio es manual y no se actualiza automáticamente. El orden temático no significa que las frases hayan sido estudiadas o dominadas.
 
 ## Criterios de evaluación
 
@@ -129,10 +128,10 @@ En conversación también se evalúa si el mensaje se entiende, si la respuesta 
 
 - Progreso del plan: 0%
 - Sesiones aprobadas: 0
-- Mazo Anki: existe; pendiente de recibir y ordenar
-- Frases dominadas en el mazo: no medido; no existe aún una base validada
+- Mazo Anki: recibido e inspeccionado; copia ordenada preparada, pendiente de importar y probar
+- Frases dominadas en el mazo: no medido; todavía no hay sesiones de repaso registradas
 - Evaluación inicial escrita: completada el 2026-10-28 (lectura 3/3; gramática/vocabulario 4/5; producción escrita intentada).
 - Nivel provisional: principiante, aproximadamente A1 por confirmar; no es una certificación MCER.
 - Estado del piloto inicial: la evaluación escrita está completada; también se registró una actividad externa de escucha A1 y se recibieron archivos de audio para una presentación breve. La presentación se transcribió parcialmente y dos ideas adicionales se respondieron por texto. Aún falta verificar la producción oral completa y realizar las tareas específicas de escucha y autoevaluación de `lessons/day-001.md`. El Día 01 está En progreso, no aprobado. No repetir lectura, gramática ni las tareas ya realizadas.
 
-No se mostrará un total ni porcentaje de dominio de Anki hasta inspeccionar el mazo real compartido por el usuario.
+El total de tarjetas está verificado (1,000); no se mostrará un porcentaje de dominio hasta que existan datos reales de repaso y uso oral.
