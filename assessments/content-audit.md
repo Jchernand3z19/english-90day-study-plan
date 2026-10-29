@@ -197,3 +197,6 @@ This log records corrections already made but does **not** certify that every le
 
 
 - **Assessment consistency refinement — 2026-10-29:** aligned Day 29's listening instruction with the Phase 1 rubric by requiring a one-sentence main idea plus answers to its four detail questions. Added common task-scoring dimensions to `assessments/phase-assessments.md` so points reflect task completion, message accuracy, understandable language, independence/interaction, and task-specific requirements; unattempted tasks remain Not assessed rather than receiving an invented score.
+
+
+- **Automated quality-gate finding — 2026-10-29:** the new lesson-quality validator identified that Day 79's listening task lacked an explicit rule for unperformed listening. Added a clear **Not assessed / Incomplete** rule. This demonstrates the validator catches a real consistency gap missed by the earlier broad scan; the full workflow must pass before treating this check as closed.
