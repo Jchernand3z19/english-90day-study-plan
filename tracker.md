@@ -30,7 +30,7 @@ No marques una lección como Aprobada solo porque llegó su fecha o leíste el a
 
 | Día | Tema | Estado | Evidencia / notas |
 |---:|---|---|---|
-| 01 | [Presentación personal y línea base](lessons/day-001.md) | En progreso | Diagnóstico escrito completado; actividad de escucha A1 externa registrada; muestra de presentación enviada en audio y dos ideas adicionales por texto. Falta completar/verificar las tareas específicas del Día 1 y la evidencia oral completa. |
+| 01 | [Presentación personal y línea base](lessons/day-001.md) | En progreso | Diagnóstico escrito y escucha A1 completados el 2026-10-28; grabación de presentación recibida. Dos ideas adicionales se entregaron por texto y no están confirmadas en el audio. No repetir el diagnóstico ni la presentación: verificar únicamente si quedan tareas de la lección, autoevaluación o registro sin evidencia. |
 | 02 | [Saludos y despedidas](lessons/day-002.md) | Pendiente | |
 | 03 | [Preguntas básicas para conocer a alguien](lessons/day-003.md) | Pendiente | |
 | 04 | [Información personal y deletreo](lessons/day-004.md) | Pendiente | |
