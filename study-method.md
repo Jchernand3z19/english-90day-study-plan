@@ -57,17 +57,18 @@ For role-play, tell the tutor the situation and ask it to stay in character. Req
 - If a session is missed, keep it pending and resume it later; do not automatically skip it or mark it passed.
 - If listening cannot be performed, mark it **Not assessed** rather than inventing a score.
 
-## Phrase retrieval — Anki setup deferred
+## Phrase retrieval — Anki is optional support
 
-The user already has an Anki deck; its file has not yet been shared in this workflow or inspected. Until it is provided, **do not search for or install another deck, and do not let Anki block a lesson**.
+The original 1,000-phrase deck was inspected and a separate ordered copy was prepared. The learner reports importing the ordered copy and says the initial check looks correct. The package audit is documented in [the Anki tracker](vocabulary/anki-tracker.md). This does not prove long-term workload suitability or phrase mastery.
 
-**This rule overrides older daily lessons that still mention Anki, due cards, or a 1,000-phrase deck.** For the 10-minute retrieval block in any lesson, instead:
+Anki is optional and must support—not replace—the lesson's listening, speaking, and contextual phrase use. For the 10-minute retrieval block in a lesson:
+
 1. Choose 5–10 useful phrases from the current or previous lessons.
-2. Try to say each phrase in English before looking at the notes.
-3. Use two phrases in new answers or a short role-play.
-4. Record phrases recalled without help and phrases needing review. Do not record Anki cards or claim Anki progress.
+2. Try to say each phrase before looking at the answer.
+3. Use two phrases in a new answer or short role-play.
+4. Record phrases recalled without help and phrases needing review. If Anki is used, record the actual cards reviewed/new cards separately; do not equate a correct card response with spoken mastery.
 
-The deck's actual phrase count and content remain unverified until the user shares the existing deck. Deck selection, content/level checks, duplicates, audio availability, ordering by calendar theme, and import/tagging automation are deferred until the calendar and resources are validated.
+The ordered copy is configured for 13 new cards per active study day, but this is a starting setting, not a requirement. After several sessions, reduce new cards if the review load becomes excessive. Do not automatically increase the new-card count to catch up after missed days. The package is grouped by broad phase and category, not mapped exactly to each lesson/day. Duplicate wording was retained where contexts or translations may differ; audio presence does not certify pronunciation quality or translation accuracy.
 
 ## Level expectations
 
