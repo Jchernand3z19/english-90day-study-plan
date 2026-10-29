@@ -3,7 +3,7 @@
 > Ruta guiada para desarrollar inglés conversacional desde una base A1/A2 hacia una comunicación más independiente. El progreso depende de la constancia y la práctica; alcanzar B1/B2 en 90 días no está garantizado.
 
 ![Study progress](https://img.shields.io/badge/Plan-0%25-lightgrey)
-![Anki status](https://img.shields.io/badge/Anki-mazo%20ordenado-lightgrey)
+![Anki status](https://img.shields.io/badge/Anki-importado-lightgrey)
 ![Study mode](https://img.shields.io/badge/Mode-GitHub%20Web%20Only-blue)
 
 ## Objetivo
@@ -29,7 +29,7 @@ Desarrollar la capacidad de comprender y mantener conversaciones útiles en ingl
 3. Browse [all 90 daily lessons](lessons/), from Day 1 through Day 90.
 4. Use the [progress tracker](tracker.md) to record only demonstrated progress.
 5. Review the [evaluation rubric](assessments/evaluation-rubric.md) and [phase assessments](assessments/phase-assessments.md) before checkpoints.
-6. **Anki:** the existing 1,000-phrase deck has been inspected and an ordered copy prepared; see the [Anki tracker](vocabulary/anki-tracker.md). It has not yet been imported or piloted.
+6. **Anki:** the ordered 1,000-phrase deck has been imported by the learner and the initial check looks correct based on their report. Daily workload and longer-term learning impact are not yet measured; see the [Anki tracker](vocabulary/anki-tracker.md).
 7. Check the [content audit log](assessments/content-audit.md) for correction status and remaining validation.
 8. Repository checks run automatically through [GitHub Actions](.github/workflows/content-validation.yml): lesson-file coverage, tracker links, and relative Markdown links.
 
