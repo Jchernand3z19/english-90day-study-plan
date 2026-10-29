@@ -23,7 +23,7 @@ Choose one: buy an item, order food, or ask for a service. Ask at least two ques
 Ask for directions to a place and explain a simple route. Then describe three parts of a typical day.
 
 ### Task D — Listening (20 points)
-Listen to a short beginner-level dialogue. State the main idea and answer three simple detail questions. If using a tutor-read script, do not read it before answering.
+Listen to the short beginner-level dialogue in Day 29, state the main idea, and answer its four detail questions. If using a tutor-read script, do not read it before answering. If you use a different audio clip, record its source and use three or four simple detail questions.
 
 ### Task E — Retrieval and clarification (15 points)
 Produce five phrases from the phase without looking and use one clarification phrase appropriately.
