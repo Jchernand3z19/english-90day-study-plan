@@ -1,6 +1,6 @@
 # 90-Day Progress Tracker
 
-**Estado inicial:** todas las jornadas están pendientes. No se presume que se haya completado ninguna actividad.
+**Estado actual:** ninguna jornada está aprobada. El Día 01 está en progreso porque ya hay evidencia parcial del diagnóstico; los demás días siguen pendientes. No se presume que se haya completado ninguna actividad sin evidencia.
 
 ## Resumen
 
@@ -30,7 +30,7 @@ No marques una lección como Aprobada solo porque llegó su fecha o leíste el a
 
 | Día | Tema | Estado | Evidencia / notas |
 |---:|---|---|---|
-| 01 | [Presentación personal y línea base](lessons/day-001.md) | Pendiente | |
+| 01 | [Presentación personal y línea base](lessons/day-001.md) | En progreso | Diagnóstico escrito completado; actividad de escucha A1 externa registrada; muestra de presentación enviada en audio y dos ideas adicionales por texto. Falta completar/verificar las tareas específicas del Día 1 y la evidencia oral completa. |
 | 02 | [Saludos y despedidas](lessons/day-002.md) | Pendiente | |
 | 03 | [Preguntas básicas para conocer a alguien](lessons/day-003.md) | Pendiente | |
 | 04 | [Información personal y deletreo](lessons/day-004.md) | Pendiente | |
