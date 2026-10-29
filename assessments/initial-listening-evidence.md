@@ -22,7 +22,7 @@
 - **Incorrect answered item:** 1 (question 4).
 - **Unanswered items:** 2 (questions 2 and 3).
 - **Interpretation:** the learner recognized the names with a spelling error and caught one of Cara's subjects, but confused which speaker was associated with mathematics and did not provide two answers. This is limited evidence from one short A1 audio; it is not enough by itself to certify an overall listening level.
-- **Learning status:** listening diagnostic recorded; initial assessment remains incomplete until the planned spoken-production task is assessed. This evidence does not approve Day 1.
+- **Learning status:** the listening diagnostic was completed and its submitted answers were evaluated on 2026-10-28. The later spoken-presentation recording was also submitted, so do not repeat the initial diagnostic. The listening result is limited evidence and identifies skills to practise; it does not approve Day 1 or certify an overall listening level.
 
 ## Feedback given
 
@@ -31,3 +31,8 @@
 3. Cara's subjects: **French** is correctly identified, but include both subjects when the question asks “Which subjects”.
 4. The learner left questions 2 and 3 blank; no answer was inferred or credited.
 
+
+
+## Current follow-up status — 2026-10-29
+
+The user has already completed this A1 listening activity. Do not assign the same diagnostic again. Use ordinary lesson listening practice to improve speaker-detail tracking, complete answers, and distinguishing which person said which information. A later checkpoint can measure improvement after practice; the baseline itself should remain unchanged.
