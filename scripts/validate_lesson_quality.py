@@ -32,7 +32,7 @@ def check_lessons() -> None:
         rel = path.relative_to(ROOT).as_posix()
         lines = text.splitlines()
 
-        if not re.search(rf"^# Day\s+0?{day:02,3}\b", text, re.MULTILINE):
+        if not re.search(rf"^# Day\s+{day:03}\b", text, re.MULTILINE):
             fail(f"{rel}: title does not identify Day {day:03}.")
         if not re.search(r"^\*\*Phase:\*\*.+$", text, re.MULTILINE):
             fail(f"{rel}: missing Phase metadata.")
@@ -70,7 +70,8 @@ def check_checkpoint_weights() -> None:
         if not path.is_file():
             continue
         text = path.read_text(encoding="utf-8")
-        found = [int(x) for x in re.findall(r"\((\d+)\s*points\)", text, re.IGNORECASE)]
+        task_headings = [line for line in text.splitlines() if line.startswith("## ") and re.search(r"Task [A-E]", line)]
+        found = [int(match.group(1)) for line in task_headings if (match := re.search(r"(\d+)\s*points", line, re.IGNORECASE))]
         if found != values:
             fail(f"lessons/day-{day:03}.md: task point weights {found} do not match expected {values}.")
         if sum(found) != 100:
