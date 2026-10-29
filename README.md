@@ -25,7 +25,7 @@ Desarrollar la capacidad de comprender y mantener conversaciones útiles en ingl
 0. Open the [free resource directory](resources/README.md) and the [daily resource index for all 90 lessons](resources/daily-resource-index.md) to choose resources by topic.
 
 1. [Read the study method](study-method.md) and how to practice with an AI tutor.
-2. [Review Day 1](lessons/day-001.md): the initial written, listening, and spoken-presentation diagnostic evidence from 2026-10-28 is already recorded. Do not repeat those baseline tests; complete only any Day 1 lesson components that still lack evidence, and do not mark the lesson approved until its requirements are met.
+2. [Review Day 1](lessons/day-001.md): the initial written diagnostic is recorded in [its evidence file](assessments/initial-written-evidence.md); the separate British Council A1 listening diagnostic and spoken-presentation sample are also documented. Do not repeat those baseline tests. They do **not** prove that the lesson's own Alex listening dialogue or all other Day 1 practice was completed; complete only components that still lack evidence and do not approve the lesson until its requirements are met.
 3. Browse [all 90 daily lessons](lessons/), from Day 1 through Day 90.
 4. Use the [progress tracker](tracker.md) to record only demonstrated progress.
 5. Review the [evaluation rubric](assessments/evaluation-rubric.md) and [phase assessments](assessments/phase-assessments.md) before checkpoints.
