@@ -4,7 +4,7 @@ on:
   push:
     paths:
       - "**.md"
-      - "scripts/validate_study_plan.py"
+      - "scripts/*.py"
       - ".github/workflows/content-validation.yml"
   pull_request:
     paths:
@@ -28,3 +28,5 @@ jobs:
           python-version: "3.12"
       - name: Validate lesson and tracker coverage and internal Markdown links
         run: python scripts/validate_study_plan.py
+      - name: Validate lesson structure, listening evidence cues, and checkpoint weights
+        run: python scripts/validate_lesson_quality.py
