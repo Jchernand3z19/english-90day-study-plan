@@ -48,9 +48,11 @@ Consulta [British Council A1–A2 Grammar](https://learnenglish.britishcouncil.o
 
 Para situaciones profesionales, revisa [British Council Business English](https://learnenglish.britishcouncil.org/business-english) y el catálogo [BBC Learning English](https://www.bbc.co.uk/learningenglish). Comprueba el nivel antes de usar un material, porque parte del contenido es más avanzado.
 
-### Anki — el mazo ya existe; ordenar después
+### Anki — mazo importado y uso opcional
 
-No hace falta buscar ni crear otro mazo. Cuando el usuario comparta su deck, se revisará el contenido real y se organizarán las frases según los temas y la secuencia de las 90 lecciones. Hasta entonces, Anki no debe distraer de la validación de los recursos para las demás actividades.
+El mazo original de 1.000 frases fue inspeccionado y se preparó una copia ordenada por fases y categorías. El usuario informa que importó la copia y que la comprobación inicial parece correcta. Consulta el [registro de Anki](../vocabulary/anki-tracker.md) para ver el alcance de la revisión.
+
+No busques ni crees otro mazo. Anki es apoyo opcional: utiliza algunas frases en respuestas propias y role-plays, y mantén la escucha y la producción oral como actividades centrales. La copia está configurada para 13 tarjetas nuevas por día activo como punto de partida; si los repasos acumulados resultan pesados, reduce las nuevas tarjetas. Todavía no se ha medido la carga real ni el dominio de las frases.
 
 ## Cómo registrar un recurso
 
