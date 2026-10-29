@@ -11,6 +11,18 @@ Use these assessments after practising the corresponding phase. They measure pra
 - Suggested passing score: at least 80% overall, with all tasks attempted and the main message understandable.
 - If not passed, mark **Review**, identify the weakest skills, and retry similar tasks after targeted practice. Do not invent a score or claim a task was completed when it was not.
 
+## How to assign task points consistently
+
+Use the maximum points printed beside each task; do not change weights after seeing a response.
+
+- **20-point task:** score four dimensions from 0–5: completion of the stated requirements, accuracy/relevance of the message, understandable language, and independence/interaction.
+- **25-point task:** score those four dimensions from 0–5, plus one task-specific dimension from 0–5 (for example, sequencing a story or asking relevant follow-up questions).
+- **15-point task:** score three task-specific dimensions from 0–5, chosen from the requirements printed in that task (for listening, these may be main idea, detail accuracy, and appropriate clarification/repair when required).
+- **Not attempted / not actually heard:** record **Not assessed**, not a performance score. If any required task is Not assessed, the checkpoint is **Incomplete** even if the remaining numeric subtotal is high.
+- Minor grammar errors should reduce the score only when they affect the task requirement or meaning. Do not penalize a beginner for not sounding native; score understandable communication and the target skill.
+
+Record one piece of evidence for each score. When evidence is too limited to justify a precise number, use a score range in the notes and keep the task **Not assessed** until a fair evaluation is possible.
+
 ## Phase 1 — Day 29: Foundations and daily life
 
 ### Task A — Personal introduction (20 points)
