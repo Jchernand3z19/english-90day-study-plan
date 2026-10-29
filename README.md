@@ -31,6 +31,7 @@ Desarrollar la capacidad de comprender y mantener conversaciones útiles en ingl
 5. Review the [evaluation rubric](assessments/evaluation-rubric.md) and [phase assessments](assessments/phase-assessments.md) before checkpoints.
 6. **Anki is deferred:** the existing deck will be reviewed and ordered when the user shares the file; no replacement deck is needed.
 7. Check the [content audit log](assessments/content-audit.md) for correction status and remaining validation.
+8. Repository checks run automatically through [GitHub Actions](.github/workflows/content-validation.yml): lesson-file coverage, tracker links, and relative Markdown links.
 
 ## Progress at your own pace
 
