@@ -132,6 +132,6 @@ En conversación también se evalúa si el mensaje se entiende, si la respuesta 
 - Frases dominadas en el mazo: no medido; no existe aún una base validada
 - Evaluación inicial escrita: completada el 2026-10-28 (lectura 3/3; gramática/vocabulario 4/5; producción escrita intentada).
 - Nivel provisional: principiante, aproximadamente A1 por confirmar; no es una certificación MCER.
-- Pendiente para completar la línea base: escucha con audio no visto previamente y producción oral en voz alta. No repetir las partes escritas ya completadas.
+- Estado del piloto inicial: la evaluación escrita está completada; también se registró una actividad externa de escucha A1 y se recibieron archivos de audio para una presentación breve. La presentación se transcribió parcialmente y dos ideas adicionales se respondieron por texto. Aún falta verificar la producción oral completa y realizar las tareas específicas de escucha y autoevaluación de `lessons/day-001.md`. El Día 01 está En progreso, no aprobado. No repetir lectura, gramática ni las tareas ya realizadas.
 
 No se mostrará un total ni porcentaje de dominio de Anki hasta inspeccionar el mazo real compartido por el usuario.
