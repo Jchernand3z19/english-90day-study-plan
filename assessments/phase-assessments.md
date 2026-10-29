@@ -17,7 +17,7 @@ Use the maximum points printed beside each task; do not change weights after see
 
 - **20-point task:** score four dimensions from 0–5: completion of the stated requirements, accuracy/relevance of the message, understandable language, and independence/interaction.
 - **25-point task:** score those four dimensions from 0–5, plus one task-specific dimension from 0–5 (for example, sequencing a story or asking relevant follow-up questions).
-- **15-point task:** score three task-specific dimensions from 0–5, chosen from the requirements printed in that task (for listening, these may be main idea, detail accuracy, and appropriate clarification/repair when required).
+- **15-point task:** score three task-specific dimensions from 0–5, chosen from the requirements printed in that task. For a listening task, use main idea, detail accuracy, and completeness of answers; assess clarification/repair only when that task explicitly requires it.
 - **Not attempted / not actually heard:** record **Not assessed**, not a performance score. If any required task is Not assessed, the checkpoint is **Incomplete** even if the remaining numeric subtotal is high.
 - Minor grammar errors should reduce the score only when they affect the task requirement or meaning. Do not penalize a beginner for not sounding native; score understandable communication and the target skill.
 
