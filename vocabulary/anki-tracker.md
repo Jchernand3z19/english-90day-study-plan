@@ -30,7 +30,7 @@ Cards are positioned sequentially by phase and category, preserving the original
 
 ## Files prepared
 
-- Ordered deck: `1000_frases_ingles_ordenado_90_dias.apkg` (created as a separate download; not automatically imported into the user's Anki collection).
+- Ordered deck: `1000_frases_ingles_ordenado_90_dias.apkg` (created as a separate download; the learner reports importing it and says the initial check looks correct).
 - Order manifest: `guia_orden_anki_90_dias.csv`, with position, phase, category, English phrase, Spanish translation, and audio reference.
 - Audit report: `auditoria_anki_1000_frases.md`.
 
@@ -45,7 +45,7 @@ Do not mark a phrase as mastered simply because it was answered correctly once i
 
 | Date | Cards reviewed | New cards | Phrases recalled | Phrases used in speech | Notes |
 |---|---:|---:|---:|---:|---|
-| — | Not measured | Not measured | Not measured | Not measured | Deck inspected and ordered; learner has not yet reported importing or reviewing the revised copy |
+| 2026-10-29 | Not measured | Not measured | Not measured | Not measured | Learner reports importing the ordered deck and says it appears correct; workload and review outcomes not yet measured |
 
 ## Remaining decisions
 
