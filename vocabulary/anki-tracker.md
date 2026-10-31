@@ -54,3 +54,7 @@ Do not mark a phrase as mastered simply because it was answered correctly once i
 - Duplicate wording was not automatically deleted because repeated phrases may have different translations or contexts.
 - No reverse Spanish-to-English card type was added, to avoid doubling the card count before the workload is piloted.
 - This is a thematic phase mapping, not a claim that each card is assigned to an exact lesson/day or that the learner has mastered any phrase.
+
+## Manifest validation and thematic lesson map — 2026-10-31
+
+Re-read the available `guia_orden_anki_90_dias.csv` manifest programmatically. It contains 1,000 records, with 340 / 355 / 305 phrases across the three phase tags and 41 categories. All eight columns are populated; note IDs are unique; 1,000 audio references are listed. Ten English phrase pairs (20 rows) repeat across different categories/phases and remain intentionally preserved pending context review. This verifies the CSV manifest, not the live Anki collection or the audio content/quality. Created [Anki-to-lesson thematic map](anki-lesson-map.md), which associates every category with relevant lesson topics. It is thematic, not an exact card-per-day assignment. Audio listening/quality review and exact card-to-lesson selection remain open.
