@@ -213,3 +213,10 @@ The first-week beginner sequence was reworked after the 2026-10-29 voice pilot e
 - Reduced the Phase 1 Day 29 introduction task to a short, scaffolded 20–30 second introduction; sentence frames and thinking pauses are acceptable.
 
 This is a targeted correction, not completion of the full audit. Days 8–30 still require a day-by-day pedagogical review for level, sequencing, new-language load, task demands, and assessment fit. The 90-day audit, rendering review, and real learner pilot remain open. Day 1 remains unapproved until the corrected lesson is actually completed.
+
+
+### Phase 1 day-by-day beginner workload pass — 2026-10-30
+
+A targeted pass was completed across Days 1–30 after the pilot mismatch. Days 1–7 were rebuilt with an explicit sequence from short sentence frames to a supported exchange. Days 8–13 now use smaller phrase-retrieval sets and one-step or modelled everyday role-plays. Days 15–20 now introduce directions and transport in smaller chunks rather than requiring multi-step routes, comparisons, and role switching immediately. Days 22–27 now build routine and frequency language from one or two model sentences toward a short connected description. Review days 14, 21, and 28 now use a smaller retrieval load. Day 29's introduction task is shorter and permits sentence frames and thinking pauses.
+
+**Remaining Phase 1 review:** verify every listening dialogue's vocabulary against the phrases taught that day and earlier; inspect the grammar explanations and answer keys; confirm every lesson's section timing totals; check the revised Day 29 rubric against the exact task demands; and complete a rendered Markdown review. This pass corrected obvious production-load mismatches but does not certify every translation, audio script, or pedagogical choice. The learner has not yet piloted the corrected sequence, so no lesson is approved by these edits.
