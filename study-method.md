@@ -83,3 +83,18 @@ The ordered copy is configured for 13 new cards per active study day, but this i
 ## Level expectations
 
 A1/A2 is the estimated starting range, not a formal diagnosis. The goal is greater independence and conversational confidence. Reaching B1 or B2 in 90 days cannot be guaranteed; progress depends on starting ability, practice quality, listening exposure, and feedback. Use a recognised assessment if you need an official level.
+
+
+## Integrated listening, pronunciation, and speaking
+
+The complete learning architecture and audit criteria are in [Integrated learning architecture](learning-architecture.md). Apply these rules to every phase:
+
+- Teach listening recognition, pronunciation, and spontaneous speaking as related but separately assessed abilities.
+- For selected useful phrases, connect meaning/form, listening recognition, noticing spoken features, imitation, guided response, and transfer to a new context.
+- Progressively teach connected speech, word boundaries, weak forms, reductions, stress, rhythm, intonation, sound contrasts, chunking, and conversational repair—not contractions alone.
+- Use standard written forms in Anki. Explain pronunciation separately; never rewrite cards with invented phonetic spelling.
+- Reuse previous lesson language in new contexts. A completed lesson does not mean every phrase is consolidated.
+- Keep mastery states separate: Introduced, In practice, Consolidated. A lesson may be complete while a skill remains In practice.
+- Map only a manageable, relevant subset of Anki phrases to each lesson. Do not create a parallel Anki curriculum or equate card recall with listening/speaking ability.
+- Use actual audio for listening evidence. Record the source accurately; reading text or repeating a tutor model is not proof of listening comprehension. If audio is unavailable, listening remains Not assessed.
+- Do not claim that all 90 lessons or the Anki audio are aligned until the documented audit has been completed.
