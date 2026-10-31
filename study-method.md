@@ -51,6 +51,12 @@ Suggested prompt:
 
 For role-play, tell the tutor the situation and ask it to stay in character. Request feedback after the exchange so the conversation can flow.
 
+## Pilot incident and non-negotiable lesson fidelity
+
+On 2026-10-29, a voice practice was run with an improvised dialogue about Alex looking for a data-analysis job. That was not the dialogue or task in the assigned Day 1 lesson. The learner found the exercise too difficult and stopped after three items. This activity is not valid Day 1 completion, listening evidence, a diagnostic score, or proof of failure on the actual lesson. Do not score or generalise from it.
+
+The repository's Day 1 was subsequently rewritten as a beginner lesson with three sentence frames (name, country, city), a short four-sentence listening text about Alex, and three simple comprehension questions. Future tutoring must open the current lesson file first, use its exact language and task sequence, and never improvise a replacement dialogue. Teach/model before asking the learner to produce language; use one question at a time. If the assigned audio cannot actually be heard, mark listening **Not assessed** rather than pretending text was audio.
+
 ## Evidence and honesty
 
 - Record only work that actually happened.
