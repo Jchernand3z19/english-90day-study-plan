@@ -135,3 +135,7 @@ En conversación también se evalúa si el mensaje se entiende, si la respuesta 
 - Estado del piloto inicial: la evaluación escrita está completada; también se registró una actividad externa de escucha A1 y se recibieron archivos de audio para una presentación breve. La presentación se transcribió parcialmente y dos ideas adicionales se respondieron por texto. Aún falta verificar la producción oral completa y realizar las tareas específicas de escucha y autoevaluación de `lessons/day-001.md`. El Día 01 está En progreso, no aprobado. No repetir lectura, gramática ni las tareas ya realizadas.
 
 El total de tarjetas está verificado (1,000); no se mostrará un porcentaje de dominio hasta que existan datos reales de repaso y uso oral.
+
+## Latest audit
+
+- [Natural conversation audit (2026-10-31)](assessments/natural-conversation-audit-2026-10-31.md)
