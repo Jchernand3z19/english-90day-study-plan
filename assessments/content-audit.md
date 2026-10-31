@@ -1,7 +1,7 @@
 # Content Audit and Correction Log
 
 **Audit status:** In progress  
-**Last updated:** 2026-10-29  
+**Last updated:** 2026-10-30  
 **Scope:** lesson alignment, conversation practice, listening evidence, timing, progression rules, and assessment consistency.
 
 ## Learning decisions
@@ -220,3 +220,19 @@ This is a targeted correction, not completion of the full audit. Days 8–30 sti
 A targeted pass was completed across Days 1–30 after the pilot mismatch. Days 1–7 were rebuilt with an explicit sequence from short sentence frames to a supported exchange. Days 8–13 now use smaller phrase-retrieval sets and one-step or modelled everyday role-plays. Days 15–20 now introduce directions and transport in smaller chunks rather than requiring multi-step routes, comparisons, and role switching immediately. Days 22–27 now build routine and frequency language from one or two model sentences toward a short connected description. Review days 14, 21, and 28 now use a smaller retrieval load. Day 29's introduction task is shorter and permits sentence frames and thinking pauses.
 
 **Remaining Phase 1 review:** verify every listening dialogue's vocabulary against the phrases taught that day and earlier; inspect the grammar explanations and answer keys; confirm every lesson's section timing totals; check the revised Day 29 rubric against the exact task demands; and complete a rendered Markdown review. This pass corrected obvious production-load mismatches but does not certify every translation, audio script, or pedagogical choice. The learner has not yet piloted the corrected sequence, so no lesson is approved by these edits.
+
+
+### Phase 2 progression pass — 2026-10-30
+
+Reviewed and adjusted the Phase 2 production load across Days 31–59:
+- Days 31–36 now introduce travel planning, hotel requests, airport questions, date confirmation, and check-in through one or two modelled requests at a time. Longer multi-detail role-plays and role switching are optional extensions.
+- Days 38–43 now build past-tense narration from one or two past actions toward a short connected story; early tasks no longer demand a 45–90 second story before the learner has practised the forms.
+- Days 45–50 now practise one problem/request/solution at a time instead of combining multiple scenarios or requiring several alternatives at once.
+- Days 52–58 now build social conversation gradually: shorter practice exchanges, fewer mandatory follow-up questions, and optional role switching.
+- Day 59 and the Phase 2 assessment rubric now use a 45–60 second story and an approximately two-minute guided conversation with two follow-up questions. The scoring weights remain unchanged at 100 points.
+
+### Phase 3 review — 2026-10-30
+
+Reviewed lesson objectives and speaking demands across Days 61–90. The phase is intentionally more demanding (opinions, reasons, disagreement, extended conversation, professional communication, interviews, summaries, and repair strategies). It should only be attempted after the Phase 2 mastery checkpoint is passed; otherwise the learner should remain in targeted Phase 2 review. Some tasks require 3–5 minute discussions or longer professional exchanges, which are appropriate as advanced targets but are not a promise that the learner will reach them within 90 calendar days. The final assessment remains evidence-based and must not be used to claim an official CEFR level.
+
+**Audit boundary:** structural CI checks pass, but a complete line-by-line verification of every translation, listening script, grammar explanation, answer key, external resource, and rendered GitHub page has not been completed. The corrected curriculum still needs a learner pilot before any learning outcome or lesson approval can be claimed.
