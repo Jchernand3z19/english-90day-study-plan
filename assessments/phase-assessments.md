@@ -26,7 +26,7 @@ Record one piece of evidence for each score. When evidence is too limited to jus
 ## Phase 1 — Day 29: Foundations and daily life
 
 ### Task A — Personal introduction (20 points)
-Speak for 45–60 seconds. Include your name, where you are from, where you live, work or daily activity, one interest, and why you are learning English.
+Give a short introduction of about 20–30 seconds using four or five simple sentences. Include your name, where you are from, where you live, one daily activity or work detail, and one interest or reason for learning English. Sentence frames and brief thinking pauses are acceptable; do not require an unsupported speech.
 
 ### Task B — Everyday role-play (25 points)
 Choose one: buy an item, order food, or ask for a service. Ask at least two questions and make one polite request.
