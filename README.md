@@ -139,3 +139,7 @@ El total de tarjetas está verificado (1,000); no se mostrará un porcentaje de 
 ## Latest audit
 
 - [Natural conversation audit (2026-10-31)](assessments/natural-conversation-audit-2026-10-31.md)
+
+## Vocabulary
+
+- [Anki-to-lesson thematic map](vocabulary/anki-lesson-map.md)
