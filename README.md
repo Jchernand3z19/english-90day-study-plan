@@ -25,12 +25,12 @@ Desarrollar la capacidad de comprender y mantener conversaciones útiles en ingl
 0. Open the [free resource directory](resources/README.md) and the [daily resource index for all 90 lessons](resources/daily-resource-index.md) to choose resources by topic.
 
 1. [Read the study method](study-method.md) and how to practice with an AI tutor.
-2. [Review Day 1](lessons/day-001.md): the initial written diagnostic is recorded in [its evidence file](assessments/initial-written-evidence.md); the separate British Council A1 listening diagnostic and spoken-presentation sample are also documented. Do not repeat those baseline tests. They do **not** prove that the lesson's own Alex listening dialogue or all other Day 1 practice was completed; complete only components that still lack evidence and do not approve the lesson until its requirements are met.
+2. [Review Day 1](lessons/day-001.md): the initial written diagnostic, separate British Council A1 listening diagnostic, and spoken-presentation sample are documented in [their evidence files](assessments/). Do not repeat those baseline tests. The 2026-10-29 improvised voice exercise used a dialogue that was not the assigned lesson and is explicitly invalid as Day 1 completion or assessment evidence. The corrected Day 1 now teaches three sentence frames and a short, separate listening text; it remains pending until completed.
 3. Browse [all 90 daily lessons](lessons/), from Day 1 through Day 90.
 4. Use the [progress tracker](tracker.md) to record only demonstrated progress.
 5. Review the [evaluation rubric](assessments/evaluation-rubric.md) and [phase assessments](assessments/phase-assessments.md) before checkpoints.
 6. **Anki:** the ordered 1,000-phrase deck has been imported by the learner and the initial check looks correct based on their report. Daily workload and longer-term learning impact are not yet measured; see the [Anki tracker](vocabulary/anki-tracker.md).
-7. Check the [content audit log](assessments/content-audit.md) for correction status and remaining validation.
+7. Check the [content audit log](assessments/content-audit.md) and the [current project status](PROJECT-STATUS.md) for completed work, known limitations, and next priorities.
 8. Repository checks run automatically through [GitHub Actions](.github/workflows/content-validation.yml): lesson-file coverage, tracker links, and relative Markdown links.
 
 ## Progress at your own pace
