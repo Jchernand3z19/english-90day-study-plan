@@ -1,5 +1,7 @@
 # 90-Day Progress Tracker
 
+Consulta el [estado consolidado del proyecto](PROJECT-STATUS.md) y el [registro de auditoría](assessments/content-audit.md) para conocer las correcciones y tareas pendientes.
+
 **Estado actual:** ninguna jornada está aprobada. El Día 01 sigue pendiente: los diagnósticos iniciales son evidencia separada y la nueva lección guiada aún no se ha completado. No se presume que se haya completado ninguna actividad sin evidencia.
 
 ## Resumen
@@ -30,7 +32,7 @@ No marques una lección como Aprobada solo porque llegó su fecha o leíste el a
 
 | Día | Tema | Estado | Evidencia / notas |
 |---:|---|---|---|
-| 01 | [Presentación personal con frases guiadas](lessons/day-001.md) | Pendiente | Diagnósticos iniciales registrados por separado ([evidencia](assessments/initial-written-evidence.md)); evaluación auditiva externa British Council A1 completada ([evidencia](assessments/initial-listening-evidence.md)); muestra de presentación recibida ([evidencia](assessments/initial-speaking-text-evidence.md)). No repetir estas pruebas. La escucha breve y las actividades guiadas de la nueva lección todavía no tienen evidencia de finalización. Dos ideas adicionales se entregaron por texto y no están confirmadas en el audio. |
+| 01 | [Presentación personal con frases guiadas](lessons/day-001.md) | Pendiente | Diagnósticos iniciales registrados por separado ([evidencia](assessments/initial-written-evidence.md)); evaluación auditiva externa British Council A1 completada ([evidencia](assessments/initial-listening-evidence.md)); muestra de presentación recibida ([evidencia](assessments/initial-speaking-text-evidence.md)). No repetir estas pruebas. El ejercicio de voz del 2026-10-29 usó un diálogo improvisado distinto al de la lección y no cuenta como escucha, práctica ni evaluación del Día 1 ([incidente y corrección](assessments/voice-pilot-incident-2026-10-29.md)). La versión corregida (tres frases modelo y escucha breve) aún no se ha completado. Dos ideas adicionales se entregaron por texto y no están confirmadas en el audio. |
 | 02 | [Saludos y despedidas](lessons/day-002.md) | Pendiente | |
 | 03 | [Preguntas básicas para conocer a alguien](lessons/day-003.md) | Pendiente | |
 | 04 | [Información personal y deletreo](lessons/day-004.md) | Pendiente | |
