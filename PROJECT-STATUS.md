@@ -114,3 +114,21 @@ The intended configuration previously selected is Monday–Saturday, 19:00–20:
 - [Phase assessments](assessments/phase-assessments.md)
 - [Anki audit and study order](vocabulary/anki-tracker.md)
 - [Daily resource index](resources/daily-resource-index.md)
+
+
+## Integrated spoken-English architecture — 2026-10-31
+
+A new [integrated learning architecture](learning-architecture.md) defines how the 90-day lessons, Anki, audio, speaking practice, assessments, and tracker must work as one cumulative system. It expands the listening/speaking scope beyond contractions to connected speech, word boundaries, weak forms, reductions, stress, rhythm, intonation, sound contrasts, speech rate, chunking, automatic retrieval, conversational turn-taking, clarification, and repair.
+
+**This is a requirements/design update, not a claim that implementation is complete.** The ordered Anki deck remains unchanged. The existence of 1,000 audio references does not establish that every recording has been checked or mapped to lessons.
+
+### What remains
+1. Audit all 90 lesson files against the architecture's per-lesson traceability checklist.
+2. Map relevant Anki phrases/cards to lesson objectives and earlier-language retrieval.
+3. Sample and quality-check Anki audio and lesson audio for exact phrase match, clarity, accent, naturalness, and level.
+4. Identify missing links between listening, pronunciation, guided speaking, and new-context transfer.
+5. Make targeted corrections only where evidence shows a gap.
+6. Pilot corrected Day 1 and record listening, pronunciation, and spontaneous speaking separately.
+7. Update tracking/validation so lesson completion is distinct from phrase/skill mastery.
+
+The corrected Day 1 pilot remains pending; calendar automation remains deferred. No lesson is approved yet.
