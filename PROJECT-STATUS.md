@@ -83,7 +83,7 @@ The intended configuration previously selected is Monday–Saturday, 19:00–20:
 ## Repository validation and remaining limits
 
 - GitHub Actions validation checks lesson/tracker coverage, internal relative Markdown links, lesson structure, listening evidence cues, and checkpoint weights.
-- The latest confirmed successful run at the time of this update is [41169429181](https://github.com/Jchernand3z19/english-90day-study-plan/actions/runs/41169429181). Both validation steps passed.
+- The latest confirmed successful run after this documentation consolidation is [41171624066](https://github.com/Jchernand3z19/english-90day-study-plan/actions/runs/41171624066). Both validation steps passed. An earlier run during this documentation update briefly failed because README linked to the assessments directory rather than a specific file; the link was corrected and the subsequent run passed.
 - Automated structural checks do not prove that every lesson is pedagogically sound, every translation/answer key is correct, every external link is live, or GitHub renders every page correctly.
 - A full rendered-page review and exhaustive external URL check remain open.
 - All 90 lesson files and tracker links exist; this is coverage, not quality approval.
