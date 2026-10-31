@@ -1,7 +1,7 @@
 # Content Audit and Correction Log
 
 **Audit status:** In progress  
-**Last updated:** 2026-10-30  
+**Last updated:** 2026-10-31  
 **Scope:** lesson alignment, conversation practice, listening evidence, timing, progression rules, and assessment consistency.
 
 ## Learning decisions
@@ -236,3 +236,59 @@ Reviewed and adjusted the Phase 2 production load across Days 31–59:
 Reviewed lesson objectives and speaking demands across Days 61–90. The phase is intentionally more demanding (opinions, reasons, disagreement, extended conversation, professional communication, interviews, summaries, and repair strategies). It should only be attempted after the Phase 2 mastery checkpoint is passed; otherwise the learner should remain in targeted Phase 2 review. Some tasks require 3–5 minute discussions or longer professional exchanges, which are appropriate as advanced targets but are not a promise that the learner will reach them within 90 calendar days. The final assessment remains evidence-based and must not be used to claim an official CEFR level.
 
 **Audit boundary:** structural CI checks pass, but a complete line-by-line verification of every translation, listening script, grammar explanation, answer key, external resource, and rendered GitHub page has not been completed. The corrected curriculum still needs a learner pilot before any learning outcome or lesson approval can be claimed.
+
+
+## Consolidated update — 2026-10-31
+
+This section supersedes earlier status statements where they conflict. The historical entries above are retained as an audit trail; they should not be read as claiming that the full 90-lesson pedagogical audit is complete.
+
+### 1. Voice pilot incident and Day 1 correction
+
+On 2026-10-29, the tutor used an improvised dialogue about Alex seeking a data-analysis job instead of following the assigned Day 1 lesson. The learner found the task difficult and stopped after three items. Because the wrong dialogue and unsupported production demands were used, this attempt is **not** valid Day 1 completion, listening evidence, a diagnostic score, or evidence that the learner failed the actual lesson. The incident and corrective action are documented in [voice-pilot-incident-2026-10-29.md](voice-pilot-incident-2026-10-29.md).
+
+Day 1 was rebuilt as a short beginner lesson with three personal sentence frames, a four-sentence listening text, three simple comprehension questions, and supported repetition/production. The baseline written diagnostic, external British Council A1 listening diagnostic, and spoken-presentation sample remain separate evidence; do not repeat them. Day 1 remains Pending until the corrected lesson is actually completed.
+
+### 2. Phase 1 workload and sequence corrections
+
+A targeted beginner-level correction pass was applied across Days 1–30:
+- Days 1–7: rebuilt the first-week sequence from short sentence frames and greetings toward a supported exchange; removed unsupported long introductions and premature open-ended production.
+- Days 8–13: reduced phrase retrieval volume and split shopping, clothing, café, restaurant, and service scenarios into modelled steps.
+- Days 15–20: simplified directions and transport into short instructions and one-question exchanges instead of requiring multi-step routes, comparisons, and role switching immediately.
+- Days 22–27: simplified routines, frequency, interests, and daily activities so learners build from one or two model sentences toward short connected output.
+- Review days 14, 21, and 28: reduced retrieval expectations and kept review as practice, not automatic approval.
+- Day 29: reduced the checkpoint introduction to approximately 20–30 seconds, with four or five simple sentences, sentence frames, and thinking pauses accepted.
+
+This was a workload and sequencing correction pass, not a complete verification of every translation, grammar explanation, listening answer key, or timing total in Phase 1. Those checks remain open.
+
+### 3. Phase 2 corrections
+
+A targeted progression pass was applied across Days 31–59:
+- Days 31–36: travel planning, hotel reservations, airport questions, date confirmation, and check-in now start with one or two modelled requests; multi-detail role-plays and role switching are optional extensions.
+- Days 38–43: past-event narration builds from one or two past actions toward a short connected story.
+- Days 45–50: service and problem-solving tasks focus on one problem/request/solution at a time; multiple alternatives are optional extensions.
+- Days 52–58: social conversation uses shorter practice exchanges and fewer mandatory follow-up questions.
+- Day 59 and the Phase 2 assessment rubric now expect a 45–60 second story and an approximately two-minute guided conversation with two relevant follow-up questions. Assessment weights remain 100 points.
+
+The Phase 2 pass is targeted; every dialogue, grammar point, translation, answer key, and external resource has not been individually certified.
+
+### 4. Phase 3 status
+
+Days 61–90 were reviewed for objectives and speaking demands. Phase 3 intentionally includes opinions, reasons, disagreement, extended conversation, idioms, phrasal verbs, networking, meetings, interviews, summaries, and conversation-repair strategies. It is only appropriate after the Phase 2 mastery checkpoint is passed. Longer 3–5 minute and professional exchanges are advanced targets, not a guarantee of reaching that ability within 90 calendar days. Existing sample and content-level corrections are retained in the historical audit entries; no complete all-90 certification is claimed.
+
+### 5. Study method, resources, and Anki
+
+- The tutor must follow the exact current lesson file, ask one question at a time, teach/model before requesting independent production, and give concise Spanish explanations/corrections followed by a retry.
+- The daily resource index now identifies the Day 1 British Council speaking resource as optional modelling only; it is not a repeat diagnostic. The corrected lesson's internal listening text is the Day 1 listening task.
+- The 1,000-phrase deck was inspected; a separate ordered copy was prepared with phase tags (340 / 355 / 305 phrases), all 1,000 audio references present in the package map, and 13 new cards per active day as a configurable starting pace. The learner reports importing it and says the initial check looked correct. Live collection state, actual review burden, retention, and spoken transfer remain unmeasured. Do not re-import or overwrite the original deck.
+
+### 6. Tracker and learner evidence
+
+The tracker remains at 0/90 approved. Day 1 remains Pending. Existing initial diagnostics are preserved in separate files and must not be repeated. The two supplemental personal statements from the initial presentation were submitted in text and are not confirmed as spoken in the audio. No pronunciation/fluency score is claimed from the duplicate WAV attachments.
+
+### 7. Automation and validation
+
+The GitHub Actions workflow checks lesson/tracker coverage, internal Markdown links, lesson structure, listening evidence cues, and checkpoint weights. The last confirmed successful run before this documentation consolidation was [41169429181](https://github.com/Jchernand3z19/english-90day-study-plan/actions/runs/41169429181), with both validation steps passing. A new run should be checked after this documentation update. These checks do not verify every pedagogical decision, every translation/answer key, every external URL, or rendered GitHub presentation.
+
+The full rendered-page review, exhaustive external URL check, and systematic lesson-by-lesson verification of all 90 lessons remain incomplete. Calendar automation is intentionally deferred. The planned configuration remains Monday–Saturday, 19:00–20:00 Honduras time, email-only notifications, and Google Calendar API via GitHub Actions; earlier attempts 40702109512 and 40702400684 failed with exit code 2 and are not claimed as fixed. Missed sessions must remain pending, never auto-skipped or auto-approved.
+
+For a concise current view, see [PROJECT-STATUS.md](../PROJECT-STATUS.md).
