@@ -295,3 +295,5 @@ For a concise current view, see [PROJECT-STATUS.md](../PROJECT-STATUS.md).
 
 
 - **Integrated listening/speaking architecture — 2026-10-31:** created [learning-architecture.md](../learning-architecture.md) and updated the study method. The requirements now cover connected speech, word boundaries, weak forms, reductions, stress, rhythm, intonation, sound contrasts, speech rate, chunking, automatic retrieval, and conversational interaction/repair, in addition to contractions. The architecture makes Anki, audio, lessons, speaking, assessment, and tracking one cumulative system and separates lesson completion from mastery states (Introduced / In practice / Consolidated). This is a design decision only. The existing ordered deck was not modified. The 1,000 audio references have not been individually quality-checked or aligned to all 90 lessons. Outstanding work: day-by-day traceability audit, Anki phrase mapping, audio sampling/quality review, targeted lesson corrections, and corrected Day 1 pilot. Do not claim implementation or full alignment until those checks are completed.
+
+undefined
