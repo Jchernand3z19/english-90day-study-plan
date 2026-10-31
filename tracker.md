@@ -1,6 +1,6 @@
 # 90-Day Progress Tracker
 
-**Estado actual:** ninguna jornada está aprobada. El Día 01 está en progreso porque ya hay evidencia parcial del diagnóstico; los demás días siguen pendientes. No se presume que se haya completado ninguna actividad sin evidencia.
+**Estado actual:** ninguna jornada está aprobada. El Día 01 sigue pendiente: los diagnósticos iniciales son evidencia separada y la nueva lección guiada aún no se ha completado. No se presume que se haya completado ninguna actividad sin evidencia.
 
 ## Resumen
 
@@ -30,11 +30,11 @@ No marques una lección como Aprobada solo porque llegó su fecha o leíste el a
 
 | Día | Tema | Estado | Evidencia / notas |
 |---:|---|---|---|
-| 01 | [Presentación personal y línea base](lessons/day-001.md) | En progreso | Diagnóstico escrito registrado ([evidencia](assessments/initial-written-evidence.md)); evaluación auditiva externa British Council A1 completada ([evidencia](assessments/initial-listening-evidence.md)); muestra de presentación recibida ([evidencia](assessments/initial-speaking-text-evidence.md)). No repetir estas pruebas. La escucha propia del Día 1 (diálogo de Alex) y las demás actividades de la lección no tienen evidencia de finalización en el registro actual; verificar solo esas partes antes de aprobar. Dos ideas adicionales se entregaron por texto y no están confirmadas en el audio. |
+| 01 | [Presentación personal con frases guiadas](lessons/day-001.md) | Pendiente | Diagnósticos iniciales registrados por separado ([evidencia](assessments/initial-written-evidence.md)); evaluación auditiva externa British Council A1 completada ([evidencia](assessments/initial-listening-evidence.md)); muestra de presentación recibida ([evidencia](assessments/initial-speaking-text-evidence.md)). No repetir estas pruebas. La escucha breve y las actividades guiadas de la nueva lección todavía no tienen evidencia de finalización. Dos ideas adicionales se entregaron por texto y no están confirmadas en el audio. |
 | 02 | [Saludos y despedidas](lessons/day-002.md) | Pendiente | |
 | 03 | [Preguntas básicas para conocer a alguien](lessons/day-003.md) | Pendiente | |
 | 04 | [Información personal y deletreo](lessons/day-004.md) | Pendiente | |
-| 05 | [Small talk: clima e intereses](lessons/day-005.md) | Pendiente | |
+| 05 | [Expresar un gusto sencillo](lessons/day-005.md) | Pendiente | |
 | 06 | [Diálogo de presentación](lessons/day-006.md) | Pendiente | |
 | 07 | [Repaso ligero / descanso](lessons/day-007.md) | Pendiente | |
 | 08 | [Compras: precios y cantidades](lessons/day-008.md) | Pendiente | |
