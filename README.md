@@ -62,10 +62,10 @@ Los días son días calendario. Se recomienda estudiar de lunes a sábado y usar
 
 | Actividad | Tiempo | Qué hacer |
 |---|---:|---|
-| Recuperación activa de frases | 10 min | Recordar frases de lecciones actuales/anteriores y usarlas oralmente, sin mirar |
-| Lección del día | 15 min | Aprender vocabulario y una estructura útil |
+| Recuperación activa de frases | 10 min | Empezar con 1–3 frases conocidas; intentar recordarlas y usarlas oralmente. Aumentar sólo cuando resulte cómodo |
+| Lección del día | 15 min | Aprender pocas expresiones con significado en español y un modelo claro |
 | Escucha y shadowing | 15 min | Escuchar un audio corto y repetirlo imitando el ritmo |
-| Producción oral | 15 min | Responder preguntas o representar un diálogo |
+| Producción oral | 15 min | Construir respuestas cortas y practicar un intercambio guiado; ampliar gradualmente |
 | Evaluación y registro | 5 min | Anotar resultados, dudas y errores |
 
 ## Repaso de frases y Anki
