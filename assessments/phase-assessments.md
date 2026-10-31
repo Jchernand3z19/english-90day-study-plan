@@ -50,13 +50,13 @@ Day 30 is for corrections and reflection, not an automatic pass.
 Ask about or confirm a fictional reservation, date, time, and one travel detail.
 
 ### Task B — Past experience (25 points)
-Tell a 1–2 minute story. Include a beginning, at least three past actions, sequence words, and an ending. A clearly labelled fictional story is acceptable if needed.
+Tell a 45–60 second story. Include a beginning, two past actions, one or two sequence words, and an ending. A clearly labelled fictional story is acceptable.
 
 ### Task C — Unexpected problem (20 points)
-Explain a travel or service problem, request help, and discuss one possible solution.
+Explain a travel or service problem in one or two sentences, request help, and ask about one possible solution.
 
 ### Task D — Social conversation (20 points)
-Maintain a guided conversation for 3–5 minutes. Answer questions and ask at least three relevant follow-up questions.
+Maintain a guided conversation for about 2 minutes. Answer questions and ask two relevant follow-up questions.
 
 ### Task E — Listening and repair (15 points)
 Understand the main idea of a short dialogue and use a phrase to ask for repetition or clarification.
