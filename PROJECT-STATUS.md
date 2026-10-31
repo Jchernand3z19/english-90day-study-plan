@@ -132,3 +132,10 @@ A new [integrated learning architecture](learning-architecture.md) defines how t
 7. Update tracking/validation so lesson completion is distinct from phrase/skill mastery.
 
 The corrected Day 1 pilot remains pending; calendar automation remains deferred. No lesson is approved yet.
+## Conversational design rule — 2026-10-31
+
+The learning method now explicitly distinguishes Anki retrieval from real conversation. Anki phrases are a starting resource, not a vocabulary ceiling or dialogue script. Conversation activities must have a communicative purpose and natural progression, intentionally reuse a small relevant subset of deck phrases, and add the connectors, reactions, follow-up questions, clarification, and context-specific language needed for a coherent exchange.
+
+The tutor must respond to the meaning of the learner's answers rather than mechanically reciting a fixed phrase sequence. New language must remain appropriate to the learner's demonstrated level, be modelled before independent use, and be introduced in manageable amounts. New expressions can be noted as candidates for later Anki inclusion, but should be added only when reusable and nonredundant; do not turn every incidental word into a card.
+
+This is a design requirement added to the architecture and study method. It does not mean all 90 lessons have already been revised or audited for natural conversation. The lesson-by-lesson implementation check remains open.
