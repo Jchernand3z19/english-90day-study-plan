@@ -200,3 +200,16 @@ This log records corrections already made but does **not** certify that every le
 
 
 - **Automated quality-gate finding — 2026-10-29:** the new lesson-quality validator identified that Day 79's listening task lacked an explicit rule for unperformed listening. Added a clear **Not assessed / Incomplete** rule. This demonstrates the validator catches a real consistency gap missed by the earlier broad scan; the full workflow must pass before treating this check as closed.
+
+
+## Pedagogical correction pass — 2026-10-30
+
+The first-week beginner sequence was reworked after the 2026-10-29 voice pilot exposed a mismatch between the learner's demonstrated sentence-building ability and the unsupported production demands in the lessons. The improvised exercise used in that pilot did not follow the repository's assigned dialogue and is not valid completion or assessment evidence.
+
+- Rebuilt Days 1–7 with a gradual sequence: three personal sentence frames; greetings; names; limited letter spelling and repair phrases; one preference; a short supported introduction; and a light review.
+- Removed premature long introductions, large phrase-retrieval quotas, open-ended production, and unnecessary role-play complexity from the first week.
+- Day 1 now uses a short three-sentence listening text and three simple comprehension questions. It explicitly does not repeat the previously completed baseline diagnostics.
+- Updated the study method: tutor must follow the exact lesson, use one question at a time, teach and model language before asking for production, and never substitute an improvised dialogue for assigned listening.
+- Reduced the Phase 1 Day 29 introduction task to a short, scaffolded 20–30 second introduction; sentence frames and thinking pauses are acceptable.
+
+This is a targeted correction, not completion of the full audit. Days 8–30 still require a day-by-day pedagogical review for level, sequencing, new-language load, task demands, and assessment fit. The 90-day audit, rendering review, and real learner pilot remain open. Day 1 remains unapproved until the corrected lesson is actually completed.
