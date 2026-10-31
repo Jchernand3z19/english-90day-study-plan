@@ -18,7 +18,7 @@ The available CSV contains 1,000 rows and eight populated columns: order, phase,
 | Missing values in the eight fields | 0 |
 | Duplicate note IDs | 0 |
 | Audio references listed | 1,000 |
-| Repeated English wording | 10 repeated pairs/entries retained |
+| Repeated English wording | 10 repeated English-phrase pairs (20 rows) retained |
 
 The 10 repeated English wordings occur in different categories/phases. They were not removed automatically because context, translation, or intended use may differ. They should be reviewed before any future deduplication.
 
