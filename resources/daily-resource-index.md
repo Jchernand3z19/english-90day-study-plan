@@ -13,7 +13,7 @@
 
 | Día | Tema | Recurso / actividad recomendada | Uso y límite |
 |---:|---|---|---|
-| 1 | Presentación personal con frases guiadas | [Meeting new people — Speaking A1](https://learnenglish.britishcouncil.org/free-resources/speaking/a1/meeting-new-people) + diálogo interno | El video es un modelo breve de presentación; úsalo como ejemplo después de registrar primero la capacidad oral actual. |
+| 1 | Presentación personal con frases guiadas | Diálogo interno de Day 1; [Meeting new people — Speaking A1](https://learnenglish.britishcouncil.org/free-resources/speaking/a1/meeting-new-people) como complemento opcional | El diagnóstico oral inicial ya está registrado; no repetirlo. Usa el video sólo como modelo después de enseñar las tres frases de la lección. La escucha evaluable de Day 1 es el texto breve de la propia lección, leído sin mostrarlo primero. |
 | 2 | Saludos y conversación cortés | [Meeting other students — A1](https://learnenglish.britishcouncil.org/free-resources/listening/a1/meeting-other-students) | Actividad directa para escuchar una primera conversación; después repite el intercambio con datos propios. |
 | 3 | Nombres y presentaciones | [Meeting new people — Speaking A1](https://learnenglish.britishcouncil.org/free-resources/speaking/a1/meeting-new-people) | Video y ejercicios para presentarse y conocer a alguien. Después practica con nombres y datos propios. |
 | 4 | Deletrear y pedir repetición | [Checking understanding — Speaking A1](https://learnenglish.britishcouncil.org/free-resources/speaking/a1/checking-understanding) + diálogo interno | El video enseña a pedir que repitan o hablen más despacio. El deletreo de nombres se practica aparte con el tutor. |
