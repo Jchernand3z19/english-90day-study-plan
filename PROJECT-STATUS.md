@@ -1,8 +1,8 @@
 # Project status — English 90-Day Study Plan
 
-**Last updated:** 2026-10-31  
+**Last updated:** 2026-11-01  
 **Repository:** Jchernand3z19/english-90day-study-plan  
-**Overall status:** Active; curriculum corrections recorded; corrected Day 1 learner pilot and final quality checks remain open.
+**Overall status:** Active; consolidated review of all 90 lessons and all 1,000 Anki text pairs completed; targeted corrections and editorial candidates documented. Corrected Day 1 pilot and a few external/real-world checks remain open.
 
 ## Executive summary
 
@@ -14,15 +14,15 @@ The repository's 90-day curriculum has received targeted progression and workloa
 
 | Priority | Workstream | Status | Next action |
 |---:|---|---|---|
-| 1 | Corrected Day 1 pilot | Pending user practice | Follow lessons/day-001.md exactly; record actual listening and speaking evidence. |
-| 2 | Phase 1 detailed quality review | Partially reviewed / corrections applied | Check every Day 1–30 dialogue, grammar explanation, answer key, task timing, and listening-to-target-language alignment. |
-| 3 | Learner-level calibration | Baseline recorded; oral detail incomplete | Use new lesson evidence; do not repeat completed diagnostics. |
-| 4 | Teaching method | Updated | Enforce one question at a time, exact lesson fidelity, modelling before production, Spanish explanations, and retries. |
-| 5 | Anki and vocabulary transfer | Deck inspected and ordered; import reported by learner | Measure real review load, recall, and spoken transfer after several sessions. Do not re-import or replace the original deck. |
-| 6 | Phase 2 and 3 quality | Targeted correction/review completed; full audit not certified | Continue line-by-line review of dialogues, language load, answer keys, task timing, and assessment alignment. |
-| 7 | Assessments and tracking | Rubrics and tracking rules corrected | Preserve evidence-based status; approve only after required tasks and criteria are met. |
-| 8 | Repository and resources | Automated structural checks passed; visual/external review incomplete | Inspect rendered Markdown and perform remaining URL and content checks. |
-| 9 | Calendar and notifications | Deferred | Resume only after the learning sequence and pilot are accepted. |
+| 1 | 90-lesson content review | Full review coverage recorded; targeted inconsistencies corrected | Finish rendered-page and external-link verification; keep learner approval evidence-based. |
+| 2 | Anki language quality | Phase 1 first-pass review and Phase 2–3 review completed; candidate edits documented | Keep both APKGs unchanged until the learner explicitly approves a new edited copy. |
+| 3 | Audio quality | Package integrity and full technical decode passed | Human listening for pronunciation, naturalness, and accent remains unverified; do not claim it passed. |
+| 4 | Corrected Day 1 pilot | Pending learner practice | Tutor follows lessons/day-001.md exactly, teaches/model first, and asks one question at a time. |
+| 5 | Anki workload and transfer | Import reported by learner; real usage not measured | After several sessions, evaluate review burden, recall, and spoken transfer. |
+| 6 | Calendar and notifications | Deferred; prior workflow attempts failed | Troubleshoot the existing workflow and prepare all changes possible without account authorization; activate only after a real event test. |
+| 7 | Repository validation | Prior automated checks passed; new edits now require a fresh run | Confirm latest GitHub Actions result and inspect any failures. |
+
+**What requires the learner:** the corrected Day 1 practice and real listening/speaking evidence; later, a report of actual Anki workload; and any Google account authorization or confirmation needed to test Calendar. Lesson editing, Anki text review, documentation, and technical validation are assistant-side work.
 
 ## Diagnostic evidence already completed
 
@@ -175,3 +175,10 @@ A first-pass review of the 340 Phase 1 cards identified ten candidate entries fo
 ## Repository validation — 2026-11-01
 
 The latest GitHub Actions validation after the documentation and Day 1 updates passed both jobs: (1) 90-lesson coverage, tracker links, and internal Markdown links; (2) lesson structure, listening-evidence cues, and checkpoint weights. [Run 41269322359 — success](https://github.com/Jchernand3z19/english-90day-study-plan/actions/runs/41269322359). Earlier failed runs in the same update sequence were caused by commits that referenced the new audit file before that file had been created; the latest run on the final repository state is green.
+
+
+## Consolidated review — 2026-11-01
+
+- Completed a consolidated review of all 90 daily lesson files, incorporating the earlier direct review of Days 77–90. Targeted inconsistencies in Days 19, 26, 29–30, 40, 42, 52, 54–55, 57, and 71 were corrected. Details: [consolidated content review](assessments/consolidated-content-review-2026-11-01.md).
+- Reviewed all 660 Anki text pairs in Phases 2 and 3. Phase 1 has a separate first-pass review. Candidate edits are documented; neither APKG nor the CSV manifest was modified. See [Phase 2–3 linguistic review](vocabulary/anki-linguistic-review-phases-2-3-2026-11-01.md).
+- Remaining non-learner work: final rendered Markdown/external URL checks, calendar workflow troubleshooting, and post-change GitHub Actions validation. Human audio-quality review and learner practice cannot be inferred from technical file checks.
