@@ -63,7 +63,7 @@ The reconciled wording now distinguishes a **partial pilot** from a **completed/
 ### Assistant-side work still open
 
 1. Inspect the remaining curriculum and assessment references for any stale or contradictory instructions not covered by the current status reconciliation.
-2. Retry of the five previously timed-out British Council pages is complete; all five opened successfully. BBC Learning English remains inaccessible to the retrieval environment, so its status is unverified.
+2. The external URL inventory check is complete for the current retrieval environment: 31 distinct URLs were found; 30 opened successfully and the BBC Learning English URL remained inaccessible, so it is unverified rather than marked broken. This does not certify local audio playback or future availability.
 3. Perform a browser/rendered-page review of key GitHub Markdown pages.
 4. Build a practical sampling plan for human review of Anki audio and lesson-to-phrase traceability; technical media decoding is not audio-quality review.
 5. Continue targeted proofreading only where a concrete issue is identified; do not reopen or rewrite the full curriculum without evidence.
