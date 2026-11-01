@@ -187,7 +187,7 @@ The latest GitHub Actions validation after the documentation and Day 1 updates p
 
 ## External resource spot-check — 2026-11-01
 
-A set of core British Council and Cambridge resources loaded and matched their visible title/level/topic. Five individual British Council A2 pages timed out; the A2 catalogue's “An invitation to a party” entry has a visible title/description mismatch and is now treated as unverified/catalog-only in the resource index. BBC Learning English blocked automated retrieval, so its availability was not assessed. Details are in assessments/content-audit.md. Automated repository validation does not fetch external URLs.
+A set of core British Council and Cambridge resources loaded and matched their visible title/level/topic. On recheck, “Changing plans” and “Changing a meeting time” loaded; “Transport announcements” and “Showing interest” still timed out but appear in their catalogues. “An invitation to a party” remains unverified and has a title/description mismatch in the A2 catalogue, so the resource index now prioritises the lesson's own dialogue. BBC Learning English blocked automated retrieval, so its availability was not assessed. Details are in assessments/content-audit.md. Automated repository validation does not fetch external URLs.
 
 
 ## Curriculum map alignment — 2026-11-01
