@@ -92,7 +92,7 @@ A read-only audit of the repository tree, recent commits, documentation, and CI 
 ## Repository validation and remaining limits
 
 - GitHub Actions validation checks lesson/tracker coverage, internal relative Markdown links, lesson structure, listening evidence cues, and checkpoint weights.
-- The latest content validation is [run 41344766693](https://github.com/Jchernand3z19/english-90day-study-plan/actions/runs/41344766693) — success on 2026-11-01 20:02 UTC, against the current audited HEAD. Both checks passed: (1) exactly 90 lesson files, one tracker link per day, and all relative Markdown links; (2) lesson structure, listening-evidence cues, legacy Anki rules, and checkpoint weights. The preceding run failed because `PROJECT-STATUS.md` linked to `learning-data/` before that directory had a README/index. Added `learning-data/README.md` and reran the workflow successfully. The Anki sync workflow [run 41272247896](https://github.com/Jchernand3z19/english-90day-study-plan/actions/runs/41272247896) also passed compilation and unit tests.
+- The latest verified content validation before this status refresh is [run 41346296827](https://github.com/Jchernand3z19/english-90day-study-plan/actions/runs/41346296827) — success on 2026-11-01 20:02 UTC, against the current audited HEAD. Both checks passed: (1) exactly 90 lesson files, one tracker link per day, and all relative Markdown links; (2) lesson structure, listening-evidence cues, legacy Anki rules, and checkpoint weights. The preceding run failed because `PROJECT-STATUS.md` linked to `learning-data/` before that directory had a README/index. Added `learning-data/README.md` and reran the workflow successfully. The Anki sync workflow [run 41272247896](https://github.com/Jchernand3z19/english-90day-study-plan/actions/runs/41272247896) also passed compilation and unit tests.
 - Automated structural checks do not prove that every lesson is pedagogically sound, every translation/answer key is correct, every external link is live, or GitHub renders every page correctly.
 - A full rendered-page review and exhaustive external URL check remain open.
 - All 90 lesson files and tracker links exist; this is coverage, not quality approval.
@@ -209,9 +209,11 @@ The three phase curriculum maps and fixed phase assessment were compared against
 The category-level Anki map is sufficient for dynamic lesson selection. A fixed card-by-day assignment is intentionally not required, because it could force unrelated phrases into conversations and create a parallel curriculum. During each session, the tutor may select one to three relevant familiar cards from the matching category when useful; conversation can also include natural supporting language outside Anki. No deck file was modified.
 
 
-## Ready-for-pilot boundary — 2026-11-01
+## Ready-for-pilot boundary — 2026-11-01 (pre-pilot snapshot)
 
-The assistant-side text, curriculum, Anki text review, resource-index corrections, documentation, and automated structural validation are complete to the level needed to begin the corrected Day 1 pilot. Remaining limits are explicit: the 1,000-card audio has passed technical decoding but not human naturalness/pronunciation review; a few external pages time out in the retrieval environment; and GitHub's rendered HTML could not be independently fetched here. None of these blocks the corrected Day 1 lesson, which uses its own short listening script. The next required action is the learner's corrected Day 1 pilot. Calendar settings and automation remain deferred until after that pilot and confirmation of the schedule, destination calendar, and notification channel.
+This section records the state immediately before the learner pilot; the next section supersedes its statement that the pilot is still the next required action.
+
+The assistant-side text, curriculum, Anki text review, resource-index corrections, documentation, and automated structural validation were complete to the level needed to begin the corrected Day 1 pilot. Remaining limits are explicit: the 1,000-card audio has passed technical decoding but not human naturalness/pronunciation review; a few external pages time out in the retrieval environment; and GitHub's rendered HTML could not be independently fetched here. None of these blocks the corrected Day 1 lesson, which uses its own short listening script. The corrected Day 1 pilot subsequently took place partially; see the following section and the dedicated pilot log. Calendar settings and automation remain deferred until after that pilot and confirmation of the schedule, destination calendar, and notification channel.
 
 
 ## Day 1 pilot and integration preparation — 2026-11-01
@@ -228,7 +230,7 @@ The intended flow is Anki Desktop + AnkiConnect on the learner's Mac → local P
 ### Revised immediate next actions
 
 1. Complete the remaining Day 1 listening task and final self-check in a later learner session; keep pronunciation unassessed unless an actual audio sample can be reviewed.
-2. Review and validate the new Python script, especially AnkiConnect compatibility and safe GitHub update behaviour.
+2. Code review and unit-test coverage for the Python script have been expanded; live AnkiConnect compatibility and safe GitHub update behaviour still require a manual end-to-end test.
 3. Run one manual local sync after the learner-side prerequisites are available; inspect the exact JSON written to GitHub.
 4. Only after manual validation, decide whether to schedule the local sync with macOS launchd.
 5. Keep Calendar deferred; it is separate from Anki sync and requires its own explicit settings and authorization.
