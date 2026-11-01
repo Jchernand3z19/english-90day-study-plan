@@ -31,7 +31,7 @@
 | 16 | Preguntar y dar direcciones | [Finding the library — A1](https://learnenglish.britishcouncil.org/free-resources/listening/a1/finding-library) | Actividad directa para preguntar por un lugar y entender indicaciones. |
 | 17 | Transporte, billetes y horarios | Diálogo interno + [Transport announcements — British Council A2](https://learnenglish.britishcouncil.org/free-resources/listening/a2/transport-announcements) opcional | El audio A2 incluye horarios, andenes, retrasos y puertas de embarque, pero puede ser difícil para un nivel A1. Úsalo sólo si puedes comprenderlo; si no, practica con el diálogo de la lección. |
 | 18 | Imperativos para direcciones | [Finding the library — A1](https://learnenglish.britishcouncil.org/free-resources/listening/a1/finding-library) + role-play | Escucha las indicaciones y luego da una ruta propia con instrucciones breves. |
-| 19 | Distancia y ubicación | [Cambridge Basic A1–A2](https://www.cambridgeenglish.org/learning-english/activities-for-learners/?level=basic) — catálogo | Elige sólo una actividad relacionada con lugares/ubicación; completa con comparación oral de dos destinos. |
+| 19 | Distancia y ubicación | [Cambridge Basic A1–A2](https://www.cambridgeenglish.org/learning-english/activities-for-learners/?level=basic) — catálogo | Elige sólo una actividad relacionada con lugares/ubicación; completa con una descripción oral de distancia y ubicación. |
 | 20 | Transporte y desplazamientos | [A1 Listening](https://learnenglish.britishcouncil.org/free-resources/listening/a1) — catálogo + diálogo interno | Practica destino, tarifa, hora y alternativa. Si no hay audio coincidente, la escucha queda como práctica interna guiada, no como actividad externa. |
 | 21 | Repaso de semana 3 | Frases de días 15–20; repetir indicaciones | Repaso ligero de ubicaciones y transporte; elige una sola debilidad. |
 | 22 | Rutinas diarias y hora | [Daily routine vocabulary — A1/A2](https://learnenglish.britishcouncil.org/free-resources/vocabulary/a1-a2/daily-routine-vocabulary-a1-beginner-english-vocabulary-lesson) | Recurso directo de vocabulario; después describe tu propia rutina oralmente. |
@@ -56,7 +56,7 @@
 | 36 | Reserva y llegada | [A2 Listening](https://learnenglish.britishcouncil.org/free-resources/listening/a2) — catálogo + diálogo interno | Practica check-in y un problema sencillo. No asumir que el catálogo tiene un check-in exacto. |
 | 37 | Repaso de viaje | Frases de días 31–36 | Recuperar reservas, fechas y preguntas; recurso externo opcional según la debilidad. |
 | 38 | Pasado simple: verbos frecuentes | [A1–A2 Grammar](https://learnenglish.britishcouncil.org/free-resources/grammar/a1-a2) — consulta puntual | Repasa pasado simple si hace falta; practica enseguida con frases sobre un evento real sencillo. |
-| 39 | Contar qué hiciste ayer | [A2 Listening](https://learnenglish.britishcouncil.org/free-resources/listening/a2) — catálogo | Elige una narración corta sólo si encaja; luego cuenta ayer en 4–6 frases sin leer. |
+| 39 | Contar qué hiciste ayer | [A2 Listening](https://learnenglish.britishcouncil.org/free-resources/listening/a2) — catálogo | Elige una narración corta sólo si encaja; luego cuenta dos o tres acciones de ayer con frases cortas, sin leer. |
 | 40 | Ordenar eventos en una historia | Diálogo de la lección + [A2 Listening](https://learnenglish.britishcouncil.org/free-resources/listening/a2) opcional | Identifica primero, después y al final. No usar audio que sea demasiado avanzado. |
 | 41 | Viajes y experiencias pasadas | [A2 Listening](https://learnenglish.britishcouncil.org/free-resources/listening/a2) — catálogo | Busca experiencia personal/viaje si coincide; después narra un viaje propio con detalles básicos. |
 | 42 | Preguntar por experiencias ajenas | [A2 Speaking](https://learnenglish.britishcouncil.org/free-resources/speaking/a2) — catálogo | Practica preguntas y seguimiento. Si el contenido de catálogo no coincide, utiliza entrevista simulada. |
@@ -74,7 +74,7 @@
 | 54 | Intereses y actividades | [Talking about personal interests — Speaking A2](https://learnenglish.britishcouncil.org/free-resources/speaking/a2/talking-about-personal-interests) | Actividad directa sobre hobbies; usa tus propias actividades en el role-play y añade una pregunta de seguimiento. |
 | 55 | Preguntas de seguimiento | [A2 Speaking](https://learnenglish.britishcouncil.org/free-resources/speaking/a2) + role-play | Practica preguntas relevantes, no una lista memorizada. Si el catálogo no encaja, basta el role-play. |
 | 56 | Aceptar, rechazar y proponer alternativas | [A2 Listening](https://learnenglish.britishcouncil.org/free-resources/listening/a2) — catálogo | Busca cambios de planes/invitaciones y verifica la actividad antes de asignarla. |
-| 57 | Conversación social de 3–5 minutos | Diálogo interno + [A2 Speaking](https://learnenglish.britishcouncil.org/free-resources/speaking/a2) opcional | Prioriza mantener el intercambio, dar detalles y preguntar; no leer un guion completo. |
+| 57 | Conversación social guiada de 2–3 minutos | Diálogo interno + [A2 Speaking](https://learnenglish.britishcouncil.org/free-resources/speaking/a2) opcional | Prioriza mantener el intercambio, dar detalles y preguntar; no leer un guion completo. |
 | 58 | Repaso social | Días 52–57 | Repite la situación más difícil; audio externo opcional, no obligatorio. |
 | 59 | Evaluación integrada de fase 2 | [Evaluación interna del repositorio](../assessments/phase-assessments.md) | Evalúa viajes, narración, resolución de problemas y conversación social con evidencia real. |
 | 60 | Corrección y cierre de fase 2 | Resultados reales del día 59 + lección interna | Corrige dos debilidades observadas; no avanzar automáticamente por haber llegado al día 60. |
@@ -133,4 +133,4 @@
 3. No presentar los catálogos como si cada enlace fuera una actividad específica seleccionada.
 4. La práctica oral y el role-play de cada lección siguen siendo centrales.
 5. No hay recurso externo único para cada uno de los 90 días; cuando no exista una coincidencia verificada, se declara el límite y se usa la actividad interna.
-6. Anki queda fuera de este trabajo: el mazo existente se ordenará cuando el usuario lo comparta.
+6. Anki ya fue compartido, inspeccionado y organizado en una copia separada. Su revisión lingüística está documentada en el registro de Anki; no crear otro mazo ni sobrescribir el original.
