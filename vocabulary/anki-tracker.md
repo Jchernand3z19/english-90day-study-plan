@@ -66,3 +66,10 @@ Both the preserved original package and the separate ordered package were availa
 ## Preliminary linguistic review — 2026-11-01
 
 Completed a first-pass review of the 340 Phase 1 phrases and a structural placeholder scan of the other phases. Ten Phase 1 entries are recorded as candidates for editorial review; no APKG or manifest fields were changed. The cross-phase scan also identified Spanish placeholders in English target phrases at orders 396 and 398. This is not a full linguistic audit of the 1,000 cards. See [preliminary Anki linguistic review](anki-linguistic-review-phase-1-2026-11-01.md).
+
+
+## Linguistic review — all three phases — 2026-11-01
+
+The first-pass review of all 1,000 phrase/translation pairs is now documented across two reports: [Phase 1](anki-linguistic-review-phase-1-2026-11-01.md) and [Phases 2–3](anki-linguistic-review-phases-2-3-2026-11-01.md). Phase 2 and 3 review covered all 660 cards and identified a mix of definite English-form errors, placeholder issues, and regional/naturalness candidates. Phase 1 has ten candidate entries for editorial review. These are proposals, not silently applied corrections.
+
+**Deck files remain unchanged.** Do not overwrite or re-import either APKG. If edits are approved later, prepare a new versioned package and compare it against the preserved original before recommending import. Audio quality remains unverified by human listening; the separate technical decode audit only confirms that the files decode without errors.
