@@ -57,7 +57,7 @@ Do not mark a phrase as mastered simply because it was answered correctly once i
 
 ## Manifest validation and thematic lesson map — 2026-10-31
 
-Re-read the available `guia_orden_anki_90_dias.csv` manifest programmatically. It contains 1,000 records, with 340 / 355 / 305 phrases across the three phase tags and 41 categories. All eight columns are populated; note IDs are unique; 1,000 audio references are listed. Ten English phrase pairs (20 rows) repeat across different categories/phases and remain intentionally preserved pending context review. This verifies the CSV manifest, not the live Anki collection or the audio content/quality. Created [Anki-to-lesson thematic map](anki-lesson-map.md), which associates every category with relevant lesson topics. It is thematic, not an exact card-per-day assignment. Audio listening/quality review and exact card-to-lesson selection remain open.
+Re-read the available `guia_orden_anki_90_dias.csv` manifest programmatically. It contains 1,000 records, with 340 / 355 / 305 phrases across the three phase tags and 41 categories. All eight columns are populated; note IDs are unique; 1,000 audio references are listed. Ten English phrase pairs (20 rows) repeat across different categories/phases and remain intentionally preserved pending context review. This verifies the CSV manifest, not the live Anki collection or the audio content/quality. Created [Anki-to-lesson thematic map](anki-lesson-map.md), which associates every category with relevant lesson topics. It is thematic, not an exact card-per-day assignment. Human audio-quality review remains unverified. Exact static card-to-day assignment is intentionally not required; use the dynamic selection policy below.
 
 ## Full APKG package integrity check — 2026-11-01
 
