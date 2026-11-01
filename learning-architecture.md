@@ -85,7 +85,7 @@ Not every phrase needs a separate pronunciation lecture. Select the most useful 
 
 The existing ordered Anki deck remains intact; do not re-import or overwrite it.
 
-For each lesson, select a small relevant subset of existing cards where possible. Map them to the lesson objective and indicate:
+For each lesson, select a small relevant subset of existing cards where useful, using the category-to-lesson thematic map. Select dynamically rather than assigning a fixed list of cards to every day; this preserves natural conversation and avoids a parallel Anki syllabus. When exact cards are used, record their identity and indicate:
 - phrase/card identity and meaning;
 - whether it is prior retrieval or newly introduced support;
 - relevant audio reference, if available and checked;
@@ -143,7 +143,7 @@ The architecture is defined. The 2026-11-01 consolidated review completed a text
 
 The following implementation/traceability work remains:
 
-1. Map a small, relevant selection of exact Anki cards to each lesson objective. The current category-level map is not an exact card-to-day assignment.
+1. Use the existing category-level map to select one to three relevant cards dynamically when useful. A fixed card-to-day assignment is intentionally not required.
 2. Sample and then review deck audio for phrase match, pronunciation model, clarity, accent, naturalness, and suitability.
 3. Check lesson dialogues/audio for natural spoken forms, suitable speed, comprehensibility, and accurate comprehension questions. Static text review cannot certify audio quality.
 4. Identify any remaining gaps where written target language lacks listening, pronunciation, or new-context speaking transfer; add only what is needed.
