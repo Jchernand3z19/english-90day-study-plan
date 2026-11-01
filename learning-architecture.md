@@ -1,6 +1,6 @@
 # Integrated listening and speaking architecture
 
-**Status:** Design requirements defined; 90-lesson text audit completed on 2026-11-01. Full Anki-to-lesson traceability, audio-quality review, and learner pilot remain pending.  
+**Status:** Design requirements defined; 90-lesson text audit completed on 2026-11-01. The learner pilot began partially on 2026-11-01 and remains incomplete. Full Anki-to-lesson traceability and human audio-quality review remain pending.  
 **Last updated:** 2026-11-01
 
 ## Purpose
