@@ -8,7 +8,7 @@
 1. Anki Desktop runs locally with the AnkiConnect add-on enabled.
 2. A local Python script queries AnkiConnect at `http://127.0.0.1:8765`.
 3. The script reads deck names, deck counts, and review events.
-4. It aggregates review events by local calendar date and deck.
+4. It aggregates review events by local calendar date; current deck counts are reported separately.
 5. It uploads only aggregate counts to `learning-data/anki-progress.json` through the GitHub Contents API.
 6. ChatGPT can use the committed summary as historical evidence when planning review and conversation transfer.
 
@@ -68,4 +68,5 @@ Do not paste the real token into chat or commit it to a file. For routine use, p
 - A local process is required; GitHub-hosted runners cannot reach the learner's localhost AnkiConnect service.
 - This is a progress mirror only. It does not yet map individual card IDs to conversation turns or claim spoken mastery.
 - A card's Anki ease response is not proof of listening comprehension, pronunciation, or independent spoken transfer.
+- Unit tests cover review-response flattening, aggregate ease/review-type/time counts, local-date boundaries, missing review IDs, and preservation of historical daily totals. They do not replace a live AnkiConnect/GitHub end-to-end test.
 - No live Anki connection or token is available in this environment, so the script cannot be end-to-end tested here.
