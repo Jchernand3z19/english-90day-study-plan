@@ -58,4 +58,4 @@ No busques ni crees otro mazo. Anki es apoyo opcional: utiliza algunas frases en
 
 Un recurso cuenta como alineado cuando coincide con el tema del día, está a un nivel manejable y permite practicar la habilidad indicada. Si sólo es del mismo nivel, pero trata de otro tema, es material opcional, no el recurso principal.
 
-Consulta el [índice diario de recursos](daily-resource-index.md) para el detalle de cada día y el [mapa semanal](calendar-resource-map.md) para el resumen por fase. La prioridad actual es cubrir las demás actividades del plan con recursos gratuitos; la organización del mazo existente queda para cuando se comparta.
+Consulta el [índice diario de recursos](daily-resource-index.md) para el detalle de cada día y el [mapa semanal](calendar-resource-map.md) para el resumen por fase. El mazo ya fue compartido, inspeccionado y organizado en una copia separada. Su revisión técnica y lingüística está documentada en el registro de Anki. No se creará otro mazo ni se sobrescribirá el original.
