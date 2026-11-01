@@ -8,7 +8,7 @@
 
 The lesson files were reviewed for objective-to-activity alignment, task load, level progression, language/translation consistency, timing, listening instructions, and checkpoint demands. The review found a small number of concrete inconsistencies and several regional-language improvements. These were corrected in the source lessons.
 
-This is a documented editorial review, not a guarantee that every learner will find every activity easy or that the course is already approved. The learner has not completed the corrected Day 1 pilot; all daily lesson statuses remain pending until supported by real evidence.
+This is a documented editorial review, not a guarantee that every learner will find every activity easy or that the course is already approved. A guided Day 1 pilot was partially completed on 2026-11-01 and is recorded in [the pilot log](../daily-logs/day-001-pilot-2026-11-01.md). Day 1 remains In progress and not approved; only its missing listening, supported-speaking, and self-check tasks remain. Previously completed baseline tasks must not be repeated.
 
 ## Lesson corrections applied on 2026-11-01
 
@@ -60,9 +60,9 @@ Only real-world evidence can close these items:
 
 ## Still requires technical verification
 
-- Run the repository's automated validation after these lesson and documentation changes.
+- Repository automated validation has since passed: [content validation run 41344766693](https://github.com/Jchernand3z19/english-90day-study-plan/actions/runs/41344766693). This confirms the configured structural checks only.
 - Check rendered Markdown and external links in the GitHub interface; a structural link check is not a full visual/browser review.
-- Calendar sync remains deferred. Earlier runs failed during setup; do not claim notifications are active until the workflow is repaired and an actual calendar event is verified.
+- Calendar sync remains deferred and is not implemented in this repository. Do not claim notifications are active until a dedicated workflow is built and an actual calendar event and reminder are verified.
 
 
 ## Curriculum and checkpoint alignment — additional corrections
