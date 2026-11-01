@@ -99,6 +99,51 @@ def flatten_review_events(raw: Any) -> list[dict[str, Any]]:
     raise RuntimeError(f"Unexpected getReviewsOfCards response: {type(raw).__name__}")
 
 
+
+def aggregate_daily_reviews(reviews: list[dict[str, Any]], local_tz=None) -> dict[str, dict[str, int]]:
+    """Aggregate review events by local date without retaining individual events."""
+    if local_tz is None:
+        local_tz = datetime.now().astimezone().tzinfo
+
+    daily: dict[str, dict[str, int]] = defaultdict(
+        lambda: {"reviews": 0, "again": 0, "hard": 0, "good": 0, "easy": 0,
+                 "learning_or_relearning": 0, "review": 0, "filtered": 0,
+                 "time_ms": 0}
+    )
+    for item in reviews:
+        # Anki review IDs are Unix milliseconds; convert explicitly from UTC.
+        if "id" not in item:
+            continue
+        reviewed_at = datetime.fromtimestamp(
+            int(item["id"]) / 1000, tz=timezone.utc
+        ).astimezone(local_tz)
+        day = daily[reviewed_at.date().isoformat()]
+        day["reviews"] += 1
+        ease = int(item.get("ease", 0))
+        if ease == 1:
+            day["again"] += 1
+        elif ease == 2:
+            day["hard"] += 1
+        elif ease == 3:
+            day["good"] += 1
+        elif ease == 4:
+            day["easy"] += 1
+        review_type = int(item.get("type", -1))
+        if review_type in (0, 2):
+            day["learning_or_relearning"] += 1
+        elif review_type == 1:
+            day["review"] += 1
+        elif review_type == 3:
+            day["filtered"] += 1
+        day["time_ms"] += int(item.get("time", 0))
+    return dict(sorted(daily.items()))
+
+
+def merge_daily_history(previous: dict[str, Any], current: dict[str, Any]) -> dict[str, Any]:
+    """Preserve prior dates while replacing dates re-exported by the current sync."""
+    return {**previous, **current}
+
+
 def collect_summary() -> dict[str, Any]:
     deck_names = anki("deckNames")
     deck_stats = anki("getDeckStats")
@@ -128,35 +173,8 @@ def collect_summary() -> dict[str, Any]:
             raw_reviews = anki("getReviewsOfCards", cards=batch)
             reviews.extend(flatten_review_events(raw_reviews))
 
-    daily: dict[str, dict[str, int]] = defaultdict(
-        lambda: {"reviews": 0, "again": 0, "hard": 0, "good": 0, "easy": 0,
-                 "learning_or_relearning": 0, "review": 0, "filtered": 0,
-                 "time_ms": 0}
-    )
-    for item in reviews:
-        # Anki review IDs are Unix milliseconds. Convert to this Mac's local date.
-        if "id" not in item:
-            continue
-        reviewed_at = datetime.fromtimestamp(int(item["id"]) / 1000).astimezone()
-        day = daily[reviewed_at.date().isoformat()]
-        day["reviews"] += 1
-        ease = int(item.get("ease", 0))
-        if ease == 1:
-            day["again"] += 1
-        elif ease == 2:
-            day["hard"] += 1
-        elif ease == 3:
-            day["good"] += 1
-        elif ease == 4:
-            day["easy"] += 1
-        review_type = int(item.get("type", -1))
-        if review_type in (0, 2):
-            day["learning_or_relearning"] += 1
-        elif review_type == 1:
-            day["review"] += 1
-        elif review_type == 3:
-            day["filtered"] += 1
-        day["time_ms"] += int(item.get("time", 0))
+    daily = aggregate_daily_reviews(reviews)
+
 
     return {
         "schema_version": 1,
@@ -206,7 +224,7 @@ def main() -> int:
         merged.update(summary)
         previous_days = previous.get("daily_reviews_local_time", {})
         current_days = summary.get("daily_reviews_local_time", {})
-        merged["daily_reviews_local_time"] = {**previous_days, **current_days}
+        merged["daily_reviews_local_time"] = merge_daily_history(previous_days, current_days)
         body = {
             "message": "Sync aggregate Anki study progress",
             "content": base64.b64encode(
