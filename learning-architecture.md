@@ -147,7 +147,7 @@ The following implementation/traceability work remains:
 2. Sample and then review deck audio for phrase match, pronunciation model, clarity, accent, naturalness, and suitability.
 3. Check lesson dialogues/audio for natural spoken forms, suitable speed, comprehensibility, and accurate comprehension questions. Static text review cannot certify audio quality.
 4. Identify any remaining gaps where written target language lacks listening, pronunciation, or new-context speaking transfer; add only what is needed.
-5. Pilot the corrected Day 1 sequence and record listening, pronunciation, and speaking separately.
+5. Complete the remaining corrected Day 1 tasks after the partial 2026-11-01 pilot; record listening, pronunciation, and speaking separately, and do not repeat completed baseline tasks.
 6. Continue keeping lesson completion, language mastery, and actual listening/speaking evidence distinct. Automated structure and checkpoint checks already run in GitHub Actions, but they do not assess mastery.
 
 Until those steps are completed, this document records requirements and partial implementation evidence, not proof that every Anki card/audio item is aligned or that the learner has mastered the 90-day curriculum.
