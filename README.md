@@ -138,6 +138,9 @@ El total de tarjetas está verificado (1,000); no se mostrará un porcentaje de 
 
 ## Latest audit
 
+- [Anki package integrity audit (2026-11-01)](assessments/anki-package-integrity-audit-2026-11-01.md)
+
+
 - [Natural conversation audit (2026-10-31)](assessments/natural-conversation-audit-2026-10-31.md)
 
 ## Vocabulary
