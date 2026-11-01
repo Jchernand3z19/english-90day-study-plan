@@ -2,7 +2,7 @@
 
 Consulta el [estado consolidado del proyecto](PROJECT-STATUS.md) y el [registro de auditoría](assessments/content-audit.md) para conocer las correcciones y tareas pendientes.
 
-**Estado actual:** ninguna jornada está aprobada. El Día 01 está en progreso: el piloto conversacional del 2026-11-01 aportó evidencia parcial, pero faltan la escucha guiada, el self-check final y evidencia acústica para evaluar pronunciación. Registro: [piloto del Día 1](daily-logs/day-001-pilot-2026-11-01.md).
+**Estado actual:** ninguna jornada está aprobada. El Día 01 está en progreso: el piloto del 2026-11-01 ya demostró las tres estructuras personales básicas; faltan la escucha guiada y cerrar el self-check con la evidencia existente. No repetir las estructuras ya demostradas. La pronunciación sigue sin evaluación acústica. Registro: [piloto del Día 1](daily-logs/day-001-pilot-2026-11-01.md).
 
 ## Resumen
 
