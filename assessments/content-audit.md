@@ -317,3 +317,12 @@ Completed a consolidated review of all 90 daily lesson files, incorporating the 
 A direct linguistic review of all 660 Phase 2 and Phase 3 Anki phrase/translation pairs was completed. Confirmed English-form issues and regional/naturalness candidates are recorded in [the Phase 2–3 Anki review](../vocabulary/anki-linguistic-review-phases-2-3-2026-11-01.md). Phase 1's first-pass candidates remain in its separate report. No APKG or CSV fields were changed. Keep the original and ordered deck unchanged until the learner explicitly approves a new edited copy.
 
 The remaining learner-dependent items are the corrected Day 1 pilot and actual listening/speaking evidence; later, report real Anki workload and transfer. Remaining assistant-side work includes rendered Markdown/external URL checks, Calendar workflow troubleshooting, and automated validation after edits. Technical media decoding does not establish audio pronunciation or naturalness.
+
+
+## Superseding status notes — 2026-11-01
+
+The consolidated review section above supersedes older “validation still required” notes for lesson-by-lesson text review and Anki language review. The current documented coverage is all 90 daily lesson files and all 1,000 Anki text pairs (Phase 1 first-pass; Phases 2–3 direct review). The identified lesson inconsistencies have been corrected, and the candidate Anki edits remain proposals; no APKG was changed.
+
+Calendar clarification: this English repository has no Calendar workflow or sync script. The schedule 19:00–20:00, Monday–Saturday, Honduras time is only a proposal; neither the destination calendar nor notification channel has been confirmed. The previously cited run IDs 40702109512 and 40702400684 belong to the separate cyber-data-analyst-study-plan repository and must not be treated as English-plan workflow failures. Calendar work remains deferred until the corrected Day 1 pilot and explicit confirmation of settings.
+
+Automated validation after the consolidated edits passed in [GitHub Actions run 41270268659](https://github.com/Jchernand3z19/english-90day-study-plan/actions/runs/41270268659). This validates repository structure, internal relative links, lesson cues, and checkpoint weights; it does not test every external URL or render every page visually.
