@@ -350,3 +350,13 @@ The second check successfully opened the direct British Council A2 “Changing p
 ## Reconciliation note — 2026-11-01
 
 The [consolidated 90-lesson review](consolidated-content-review-2026-11-01.md) records the editorial pass across Days 1–90, the specific corrections applied, and the curriculum/checkpoint alignment pass. This supersedes earlier forward-looking bullets above that say the day-by-day review had not yet begun or that no consolidated pass existed. It does **not** mean every sentence, translation, answer key, audio recording, external URL, or rendered page has been independently proofread or human-verified. Keep the audit status In progress for those remaining quality checks. The Day 1 pilot is now partially completed and documented in `../daily-logs/day-001-pilot-2026-11-01.md`; it is not lesson approval.
+
+
+## External resource recheck — 2026-11-01 (direct-page retry)
+
+The three British Council pages previously recorded as timing out were opened successfully on a later direct check:
+- **Transport announcements (A2 Listening):** the page contains train/platform announcements, a delay, flight boarding/gate information, transcript, exercises, and an A2 label. The direct link is usable, but the vocabulary load may be high for a beginner.
+- **Showing interest (A2 Speaking):** the page contains a short conversation and models reactions such as asking for more information, expressing surprise, and showing sympathy, followed by exercises. It is a useful model, not a required independent speaking task.
+- **An invitation to a party (A2 Listening):** the page opens and the transcript confirms two phone messages: first an invitation to a birthday party, then directions to the venue. It therefore does include an invitation, but the second message focuses on directions. The daily index now describes both parts and recommends an internal accept/decline role-play.
+
+The daily resource index was updated for Days 33, 52, and 53. This retry verifies that the pages and visible activity descriptions are accessible from the current retrieval environment; it does not certify audio playback on the learner's device or every exercise interaction. BBC Learning English remained inaccessible to the retrieval environment and is not labelled broken.
