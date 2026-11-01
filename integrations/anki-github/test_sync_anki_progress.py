@@ -114,5 +114,32 @@ class CollectSummaryTests(unittest.TestCase):
         self.assertEqual(sum(x["reviews"] for x in summary["daily_reviews_local_time"].values()), 1)
 
 
+class DeckScopeTests(unittest.TestCase):
+    @patch("sync_anki_progress.ANKI_DECKS", ["English Plan"])
+    @patch("sync_anki_progress.anki")
+    def test_only_configured_decks_are_queried(self, mock_anki):
+        mock_anki.side_effect = [
+            ["English Plan", "Personal Deck"],
+            {"123": {
+                "name": "English Plan", "new_count": 1, "learn_count": 0,
+                "review_count": 0, "total_in_deck": 20,
+            }},
+            [456],
+            {"456": []},
+        ]
+        summary = collect_summary()
+        self.assertEqual(mock_anki.call_args_list[1], call("getDeckStats", decks=["English Plan"]))
+        self.assertEqual(mock_anki.call_args_list[2], call("findCards", query='deck:"English Plan"'))
+        self.assertEqual(list(summary["decks"]), ["English Plan"])
+
+    @patch("sync_anki_progress.ANKI_DECKS", ["Missing Deck"])
+    @patch("sync_anki_progress.anki")
+    def test_missing_configured_deck_fails_before_collection(self, mock_anki):
+        mock_anki.return_value = ["English Plan", "Personal Deck"]
+        with self.assertRaisesRegex(RuntimeError, "Configured Anki deck"):
+            collect_summary()
+        mock_anki.assert_called_once_with("deckNames")
+
+
 if __name__ == "__main__":
     unittest.main()
