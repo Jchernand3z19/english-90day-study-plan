@@ -8,7 +8,7 @@
 
 The repository's 90-day curriculum has received targeted progression and workload corrections. The beginner lessons were adjusted to teach and model language before expecting independent production. Phase 2 speaking tasks and its checkpoint were reduced to a more gradual progression. Phase 3 was reviewed for its higher-level objectives and remains conditional on demonstrated readiness. Documentation now distinguishes completed baseline diagnostics, an invalid voice exercise, unmeasured learning outcomes, automated checks, and remaining manual review.
 
-**No daily lesson has been approved yet.** The tracker remains at 0/90. The corrected Day 1 lesson has not yet been piloted. The calendar integration is deliberately deferred.
+**No daily lesson has been approved yet.** The tracker remains at 0/90. The corrected Day 1 conversational pilot took place on 2026-11-01 and is recorded as partial evidence, not lesson completion. Listening comprehension and pronunciation remain unassessed. The calendar integration is deliberately deferred.
 
 ## Current priorities
 
@@ -19,7 +19,8 @@ The repository's 90-day curriculum has received targeted progression and workloa
 | 3 | Audio quality | Package integrity and full technical decode passed | Human listening for pronunciation, naturalness, and accent remains unverified; do not claim it passed. |
 | 4 | Corrected Day 1 pilot | Partially completed 2026-11-01; not approved | Finish the lesson's listening task, comprehension questions, and final self-check; preserve separate evidence for listening, pronunciation, and text/transcribed production. [Pilot log](daily-logs/day-001-pilot-2026-11-01.md). |
 | 5 | Anki workload and transfer | Import reported by learner; real usage not measured | After several sessions, evaluate review burden, recall, and spoken transfer. |
-| 6 | Anki → Python → GitHub sync | Draft script and setup guide committed; not installed or tested | Learner-side AnkiConnect and narrowly scoped GitHub token are required for a manual end-to-end test. No secret or collection data is present in the repo. |\n| 7 | Calendar and notifications | Deferred; placeholder documentation only, no calendar workflow or sync script | After the learning workflow is validated, confirm schedule, target calendar, and notification channel before implementing a separate workflow. |
+| 6 | Anki → Python → GitHub sync | Draft script and setup guide committed; not installed or tested | Learner-side AnkiConnect and narrowly scoped GitHub token are required for a manual end-to-end test. No secret or collection data is present in the repo. |
+| 7 | Calendar and notifications | Deferred; placeholder documentation only, no calendar workflow or sync script | After the learning workflow is validated, confirm schedule, target calendar, and notification channel before implementing a separate workflow. |
 | 8 | Repository validation | Previous content validation passed; new integration files need validation | Run syntax and structural checks for the Anki integration, then validate the updated tracker and status links. |
 
 **What requires the learner:** the corrected Day 1 practice and real listening/speaking evidence; later, a report of actual Anki workload; and any Google account authorization or confirmation needed to test Calendar. Lesson editing, Anki text review, documentation, and technical validation are assistant-side work.
@@ -166,7 +167,7 @@ The original and ordered Anki packages were inspected directly. Each has 1,000 n
 - Listen to a representative set of recordings for naturalness, pronunciation, and text/audio match. Automated decoding cannot replace listening.
 - Continue exact lesson-to-card selection only where it supports the lesson objective; the current map remains thematic.
 - Continue detailed review of lesson answer keys, translations, and pedagogical load beyond the focused audits already documented.
-- Day 1 learner pilot, Anki workload measurement, and calendar setup still require learner participation or approval.
+- Day 1 listening/self-check, Anki workload measurement, and Calendar setup still require learner participation or approval.
 
 ## Preliminary Anki linguistic review — 2026-11-01
 
