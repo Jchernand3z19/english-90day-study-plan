@@ -16,7 +16,7 @@
 
 | Día | Contenido | Práctica |
 |---:|---|---|
-| 1 | Diagnóstico, nombre, origen, trabajo e intereses | Presentación oral de 30–45 segundos |
+| 1 | Nombre, origen y ciudad con frases modelo | Decir tres frases breves con apoyo; no repetir el diagnóstico |
 | 2 | Saludos, despedidas y respuestas naturales | Tres diálogos breves |
 | 3 | Preguntas con what, where, how y who | Preguntar y responder sin leer |
 | 4 | Información personal, números y deletreo | Deletrear datos ficticios |
@@ -64,7 +64,7 @@
 
 ### Día 29 — Evaluación integrada
 
-- Presentación personal de 60 segundos.
+- Presentación personal breve de 20–30 segundos con cuatro o cinco frases sencillas.
 - Diálogo de compras o restaurante.
 - Escucha breve con preguntas de comprensión.
 - Descripción oral de la rutina diaria.
