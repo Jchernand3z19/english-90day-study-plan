@@ -14,7 +14,6 @@ import urllib.error
 import urllib.request
 from collections import defaultdict
 from datetime import datetime, timezone
-from pathlib import Path
 from typing import Any
 
 ANKI_URL = os.environ.get("ANKI_CONNECT_URL", "http://127.0.0.1:8765")
@@ -66,6 +65,39 @@ def load_existing_file(api_url: str) -> tuple[str | None, dict[str, Any]]:
         raise RuntimeError("Existing progress JSON is invalid; refusing to overwrite it.")
 
 
+def flatten_review_events(raw: Any) -> list[dict[str, Any]]:
+    """Accept common AnkiConnect response shapes and return review event objects."""
+    if raw is None:
+        return []
+    if isinstance(raw, dict):
+        flattened: list[dict[str, Any]] = []
+        for card_id, events in raw.items():
+            if isinstance(events, dict):
+                events = events.get("reviews", [events])
+            for event in events or []:
+                if isinstance(event, dict):
+                    item = dict(event)
+                    item.setdefault("cardId", card_id)
+                    flattened.append(item)
+        return flattened
+    if isinstance(raw, list):
+        flattened = []
+        for entry in raw:
+            if not isinstance(entry, dict):
+                continue
+            events = entry.get("reviews")
+            if isinstance(events, list):
+                for event in events:
+                    if isinstance(event, dict):
+                        item = dict(event)
+                        item.setdefault("cardId", entry.get("cardId"))
+                        flattened.append(item)
+            elif "id" in entry:
+                flattened.append(entry)
+        return flattened
+    raise RuntimeError(f"Unexpected getReviewsOfCards response: {type(raw).__name__}")
+
+
 def collect_summary() -> dict[str, Any]:
     deck_names = anki("deckNames")
     deck_stats = anki("getDeckStats")
@@ -92,7 +124,8 @@ def collect_summary() -> dict[str, Any]:
     for start in range(0, len(card_ids), 200):
         batch = card_ids[start:start + 200]
         if batch:
-            reviews.extend(anki("getReviewsOfCards", cards=batch) or [])
+            raw_reviews = anki("getReviewsOfCards", cards=batch)
+            reviews.extend(flatten_review_events(raw_reviews))
 
     daily: dict[str, dict[str, int]] = defaultdict(
         lambda: {"reviews": 0, "again": 0, "hard": 0, "good": 0, "easy": 0,
@@ -101,6 +134,8 @@ def collect_summary() -> dict[str, Any]:
     )
     for item in reviews:
         # Anki review IDs are Unix milliseconds. Convert to this Mac's local date.
+        if "id" not in item:
+            continue
         reviewed_at = datetime.fromtimestamp(int(item["id"]) / 1000).astimezone()
         day = daily[reviewed_at.date().isoformat()]
         day["reviews"] += 1
