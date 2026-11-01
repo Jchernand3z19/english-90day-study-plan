@@ -10,7 +10,7 @@
 - Narrar una anécdota en orden comprensible.
 - Explicar un problema, pedir ayuda y negociar una solución sencilla.
 - Iniciar conversaciones sociales y hacer preguntas de seguimiento.
-- Mantener una conversación guiada de 3–5 minutos.
+- Mantener una conversación guiada de 2–3 minutos; ampliar a 3–5 minutos es una extensión opcional.
 
 ## Semana 5 — Reservas y viajes (días 31–37)
 
@@ -29,11 +29,11 @@
 | Día | Contenido | Práctica |
 |---:|---|---|
 | 38 | Pasado simple y verbos frecuentes | Frases afirmativas y negativas |
-| 39 | Hablar de ayer y del fin de semana | Contar cinco acciones pasadas |
+| 39 | Hablar de ayer y del fin de semana | Contar dos o tres acciones pasadas con frases cortas |
 | 40 | Secuencia temporal: first, then, after that, finally | Ordenar una historia |
 | 41 | Experiencias de viaje y actividades | Narrar una experiencia |
 | 42 | Preguntar por experiencias ajenas | Hacer preguntas de seguimiento |
-| 43 | Anécdota con inicio, problema y cierre | Contar una historia de 1–2 minutos |
+| 43 | Anécdota con inicio, problema y cierre | Contar una historia de 30–45 segundos con dos conectores de secuencia |
 | 44 | Repaso ligero o descanso | Revisar verbos difíciles |
 
 ## Semana 7 — Imprevistos y resolución de problemas (días 45–51)
@@ -52,12 +52,12 @@
 
 | Día | Contenido | Práctica |
 |---:|---|---|
-| 52 | Iniciar y sostener una conversación | Conversación guiada de dos minutos |
+| 52 | Iniciar y sostener una conversación | Conversación guiada de 60–90 segundos con una o dos preguntas relevantes |
 | 53 | Invitaciones, aceptar y rechazar con cortesía | Proponer otro día o actividad |
 | 54 | Intereses, películas, música y tiempo libre | Explicar gustos con razones |
 | 55 | Preguntas de seguimiento | Evitar respuestas de una sola palabra |
 | 56 | Sugerencias y alternativas | Llegar a un plan sencillo |
-| 57 | Conversación social integrada | Conversación de 3–5 minutos |
+| 57 | Conversación social integrada | Conversación guiada de 2–3 minutos; 3–5 minutos es una extensión opcional |
 | 58 | Repaso ligero o descanso | Revisar errores y vocabulario |
 
 ## Cierre de fase (días 59–60)
