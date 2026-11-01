@@ -1,7 +1,7 @@
 # Integrated listening and speaking architecture
 
-**Status:** Design requirements defined; lesson-by-lesson implementation audit pending.  
-**Last updated:** 2026-10-31
+**Status:** Design requirements defined; 90-lesson text audit completed on 2026-11-01. Full Anki-to-lesson traceability, audio-quality review, and learner pilot remain pending.  
+**Last updated:** 2026-11-01
 
 ## Purpose
 
@@ -167,18 +167,3 @@ For each conversation:
 New expressions that arise naturally can be recorded as **candidate learning items**. Add them to Anki only after review when they are reusable, useful, level-appropriate, and not redundant with an existing card. Do not create a card for every new word or let card creation overload the learner.
 
 A conversation can therefore contain both selected Anki language and new supporting language. Its success is judged by whether the learner understands and communicates the intended meaning, not by how many deck phrases were inserted. The detailed phrase-to-speech loop remains available for selected target chunks; it does not turn the entire conversation into a phrase drill.
-
-## Natural conversation: Anki is a starting point, not a script
-
-Conversation practice must sound and function like a real, coherent interaction. Anki supplies useful language to retrieve and practise; it does not limit the vocabulary, grammar, or expressions that may appear, and it is not a script to recite.
-
-For each conversation:
-- Give the exchange a clear communicative purpose and believable context.
-- Intentionally retrieve only a small, relevant selection of Anki phrases. Do not force unrelated cards into the exchange or use the whole deck.
-- Add ordinary language needed for flow: connectors, reactions, follow-up questions, explanations, clarification, turn-taking, and context-specific vocabulary (for example, *well*, *actually*, *because*, *so*, *by the way*, *Really?*, *That sounds interesting*, and *What about you?*).
-- Let the learner's answer shape the next tutor response; do not mechanically advance through a fixed phrase list.
-- Keep turns, vocabulary, and pace appropriate to demonstrated ability. Natural beginner conversation means short, understandable turns with support—not overload or artificially fast speech.
-- Model genuinely new language before expecting independent use. Ask one question at a time, then give one or two high-value corrections and invite a retry.
-- Reuse familiar Anki language in new contexts so retrieval becomes flexible communication, not memorised dialogue performance.
-
-New expressions may be recorded as **candidate learning items**. Add them to Anki only after review confirms they are reusable, useful, level-appropriate, and not redundant. Do not create a card for every incidental word. Conversation success is judged by meaningful understanding and communication, not by the number of deck phrases inserted.
