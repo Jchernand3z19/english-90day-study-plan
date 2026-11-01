@@ -63,3 +63,15 @@ Only real-world evidence can close these items:
 - Run the repository's automated validation after these lesson and documentation changes.
 - Check rendered Markdown and external links in the GitHub interface; a structural link check is not a full visual/browser review.
 - Calendar sync remains deferred. Earlier runs failed during setup; do not claim notifications are active until the workflow is repaired and an actual calendar event is verified.
+
+
+## Curriculum and checkpoint alignment — additional corrections
+
+A second consistency pass compared the curriculum maps and phase rubric directly against the daily lessons. It found additional mismatches, which were corrected:
+
+- **Phase 1:** curriculum entries for Days 3, 4, 5, 7, 8, 13, 18, 19, 22, 23, 25, and 27 were aligned with the actual supported tasks. This removes requirements for question types, weather, five-product shopping, five direction instructions, comparing locations, five routine activities, and a 1–2 minute Day 27 speech when those are not required by the daily lesson.
+- **Phase 2:** the phase outcome now targets a guided 2–3 minute conversation, with 3–5 minutes as optional extension. Days 39, 43, 52, and 57 now match their lesson tasks (two or three past actions; a 30–45 second anecdote; a 60–90 second social exchange; and a 2–3 minute integrated conversation). Day 39 and Day 57 self-checks were also aligned to the actual production tasks.
+- **Phase 3:** Day 65's curriculum description now matches the conversation, detail, reaction, and follow-up-question task in the lesson.
+- **Phase 1 assessment:** Day 29's rubric no longer makes a reason for learning English a mandatory item; the core introduction remains four or five simple sentences in 20–30 seconds, and the reason is optional.
+
+The phase maps are guides to progression, not additional hidden requirements. The daily lesson and fixed phase assessment remain the source of truth.
