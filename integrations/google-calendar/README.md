@@ -4,12 +4,13 @@ This folder documents a possible calendar integration for the study plan.
 
 ## Current status
 
-**Not configured or verified.** No automated event creation or reminder delivery is claimed at this stage.
+**Not implemented, configured, or verified.** This repository currently has no Calendar workflow or sync script. No automated event creation or reminder delivery is active.
 
-## Intended behavior
+## Proposed behavior (not yet confirmed)
 
-- Study target: 7:00–8:00 p.m. Honduras time, Monday through Saturday.
+- Proposed study window: 7:00–8:00 p.m. Honduras time, Monday through Saturday.
 - Sunday: rest or optional light review.
+- Notification channel and destination calendar: not yet selected for this English plan. Email must not be assumed.
 - Calendar events should identify the study day and link to the relevant lesson.
 - A missed session should remain pending; automation must not mark a lesson approved.
 
@@ -25,4 +26,4 @@ Do not commit service-account JSON, access tokens, private keys, calendar IDs th
 
 ## Next step
 
-Finish and validate the learning materials first. Then implement the calendar workflow as a separate change and verify it before describing it as operational.
+Finish and validate the learning materials and complete the corrected Day 1 pilot first. Then confirm the schedule, destination calendar, and notification channel with the learner; only then implement a dedicated workflow and verify a real event before describing it as operational. Do not reuse another repository's workflow status as evidence for this plan.
