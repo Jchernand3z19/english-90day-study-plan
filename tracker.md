@@ -32,7 +32,7 @@ No marques una lección como Aprobada solo porque llegó su fecha o leíste el a
 
 | Día | Tema | Estado | Evidencia / notas |
 |---:|---|---|---|
-| 01 | [Presentación personal con frases guiadas](lessons/day-001.md) | En progreso | Piloto conversacional 2026-11-01: produjo correctamente las tres estructuras principales en texto/transcripción; extensiones sobre edad, música, caminar en el parque y dominó necesitaron distintos niveles de apoyo. Listening y pronunciación no evaluados; faltan escucha guiada, preguntas de comprensión y self-check final. [Registro detallado](daily-logs/day-001-pilot-2026-11-01.md). |
+| 01 | [Presentación personal con frases guiadas](lessons/day-001.md) | En progreso | Piloto conversacional 2026-11-01: produjo correctamente las tres estructuras principales en texto/transcripción; extensiones sobre edad, música, caminar en el parque y dominó necesitaron distintos niveles de apoyo. Listening y pronunciación no evaluados; faltan escucha guiada y preguntas de comprensión; cerrar el self-check con la evidencia ya registrada, sin repetir las tres estructuras demostradas. [Registro detallado](daily-logs/day-001-pilot-2026-11-01.md). |
 | 02 | [Saludos y despedidas](lessons/day-002.md) | Pendiente | |
 | 03 | [Preguntas básicas para conocer a alguien](lessons/day-003.md) | Pendiente | |
 | 04 | [Información personal y deletreo](lessons/day-004.md) | Pendiente | |
