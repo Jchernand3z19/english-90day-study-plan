@@ -19,7 +19,7 @@ The repository's 90-day curriculum has received targeted progression and workloa
 | 3 | Audio quality | Package integrity and full technical decode passed | Human listening for pronunciation, naturalness, and accent remains unverified; do not claim it passed. |
 | 4 | Corrected Day 1 pilot | Pending learner practice | Tutor follows lessons/day-001.md exactly, teaches/model first, and asks one question at a time. |
 | 5 | Anki workload and transfer | Import reported by learner; real usage not measured | After several sessions, evaluate review burden, recall, and spoken transfer. |
-| 6 | Calendar and notifications | Deferred; prior workflow attempts failed | Troubleshoot the existing workflow and prepare all changes possible without account authorization; activate only after a real event test. |
+| 6 | Calendar and notifications | Deferred; this repository has only placeholder documentation, no workflow or sync script | After the Day 1 pilot, confirm schedule, target calendar, and notification channel before implementing a separate workflow. |
 | 7 | Repository validation | Prior automated checks passed; new edits now require a fresh run | Confirm latest GitHub Actions result and inspect any failures. |
 
 **What requires the learner:** the corrected Day 1 practice and real listening/speaking evidence; later, a report of actual Anki workload; and any Google account authorization or confirmation needed to test Calendar. Lesson editing, Anki text review, documentation, and technical validation are assistant-side work.
@@ -78,7 +78,7 @@ The incident is documented in assessments/voice-pilot-incident-2026-10-29.md. Da
 
 ## Calendar and notification plan (deferred)
 
-The intended configuration previously selected is Monday–Saturday, 19:00–20:00 Honduras time, email notifications only, using the Google Calendar API through GitHub Actions. The rule for missed sessions is to leave the lesson pending and resume it; never skip or auto-approve. Earlier workflow attempts failed with exit code 2 at a setup step (runs 40702109512 and 40702400684); this has not been resolved because calendar work is intentionally postponed until curriculum and pilot acceptance. No active calendar sync is claimed.
+The English repository currently contains only a placeholder README in integrations/google-calendar/; there is no calendar workflow or sync script, and no event creation or reminder delivery is active. Monday–Saturday, 19:00–20:00 Honduras time is only a proposed study window, not a confirmed calendar configuration. The notification channel and destination calendar have not been confirmed for this English plan. The previously cited failed runs 40702109512 and 40702400684 belong to the separate cyber-data-analyst-study-plan repository; they are not failures of this English repository's calendar integration. After the corrected Day 1 pilot, confirm the calendar details with the learner before implementing and testing a dedicated workflow. A missed session must remain pending; never skip or auto-approve.
 
 ## Repository validation and remaining limits
 
@@ -170,7 +170,7 @@ The original and ordered Anki packages were inspected directly. Each has 1,000 n
 
 ## Preliminary Anki linguistic review — 2026-11-01
 
-A first-pass review of the 340 Phase 1 cards identified ten candidate entries for context, naturalness, placeholder, or register review. A structural scan of Phase 2/3 also found two Spanish placeholders in English target phrases (orders 396 and 398). These are candidates, not approved corrections; no APKG or manifest content was changed. The full 1,000-card linguistic review remains open. See [preliminary review notes](vocabulary/anki-linguistic-review-phase-1-2026-11-01.md).
+A first-pass review of the 340 Phase 1 cards identified ten candidate entries for context, naturalness, placeholder, or register review. A structural scan of Phase 2/3 also found two Spanish placeholders in English target phrases (orders 396 and 398). These are candidates, not approved corrections; no APKG or manifest content was changed. The first-pass linguistic review now covers all 1,000 text pairs across the three phases; proposed edits are documented separately and no APKG or manifest content was changed. See [preliminary review notes](vocabulary/anki-linguistic-review-phase-1-2026-11-01.md).
 
 ## Repository validation — 2026-11-01
 
@@ -181,4 +181,5 @@ The latest GitHub Actions validation after the documentation and Day 1 updates p
 
 - Completed a consolidated review of all 90 daily lesson files, incorporating the earlier direct review of Days 77–90. Targeted inconsistencies in Days 19, 26, 29–30, 40, 42, 52, 54–55, 57, and 71 were corrected. Details: [consolidated content review](assessments/consolidated-content-review-2026-11-01.md).
 - Reviewed all 660 Anki text pairs in Phases 2 and 3. Phase 1 has a separate first-pass review. Candidate edits are documented; neither APKG nor the CSV manifest was modified. See [Phase 2–3 linguistic review](vocabulary/anki-linguistic-review-phases-2-3-2026-11-01.md).
-- Remaining non-learner work: final rendered Markdown/external URL checks, calendar workflow troubleshooting, and post-change GitHub Actions validation. Human audio-quality review and learner practice cannot be inferred from technical file checks.
+- Remaining non-learner work: final rendered Markdown/external URL checks and any additional editorial fixes found. Calendar implementation is intentionally deferred until the pilot and confirmation of settings. Human audio-quality review and learner practice cannot be inferred from technical file checks.
+- Latest automated repository validation: [run 41270268659](https://github.com/Jchernand3z19/english-90day-study-plan/actions/runs/41270268659) — success; both lesson/tracker/link checks and lesson-quality/checkpoint checks passed.
