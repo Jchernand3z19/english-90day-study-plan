@@ -71,7 +71,7 @@ The reconciled wording now distinguishes a **partial pilot** from a **completed/
 
 ### Learner participation required later
 
-1. Finish only the missing Day 1 tasks: the lesson's actual listening activity, remaining supported speaking/self-check, and a genuine audio sample only if pronunciation is to be assessed. Do not repeat the already completed written baseline or the separate external listening diagnostic.
+1. Finish only the missing Day 1 tasks: hear the lesson's short listening audio and answer its three questions; close the self-check using the three core sentence frames already demonstrated. Do not repeat those speaking frames, the written baseline, or the separate external listening diagnostic. A genuine audio sample is needed only if pronunciation is to be assessed.
 2. After several Anki sessions, report actual review burden and phrase retrieval so the proposed new-card pace can be judged.
 3. Participate in a manual AnkiConnect test on the Mac only after code review and explicit approval of the data scope. This is the only step that requires access to the learner's running Anki installation and a securely supplied GitHub token.
 4. Confirm Calendar details and authorize any required account connection before Calendar automation is built or tested.
