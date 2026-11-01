@@ -181,5 +181,10 @@ The latest GitHub Actions validation after the documentation and Day 1 updates p
 
 - Completed a consolidated review of all 90 daily lesson files, incorporating the earlier direct review of Days 77–90. Targeted inconsistencies in Days 19, 26, 29–30, 40, 42, 52, 54–55, 57, and 71 were corrected. Details: [consolidated content review](assessments/consolidated-content-review-2026-11-01.md).
 - Reviewed all 660 Anki text pairs in Phases 2 and 3. Phase 1 has a separate first-pass review. Candidate edits are documented; neither APKG nor the CSV manifest was modified. See [Phase 2–3 linguistic review](vocabulary/anki-linguistic-review-phases-2-3-2026-11-01.md).
-- Remaining non-learner work: final rendered Markdown/external URL checks and any additional editorial fixes found. Calendar implementation is intentionally deferred until the pilot and confirmation of settings. Human audio-quality review and learner practice cannot be inferred from technical file checks.
+- Remaining non-learner work: final rendered Markdown checks and retry the five external pages that timed out; no URL is marked broken solely due to a timeout. Calendar implementation is intentionally deferred until the pilot and confirmation of settings. Human audio-quality review and learner practice cannot be inferred from technical file checks.
 - Latest automated repository validation: [run 41270268659](https://github.com/Jchernand3z19/english-90day-study-plan/actions/runs/41270268659) — success; both lesson/tracker/link checks and lesson-quality/checkpoint checks passed.
+
+
+## External resource spot-check — 2026-11-01
+
+A set of core British Council and Cambridge resources loaded and matched their visible title/level/topic. Five individual British Council A2 pages timed out; the A2 catalogue's “An invitation to a party” entry has a visible title/description mismatch and is now treated as unverified/catalog-only in the resource index. BBC Learning English blocked automated retrieval, so its availability was not assessed. Details are in assessments/content-audit.md. Automated repository validation does not fetch external URLs.
