@@ -2,7 +2,7 @@
 
 **Last updated:** 2026-11-01  
 **Repository:** Jchernand3z19/english-90day-study-plan  
-**Overall status:** Active; consolidated review of all 90 lessons and all 1,000 Anki text pairs completed; targeted corrections and editorial candidates documented. Corrected Day 1 pilot and a few external/real-world checks remain open.
+**Overall status:** Active; consolidated review of all 90 lessons and all 1,000 Anki text pairs completed; targeted corrections and editorial candidates documented. Day 1 conversational pilot partially completed and recorded; lesson remains in progress. Local Anki → Python → GitHub integration draft added but not installed or end-to-end tested.
 
 ## Executive summary
 
@@ -17,10 +17,10 @@ The repository's 90-day curriculum has received targeted progression and workloa
 | 1 | 90-lesson content review | Text and curriculum review complete; targeted inconsistencies corrected; automated checks pass | No further text edits block the pilot. External links received a documented spot-check; GitHub-rendered visual review could not be independently retrieved in this environment. |
 | 2 | Anki language quality | Phase 1 first-pass review and Phase 2–3 review completed; candidate edits documented | Keep both APKGs unchanged until the learner explicitly approves a new edited copy. |
 | 3 | Audio quality | Package integrity and full technical decode passed | Human listening for pronunciation, naturalness, and accent remains unverified; do not claim it passed. |
-| 4 | Corrected Day 1 pilot | Pending learner practice | Tutor follows lessons/day-001.md exactly, teaches/model first, and asks one question at a time. |
+| 4 | Corrected Day 1 pilot | Partially completed 2026-11-01; not approved | Finish the lesson's listening task, comprehension questions, and final self-check; preserve separate evidence for listening, pronunciation, and text/transcribed production. [Pilot log](daily-logs/day-001-pilot-2026-11-01.md). |
 | 5 | Anki workload and transfer | Import reported by learner; real usage not measured | After several sessions, evaluate review burden, recall, and spoken transfer. |
-| 6 | Calendar and notifications | Deferred; this repository has only placeholder documentation, no workflow or sync script | After the Day 1 pilot, confirm schedule, target calendar, and notification channel before implementing a separate workflow. |
-| 7 | Repository validation | Final validation passed after the current content/resource/Anki-policy edits | Re-run only when future repository changes are made. |
+| 6 | Anki → Python → GitHub sync | Draft script and setup guide committed; not installed or tested | Learner-side AnkiConnect and narrowly scoped GitHub token are required for a manual end-to-end test. No secret or collection data is present in the repo. |\n| 7 | Calendar and notifications | Deferred; placeholder documentation only, no calendar workflow or sync script | After the learning workflow is validated, confirm schedule, target calendar, and notification channel before implementing a separate workflow. |
+| 8 | Repository validation | Previous content validation passed; new integration files need validation | Run syntax and structural checks for the Anki integration, then validate the updated tracker and status links. |
 
 **What requires the learner:** the corrected Day 1 practice and real listening/speaking evidence; later, a report of actual Anki workload; and any Google account authorization or confirmation needed to test Calendar. Lesson editing, Anki text review, documentation, and technical validation are assistant-side work.
 
@@ -37,7 +37,7 @@ Do not repeat these as initial diagnostics:
 
 On 2026-10-29, an improvised job-search dialogue about Alex was used instead of the assigned Day 1 lesson. The task was too difficult and stopped after three items. It is **not** valid Day 1 completion, lesson listening evidence, a diagnostic score, or proof of failure on the actual lesson.
 
-The incident is documented in assessments/voice-pilot-incident-2026-10-29.md. Day 1 was rewritten as a beginner lesson with three personal sentence frames, a short four-sentence listening text, three simple comprehension questions, and supported speaking. The learner has not yet completed this corrected version. Day 1 remains Pending.
+The incident is documented in assessments/voice-pilot-incident-2026-10-29.md. Day 1 was rewritten as a beginner lesson with three personal sentence frames, a short four-sentence listening text, three simple comprehension questions, and supported speaking. The learner completed part of the corrected lesson in a conversational pilot on 2026-11-01: the three core sentence frames were produced correctly in text/transcription. The lesson's listening script and comprehension questions were not completed; pronunciation was not acoustically assessed; the final self-check was not completed. Day 1 is In progress, not approved. See [pilot record](daily-logs/day-001-pilot-2026-11-01.md).
 
 ## Curriculum work completed
 
@@ -131,7 +131,7 @@ A new [integrated learning architecture](learning-architecture.md) defines how t
 6. Pilot corrected Day 1 and record listening, pronunciation, and spontaneous speaking separately.
 7. Update tracking/validation so lesson completion is distinct from phrase/skill mastery.
 
-The corrected Day 1 pilot remains pending; calendar automation remains deferred. No lesson is approved yet.
+The Day 1 conversational pilot is partially complete and documented; the required listening and final self-check remain open, so no lesson is approved. Calendar automation remains deferred.
 ## Conversational design rule — 2026-10-31
 
 The learning method now explicitly distinguishes Anki retrieval from real conversation. Anki phrases are a starting resource, not a vocabulary ceiling or dialogue script. Conversation activities must have a communicative purpose and natural progression, intentionally reuse a small relevant subset of deck phrases, and add the connectors, reactions, follow-up questions, clarification, and context-specific language needed for a coherent exchange.
@@ -203,3 +203,23 @@ The category-level Anki map is sufficient for dynamic lesson selection. A fixed 
 ## Ready-for-pilot boundary — 2026-11-01
 
 The assistant-side text, curriculum, Anki text review, resource-index corrections, documentation, and automated structural validation are complete to the level needed to begin the corrected Day 1 pilot. Remaining limits are explicit: the 1,000-card audio has passed technical decoding but not human naturalness/pronunciation review; a few external pages time out in the retrieval environment; and GitHub's rendered HTML could not be independently fetched here. None of these blocks the corrected Day 1 lesson, which uses its own short listening script. The next required action is the learner's corrected Day 1 pilot. Calendar settings and automation remain deferred until after that pilot and confirmation of the schedule, destination calendar, and notification channel.
+
+
+## Day 1 pilot and integration preparation — 2026-11-01
+
+The learner completed a guided conversational practice covering the three core Day 1 sentence frames plus optional extensions (age, music, walking in the park, and dominoes). The core frames were correct in the visible text/transcription. Some optional language required modelling and correction before the learner reproduced it. This is useful preliminary evidence that short prompts, modelling, and Spanish explanations support participation, but it is not evidence of pronunciation quality or listening comprehension. The tutor also introduced extra questions before completing the lesson's prescribed listening and final self-check; this is recorded as a process deviation to correct. Full details: [Day 1 pilot record](daily-logs/day-001-pilot-2026-11-01.md). Day 1 is **In progress**, not approved.
+
+A first local Anki integration draft has been committed:
+- [Integration guide](integrations/anki-github/README.md)
+- [Local Python sync script](integrations/anki-github/sync_anki_progress.py)
+- [GitHub data destination](learning-data/)
+
+The intended flow is Anki Desktop + AnkiConnect on the learner's Mac → local Python aggregation → GitHub Contents API. The initial export is restricted to aggregate deck counts and daily review statistics; it must not upload card text, translations, audio, notes, or raw review events. The script is a draft and has **not** been executed against the learner's Anki installation. End-to-end validation requires AnkiConnect to be installed/enabled, Anki Desktop to be open, and a narrowly scoped GitHub token supplied securely at runtime. Do not schedule it or claim it is operational until a successful manual sync has been inspected.
+
+### Revised immediate next actions
+
+1. Complete the remaining Day 1 listening task and final self-check in a later learner session; keep pronunciation unassessed unless an actual audio sample can be reviewed.
+2. Review and validate the new Python script, especially AnkiConnect compatibility and safe GitHub update behaviour.
+3. Run one manual local sync after the learner-side prerequisites are available; inspect the exact JSON written to GitHub.
+4. Only after manual validation, decide whether to schedule the local sync with macOS launchd.
+5. Keep Calendar deferred; it is separate from Anki sync and requires its own explicit settings and authorization.
