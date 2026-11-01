@@ -2,7 +2,7 @@
 
 Consulta el [estado consolidado del proyecto](PROJECT-STATUS.md) y el [registro de auditoría](assessments/content-audit.md) para conocer las correcciones y tareas pendientes.
 
-**Estado actual:** ninguna jornada está aprobada. El Día 01 sigue pendiente: los diagnósticos iniciales son evidencia separada y la nueva lección guiada aún no se ha completado. No se presume que se haya completado ninguna actividad sin evidencia.
+**Estado actual:** ninguna jornada está aprobada. El Día 01 está en progreso: el piloto conversacional del 2026-11-01 aportó evidencia parcial, pero faltan la escucha guiada, el self-check final y evidencia acústica para evaluar pronunciación. Registro: [piloto del Día 1](daily-logs/day-001-pilot-2026-11-01.md).
 
 ## Resumen
 
@@ -32,7 +32,7 @@ No marques una lección como Aprobada solo porque llegó su fecha o leíste el a
 
 | Día | Tema | Estado | Evidencia / notas |
 |---:|---|---|---|
-| 01 | [Presentación personal con frases guiadas](lessons/day-001.md) | Pendiente | Diagnósticos iniciales registrados por separado ([evidencia](assessments/initial-written-evidence.md)); evaluación auditiva externa British Council A1 completada ([evidencia](assessments/initial-listening-evidence.md)); muestra de presentación recibida ([evidencia](assessments/initial-speaking-text-evidence.md)). No repetir estas pruebas. El ejercicio de voz del 2026-10-29 usó un diálogo improvisado distinto al de la lección y no cuenta como escucha, práctica ni evaluación del Día 1 ([incidente y corrección](assessments/voice-pilot-incident-2026-10-29.md)). La versión corregida (tres frases modelo y escucha breve) aún no se ha completado. Dos ideas adicionales se entregaron por texto y no están confirmadas en el audio. |
+| 01 | [Presentación personal con frases guiadas](lessons/day-001.md) | En progreso | Piloto conversacional 2026-11-01: produjo correctamente las tres estructuras principales en texto/transcripción; extensiones sobre edad, música, caminar en el parque y dominó necesitaron distintos niveles de apoyo. Listening y pronunciación no evaluados; faltan escucha guiada, preguntas de comprensión y self-check final. [Registro detallado](daily-logs/day-001-pilot-2026-11-01.md). |
 | 02 | [Saludos y despedidas](lessons/day-002.md) | Pendiente | |
 | 03 | [Preguntas básicas para conocer a alguien](lessons/day-003.md) | Pendiente | |
 | 04 | [Información personal y deletreo](lessons/day-004.md) | Pendiente | |
@@ -137,7 +137,8 @@ No marques una lección como Aprobada solo porque llegó su fecha o leíste el a
 
 | Fecha | Día | Escucha | Producción oral | Vocabulario | Resultado | Próximo paso |
 |---|---:|---|---|---|---|---|
-| 2026-10-28 | 01 (línea base) | No evaluada | No evaluada | Lectura 3/3; gramática/vocabulario 4/5 | Diagnóstico escrito completado; Día 1 incompleto | No repetir lectura ni gramática. Iniciar Día 1; evaluar escucha con audio no visto y producción oral en voz alta. |
+| 2026-10-28 | 01 (línea base) | No evaluada | No evaluada | Lectura 3/3; gramática/vocabulario 4/5 | Diagnóstico escrito completado; evidencia separada del curso | No repetir lectura ni gramática. |
+| 2026-11-01 | 01 (piloto conversacional) | No evaluada | Texto/transcripción: tres estructuras básicas correctas; pronunciación no evaluada | Extensiones corregidas con apoyo; Anki no medido | En progreso; no aprobado | Completar escucha guiada, preguntas de comprensión y self-check; registrar audio si se evaluará pronunciación. [Registro](daily-logs/day-001-pilot-2026-11-01.md) |
 
 ## Regla para actualizar
 
