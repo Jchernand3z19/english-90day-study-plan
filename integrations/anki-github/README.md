@@ -26,7 +26,7 @@ The JSON summary contains only sync time, the explicitly configured deck name(s)
 ## Requirements
 
 - Anki Desktop running on the Mac.
-- AnkiConnect add-on installed and enabled (default local endpoint, port 8765).
+- AnkiConnect add-on installed and enabled (default local endpoint, port 8765). Keep it bound to `127.0.0.1`; do not expose the API port to the local network or the internet.
 - Python 3.10+ (standard library only).
 - A GitHub fine-grained token restricted to this repository with **Contents: Read and write**. Do not use a classic broad-scope token.
 - Store the token in the macOS Keychain or inject it as the `GITHUB_TOKEN` environment variable at runtime. Never put it in this repository or shell history.
@@ -64,7 +64,7 @@ Do not paste the real token into chat or commit it to a file. For routine use, p
 
 ## Known limitations
 
-- AnkiConnect must be installed and Anki must be open on the local Mac.
+- AnkiConnect must be installed and Anki must be open on the local Mac. Keep the add-on's default localhost-only binding; do not expose its broad collection API to other devices.
 - A local process is required; GitHub-hosted runners cannot reach the learner's localhost AnkiConnect service.
 - This is a progress mirror only. It does not yet map individual card IDs to conversation turns or claim spoken mastery.
 - A card's Anki ease response is not proof of listening comprehension, pronunciation, or independent spoken transfer.
