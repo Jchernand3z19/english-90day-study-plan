@@ -43,3 +43,8 @@ A translation can be understandable and still be less natural, ambiguous, or mis
 2. Review Phase 2 and Phase 3 entries with the same standard.
 3. Check that the final deck sequence introduces useful language progressively without forcing advanced or irrelevant phrases into early conversation.
 4. Only then decide whether to produce a corrected ordered package. Preserve the original and avoid requiring a re-import unless the learner explicitly chooses to replace the current study copy.
+
+
+## Cross-phase placeholder scan — 2026-11-01
+
+A structural scan of Phase 2 and Phase 3 found two additional Spanish placeholders embedded in English target phrases: order 396, *Hello, this is [nombre] speaking*, and order 398, *Can I speak to [nombre]?*. Consider changing the English-side placeholder to `[name]` in a future corrected copy while retaining `[nombre]` in the Spanish translation. This is a targeted placeholder scan, not a full linguistic review of the 660 Phase 2/3 entries.
