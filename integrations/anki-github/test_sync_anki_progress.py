@@ -1,12 +1,12 @@
 import io
 import json
 import unittest
-from unittest.mock import patch
+from unittest.mock import call, patch
 
 from datetime import timezone, timedelta
 
 from sync_anki_progress import (
-    aggregate_daily_reviews, flatten_review_events, merge_daily_history, request_json,
+    aggregate_daily_reviews, collect_summary, flatten_review_events, merge_daily_history, request_json,
 )
 
 
@@ -94,6 +94,24 @@ class RequestJsonTests(unittest.TestCase):
         self.assertEqual(request.get_header("Content-type"), "application/json")
         self.assertEqual(json.loads(request.data.decode("utf-8")), payload)
         self.assertEqual(response["result"], 6)
+
+
+class CollectSummaryTests(unittest.TestCase):
+    @patch("sync_anki_progress.anki")
+    def test_requests_deck_stats_for_the_discovered_decks(self, mock_anki):
+        mock_anki.side_effect = [
+            ["English Plan"],
+            {"123": {
+                "name": "English Plan", "new_count": 2, "learn_count": 1,
+                "review_count": 3, "total_in_deck": 100,
+            }},
+            [456],
+            {"456": [{"id": 1700000000000, "ease": 3, "type": 1, "time": 500}]},
+        ]
+        summary = collect_summary()
+        self.assertEqual(mock_anki.call_args_list[1], call("getDeckStats", decks=["English Plan"]))
+        self.assertEqual(summary["decks"]["English Plan"]["total_in_deck"], 100)
+        self.assertEqual(sum(x["reviews"] for x in summary["daily_reviews_local_time"].values()), 1)
 
 
 if __name__ == "__main__":
