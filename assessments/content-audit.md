@@ -335,3 +335,8 @@ A direct spot-check was performed on the resource links used by the daily index 
 Some individual British Council A2 URLs timed out during the check: “Transport announcements”, “Changing plans”, “Changing a meeting time”, “Showing interest”, and “An invitation to a party”. A timeout is not proof that a URL is broken. However, the A2 Listening catalogue currently describes its “An invitation to a party” entry as phone messages with directions, so the daily resource index and weekly map were corrected to treat A2 Listening as a catalogue and to prioritise the lesson's own invitation dialogue until that specific activity can be verified. BBC Learning English could not be fetched because the site blocked the crawler; the link is not marked broken on that basis.
 
 This is a spot-check, not a guarantee that every one of the external links is available in every region or remains unchanged. The repository's automated validator checks relative Markdown links only; it does not fetch external URLs.
+
+
+## Curriculum-to-lesson alignment — 2026-11-01
+
+A further comparison of the three phase maps and the fixed phase assessment against daily lessons corrected progression mismatches. Phase 1 Days 3, 4, 5, 7, 8, 13, 18, 19, 22, 23, 25, and 27 were aligned to the actual lesson load. Phase 2 outcomes and Days 39, 43, 52, and 57 were aligned to the current speaking targets; Day 39 and Day 57 self-checks were corrected as well. Phase 3 Day 65 now describes the actual conversation task. Day 29's assessment no longer requires an explanation of why the learner is studying English. The detailed changes are listed in assessments/consolidated-content-review-2026-11-01.md.
