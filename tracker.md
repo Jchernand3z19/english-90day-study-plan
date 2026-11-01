@@ -93,7 +93,7 @@ No marques una lección como Aprobada solo porque llegó su fecha o leíste el a
 | 54 | [Intereses y actividades](lessons/day-054.md) | Pendiente | |
 | 55 | [Hacer preguntas de seguimiento](lessons/day-055.md) | Pendiente | |
 | 56 | [Aceptar, rechazar y proponer alternativas](lessons/day-056.md) | Pendiente | |
-| 57 | [Conversación social de 3–5 minutos](lessons/day-057.md) | Pendiente | |
+| 57 | [Conversación social guiada de 2–3 minutos](lessons/day-057.md) | Pendiente | |
 | 58 | [Repaso ligero / descanso](lessons/day-058.md) | Pendiente | |
 | 59 | [Evaluación integrada de fase](lessons/day-059.md) | Pendiente | |
 | 60 | [Corrección de errores y cierre](lessons/day-060.md) | Pendiente | |
