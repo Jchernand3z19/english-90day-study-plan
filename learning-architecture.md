@@ -139,18 +139,18 @@ This is a progression guide, not a promise that every feature will be mastered b
 
 ## Audit and implementation status
 
-The architecture is now defined. The following work remains before claiming that the curriculum implements it:
+The architecture is defined. The 2026-11-01 consolidated review completed a text-level review of all 90 daily lessons for objectives, target language, task load, progression, translations, timing, listening instructions, and phase-checkpoint alignment. Targeted inconsistencies were corrected; see [the consolidated content review](assessments/consolidated-content-review-2026-11-01.md).
 
-1. Audit all 90 lesson files against the traceability checklist.
-2. Inspect the Anki deck's actual phrase content and metadata to map relevant subsets to lessons; do not infer alignment from phase tags alone.
-3. Sample and then review the deck audio for content, pronunciation model, clarity, accent, and consistency with card text.
-4. Check lesson audio/dialogues for natural spoken forms, suitable speed, comprehensibility, and accurate comprehension questions.
-5. Identify gaps where a lesson teaches written forms but gives no listening or speaking transfer.
-6. Add or correct only the missing lesson elements; avoid rewriting lessons that already meet the criteria.
-7. Pilot the corrected Day 1 sequence and record listening, pronunciation, and speaking separately.
-8. Update the tracker and quality checks so lesson completion and language mastery are not conflated.
+The following implementation/traceability work remains:
 
-Until those steps are completed, this document records requirements and an audit plan, not proof that all 90 lessons or all Anki audio have been aligned.
+1. Map a small, relevant selection of exact Anki cards to each lesson objective. The current category-level map is not an exact card-to-day assignment.
+2. Sample and then review deck audio for phrase match, pronunciation model, clarity, accent, naturalness, and suitability.
+3. Check lesson dialogues/audio for natural spoken forms, suitable speed, comprehensibility, and accurate comprehension questions. Static text review cannot certify audio quality.
+4. Identify any remaining gaps where written target language lacks listening, pronunciation, or new-context speaking transfer; add only what is needed.
+5. Pilot the corrected Day 1 sequence and record listening, pronunciation, and speaking separately.
+6. Continue keeping lesson completion, language mastery, and actual listening/speaking evidence distinct. Automated structure and checkpoint checks already run in GitHub Actions, but they do not assess mastery.
+
+Until those steps are completed, this document records requirements and partial implementation evidence, not proof that every Anki card/audio item is aligned or that the learner has mastered the 90-day curriculum.
 ## Natural conversation: Anki is a starting point, not a script
 
 Conversation practice must sound and function like a real, coherent interaction. Anki supplies useful language to retrieve and practise; it does not limit the vocabulary, grammar, or expressions that may appear in a conversation, and it is not a script that the learner must recite.
