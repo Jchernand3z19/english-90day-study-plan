@@ -345,3 +345,8 @@ A further comparison of the three phase maps and the fixed phase assessment agai
 ### External-link recheck — 2026-11-01
 
 The second check successfully opened the direct British Council A2 “Changing plans” and “Changing a meeting time” pages. “Transport announcements” and “Showing interest” continued to time out in the retrieval environment, but their entries are present in the British Council A2 catalogues. “An invitation to a party” continued to time out, and its catalogue description remains inconsistent with the title; the resource guide now directs the learner to the internal invitation dialogue and uses the A2 listening page only as a catalogue. Do not label a timeout as a broken page.
+
+
+## Reconciliation note — 2026-11-01
+
+The [consolidated 90-lesson review](consolidated-content-review-2026-11-01.md) records the editorial pass across Days 1–90, the specific corrections applied, and the curriculum/checkpoint alignment pass. This supersedes earlier forward-looking bullets above that say the day-by-day review had not yet begun or that no consolidated pass existed. It does **not** mean every sentence, translation, answer key, audio recording, external URL, or rendered page has been independently proofread or human-verified. Keep the audit status In progress for those remaining quality checks. The Day 1 pilot is now partially completed and documented in `../daily-logs/day-001-pilot-2026-11-01.md`; it is not lesson approval.
