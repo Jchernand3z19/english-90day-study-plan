@@ -2,7 +2,7 @@
 
 **Source:** `guia_orden_anki_90_dias.csv` (1,000 ordered records).  
 **Last reviewed:** 2026-10-31.  
-**Status:** thematic alignment map; exact card-by-card daily assignment and audio quality review remain pending.
+**Status:** thematic alignment map; static card-by-day assignment is intentionally not required. Use dynamic selection by lesson objective. Human audio-quality review remains unverified.
 
 ## Data integrity check
 
@@ -26,8 +26,8 @@ The 10 repeated English wordings occur in different categories/phases. They were
 
 ## How to use this map
 
-- The phase and category identify the broad learning area; they do **not** assign every card to one exact day.
-- Each lesson should retrieve only a small, relevant selection, normally one to three familiar phrases at the start, with more only when workload and recall justify it.
+- The phase and category identify the broad learning area; they do **not** assign every card to one exact day. A fixed card-by-day schedule is intentionally avoided so the learner is not forced to use unrelated phrases.
+- At lesson preparation or session time, select one to three familiar phrases from the relevant category only when they genuinely support the lesson objective. The tutor may record the exact card IDs used in that session, but no static daily assignment is required.
 - Do not force unrelated phrases into a conversation. The tutor may introduce natural supporting language that is not in Anki.
 - A phrase can be reused across multiple lessons when the communicative purpose changes.
 - A correct Anki response is retrieval evidence, not proof of listening or spoken mastery.
@@ -93,9 +93,9 @@ The day ranges below identify the most relevant lesson topics, not a strict dail
 | Motivación y Ánimo | 25 | 951–975 | Days 51, 58, 90: encouragement and reflection |
 | Despedidas y Cierre Final | 25 | 976–1000 | Days 2, 6, 52–58, 80, 87, 90: natural conversation closings |
 
-## Next steps for exact mapping and audio quality
+## Remaining limits and practical use
 
-1. Use the APKG and manifest together to verify that each note ID, phrase, and audio file matches; the CSV alone cannot prove the media payload is correct.
-2. Create an exact lesson-to-card selection only after reviewing each lesson's taught language and objective. Avoid a mechanical 13-card/day mapping.
-3. Sample audio across all three phases and categories, then expand the review where pronunciation, clarity, accent, or text/audio mismatch is found.
-4. During the learner pilot, record separately whether a phrase was recalled, understood in audio, and used in a natural response.
+1. The APKG and manifest integrity comparison is complete; it confirms note IDs, phrases, translations, audio references, and media bytes match between original and ordered packages.
+2. The thematic category map is sufficient for dynamic lesson selection. Do not create a mechanical 13-card/day lesson mapping or force every lesson to use deck phrases.
+3. Human listening for pronunciation, clarity, accent, naturalness, and text/audio match remains unverified. Technical decoding is not a substitute for listening.
+4. During the learner pilot and later study sessions, record separately whether a phrase was recalled, understood in audio, and used in a natural response.
