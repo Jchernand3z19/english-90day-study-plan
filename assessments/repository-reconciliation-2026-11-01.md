@@ -1,7 +1,8 @@
 # Repository reconciliation — 2026-11-01
 
 **Audited branch:** `main`  
-**Audited HEAD:** `097b8d81f363c546cad482793353904a6e7979e5`  
+**Baseline audited HEAD:** `097b8d81f363c546cad482793353904a6e7979e5`  
+**Subsequent documentation and sync-test changes:** see the latest commits on `main` and the CI runs linked below.  
 **Method:** read-only inspection of repository tree, current documentation, recent commit history, and GitHub Actions results. This report records the state at the audited HEAD; it does not replace earlier audit logs.
 
 ## Executive result
@@ -21,9 +22,9 @@ The main problem found was **documentation drift**, not missing curriculum work.
 | Original and ordered Anki decks | Preserved; no card/package edits in the repository review | `assessments/anki-package-integrity-audit-2026-11-01.md` and `vocabulary/anki-tracker.md`. The learner reported importing the ordered copy; live collection state is not independently accessible here. |
 | Anki linguistic review | Candidate corrections documented, not applied to APKG/CSV | Phase 1 and Phase 2–3 linguistic review files. Any deck revision must be a new version after approval; never overwrite the original. |
 | Anki-to-lesson mapping | Thematic map and dynamic-selection policy exist; exact per-card audio/lesson traceability is not complete | `vocabulary/anki-lesson-map.md`, `learning-architecture.md`. No fixed card-per-day assignment is intended. |
-| Anki → local Python → GitHub sync | Draft implementation and unit tests committed; not installed or end-to-end tested on the learner's Mac | `integrations/anki-github/README.md`, script, tests, and workflow. CI tests compilation/unit behavior only, not AnkiConnect or an actual GitHub upload from the Mac. |
+| Anki → local Python → GitHub sync | Draft implementation and unit tests committed; not installed or end-to-end tested on the learner's Mac | `integrations/anki-github/README.md`, script, tests, and workflow. Unit tests now cover event flattening, daily aggregate calculations, local-date boundaries, missing IDs, and history merging. CI still does not test a live AnkiConnect session or an actual GitHub upload from the Mac. |
 | Google Calendar | Not implemented, configured, or verified | `integrations/google-calendar/README.md`; no Calendar workflow or sync script exists. Proposed study window is not a confirmed schedule. |
-| Repository CI | Latest content validation and Anki sync unit-test workflow pass | Content run [41344766693](https://github.com/Jchernand3z19/english-90day-study-plan/actions/runs/41344766693); Anki sync run [41272247896](https://github.com/Jchernand3z19/english-90day-study-plan/actions/runs/41272247896). |
+| Repository CI | Latest content validation and Anki sync unit-test workflow pass | Content runs [41346082938](https://github.com/Jchernand3z19/english-90day-study-plan/actions/runs/41346082938), [41346079230](https://github.com/Jchernand3z19/english-90day-study-plan/actions/runs/41346079230), and [41346075860](https://github.com/Jchernand3z19/english-90day-study-plan/actions/runs/41346075860) passed. The original Anki sync run [41272247896](https://github.com/Jchernand3z19/english-90day-study-plan/actions/runs/41272247896) passed; expanded unit-test run [41346142446](https://github.com/Jchernand3z19/english-90day-study-plan/actions/runs/41346142446) passed; a later test-import typo was caught by [41346145773](https://github.com/Jchernand3z19/english-90day-study-plan/actions/runs/41346145773) and corrected in a subsequent commit, whose validation is pending. |
 | Rendered Markdown / external links | Still requires browser-level verification | Current CI checks relative internal links and structural rules, not every external destination or rendered page. |
 
 ## Recent history confirms the work is already committed
@@ -55,7 +56,7 @@ The reconciled wording now distinguishes a **partial pilot** from a **completed/
 1. Continue reconciling status documents and source-of-truth links against actual files and commits.
 2. Inspect all lesson and assessment references for stale instructions or duplicated/conflicting rules; make only evidence-backed documentation corrections.
 3. Review the validator and workflow coverage, including what is and is not tested.
-4. Review the Anki sync script, tests, and data-minimisation behavior; improve only defects confirmed by code inspection.
+4. Review the Anki sync script, tests, and data-minimisation behavior; improve only defects confirmed by code inspection. The aggregation helpers and additional unit tests have now been added; a clean validation after the corrected test import remains to be confirmed.
 5. Review the lesson-resource index and external links; record which destinations were actually opened and checked.
 6. Review lesson/audio/Anki traceability and identify a manageable sampling method for human audio-quality checks.
 7. After these checks, run CI again and update the project status with the exact run IDs.
