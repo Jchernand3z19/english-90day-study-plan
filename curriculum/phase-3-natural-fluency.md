@@ -22,7 +22,7 @@
 | 62 | Justificar ideas y aportar ejemplos | Explicar por qué piensas algo |
 | 63 | Acuerdo y desacuerdo respetuoso | Responder a una opinión diferente |
 | 64 | Comparar opciones y consecuencias | Recomendar una opción |
-| 65 | Conversar sobre temas cotidianos | Resumir un tema conocido |
+| 65 | Conversar sobre temas cotidianos | Sostener una conversación breve con detalles, reacciones y preguntas de seguimiento |
 | 66 | Debate guiado | Presentar dos puntos de vista |
 | 67 | Repaso ligero o descanso | Repasar conectores |
 
