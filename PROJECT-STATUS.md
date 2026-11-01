@@ -188,3 +188,8 @@ The latest GitHub Actions validation after the documentation and Day 1 updates p
 ## External resource spot-check — 2026-11-01
 
 A set of core British Council and Cambridge resources loaded and matched their visible title/level/topic. Five individual British Council A2 pages timed out; the A2 catalogue's “An invitation to a party” entry has a visible title/description mismatch and is now treated as unverified/catalog-only in the resource index. BBC Learning English blocked automated retrieval, so its availability was not assessed. Details are in assessments/content-audit.md. Automated repository validation does not fetch external URLs.
+
+
+## Curriculum map alignment — 2026-11-01
+
+The three phase curriculum maps and fixed phase assessment were compared against the daily lesson requirements. Additional mismatches in Phase 1 Days 3, 4, 5, 7, 8, 13, 18, 19, 22, 23, 25, 27; Phase 2 Days 39, 43, 52, 57; and Phase 3 Day 65 were corrected. Day 29's assessment requirement was also aligned with the taught sentence frames. See assessments/consolidated-content-review-2026-11-01.md for details.
