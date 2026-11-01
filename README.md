@@ -99,10 +99,10 @@ En conversación también se evalúa si el mensaje se entiende, si la respuesta 
 
 ## Horario y recordatorios
 
-- Horario objetivo: 7:00–8:00 p. m., hora de Honduras.
+- Horario propuesto: 7:00–8:00 p. m., hora de Honduras, de lunes a sábado. Aún no está confirmado ni automatizado.
 - Días sugeridos: lunes a sábado; domingo para descanso o repaso ligero.
 - Todo el trabajo del repositorio se puede gestionar desde la interfaz web de GitHub; no hace falta clonar el proyecto ni usar Git local.
-- Los recordatorios se considerarán activos solo después de configurar y probar el workflow. GitHub Actions puede retrasar ejecuciones programadas.
+- El calendario de este repositorio todavía no tiene workflow ni recordatorios activos. El horario y el canal de notificación se confirmarán después del piloto del Día 1; GitHub Actions puede retrasar ejecuciones programadas.
 
 ## Mapa del repositorio
 
