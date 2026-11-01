@@ -149,7 +149,7 @@ def merge_daily_history(previous: dict[str, Any], current: dict[str, Any]) -> di
 
 def collect_summary() -> dict[str, Any]:
     deck_names = anki("deckNames")
-    deck_stats = anki("getDeckStats")
+    deck_stats = anki("getDeckStats", decks=deck_names)
     deck_stats_by_name = {
         item.get("name"): {
             "new_count": item.get("new_count", 0),
