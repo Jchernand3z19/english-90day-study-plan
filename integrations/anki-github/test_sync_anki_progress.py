@@ -97,6 +97,7 @@ class RequestJsonTests(unittest.TestCase):
 
 
 class CollectSummaryTests(unittest.TestCase):
+    @patch("sync_anki_progress.ANKI_DECKS", ["English Plan"])
     @patch("sync_anki_progress.anki")
     def test_requests_deck_stats_for_the_discovered_decks(self, mock_anki):
         mock_anki.side_effect = [
