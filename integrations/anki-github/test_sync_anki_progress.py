@@ -1,9 +1,12 @@
+import io
+import json
 import unittest
+from unittest.mock import patch
 
 from datetime import timezone, timedelta
 
 from sync_anki_progress import (
-    aggregate_daily_reviews, flatten_review_events, merge_daily_history,
+    aggregate_daily_reviews, flatten_review_events, merge_daily_history, request_json,
 )
 
 
@@ -76,6 +79,21 @@ class MergeDailyHistoryTests(unittest.TestCase):
             "2026-10-31": {"reviews": 9},
             "2026-11-01": {"reviews": 2},
         })
+
+
+class RequestJsonTests(unittest.TestCase):
+    def test_json_payload_sets_content_type_and_posts_json(self):
+        payload = {"action": "version", "version": 6}
+        with patch(
+            "sync_anki_progress.urllib.request.urlopen",
+            return_value=io.BytesIO(b'{"result": 6, "error": null}'),
+        ) as mocked_urlopen:
+            response = request_json("http://127.0.0.1:8765", payload)
+        request = mocked_urlopen.call_args.args[0]
+        self.assertEqual(request.get_method(), "POST")
+        self.assertEqual(request.get_header("Content-type"), "application/json")
+        self.assertEqual(json.loads(request.data.decode("utf-8")), payload)
+        self.assertEqual(response["result"], 6)
 
 
 if __name__ == "__main__":
