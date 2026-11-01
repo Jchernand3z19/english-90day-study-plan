@@ -325,7 +325,7 @@ The consolidated review section above supersedes older “validation still requi
 
 Calendar clarification: this English repository has no Calendar workflow or sync script. The schedule 19:00–20:00, Monday–Saturday, Honduras time is only a proposal; neither the destination calendar nor notification channel has been confirmed. The previously cited run IDs 40702109512 and 40702400684 belong to the separate cyber-data-analyst-study-plan repository and must not be treated as English-plan workflow failures. Calendar work remains deferred until the corrected Day 1 pilot and explicit confirmation of settings.
 
-Automated validation after the consolidated edits passed in [GitHub Actions run 41270702928](https://github.com/Jchernand3z19/english-90day-study-plan/actions/runs/41270702928). This validates repository structure, internal relative links, lesson cues, and checkpoint weights; it does not test every external URL or render every page visually.
+Automated validation after the consolidated edits passed in [GitHub Actions run 41270932768](https://github.com/Jchernand3z19/english-90day-study-plan/actions/runs/41270932768). This validates repository structure, internal relative links, lesson cues, and checkpoint weights; it does not test every external URL or render every page visually.
 
 
 ## External resource link spot-check — 2026-11-01
