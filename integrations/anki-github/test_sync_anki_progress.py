@@ -1,6 +1,10 @@
 import unittest
 
-from datetime import timezone, timedelta\n\nfrom sync_anki_progress import (\n    aggregate_daily_reviews, flatten_review_events, merge_daily_history,\n)
+from datetime import timezone, timedelta
+
+from sync_anki_progress import (
+    aggregate_daily_reviews, flatten_review_events, merge_daily_history,
+)
 
 
 class FlattenReviewEventsTests(unittest.TestCase):
