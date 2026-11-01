@@ -14,14 +14,14 @@ The repository's 90-day curriculum has received targeted progression and workloa
 
 | Priority | Workstream | Status | Next action |
 |---:|---|---|---|
-| 1 | 90-lesson content review | Text and curriculum review complete; targeted inconsistencies corrected; automated checks pass | No further text edits block the pilot. External links received a documented spot-check; GitHub-rendered visual review could not be independently retrieved in this environment. |
+| 1 | 90-lesson content review | Text and curriculum review complete; targeted inconsistencies corrected; automated checks pass | No further curriculum text edits block the pilot. External URL inventory: 30 of 31 distinct links opened successfully; BBC Learning English remains unverified. GitHub-rendered visual review remains open. |
 | 2 | Anki language quality | Phase 1 first-pass review and Phase 2–3 review completed; candidate edits documented | Keep both APKGs unchanged until the learner explicitly approves a new edited copy. |
 | 3 | Audio quality | Package integrity and full technical decode passed | Human listening for pronunciation, naturalness, and accent remains unverified; do not claim it passed. |
 | 4 | Corrected Day 1 pilot | Partially completed 2026-11-01; not approved | Finish the lesson's listening task, comprehension questions, and final self-check; preserve separate evidence for listening, pronunciation, and text/transcribed production. [Pilot log](daily-logs/day-001-pilot-2026-11-01.md). |
 | 5 | Anki workload and transfer | Import reported by learner; real usage not measured | After several sessions, evaluate review burden, recall, and spoken transfer. |
-| 6 | Anki → Python → GitHub sync | Draft script, setup guide, unit tests, and CI validation workflow committed; not installed or end-to-end tested | Learner-side AnkiConnect and narrowly scoped GitHub token are required for a manual end-to-end test. No secret or collection data is present in the repo. |
+| 6 | Anki → Python → GitHub sync | Draft script, setup guide, deck-scoped export, 13 unit tests, and CI validation workflow committed; not installed or end-to-end tested | Learner-side AnkiConnect and narrowly scoped GitHub token are required for a manual end-to-end test. No secret or collection data is present in the repo. |
 | 7 | Calendar and notifications | Deferred; placeholder documentation only, no calendar workflow or sync script | After the learning workflow is validated, confirm schedule, target calendar, and notification channel before implementing a separate workflow. |
-| 8 | Repository validation | Previous content validation passed; new integration files need validation | The new CI workflow now compiles the Python script and runs parser unit tests; inspect its first result, then validate tracker and status links. |
+| 8 | Repository validation | Content and Anki sync CI checks pass on the reconciled code; rendered GitHub pages still need a visual check | The latest content and Anki workflows pass. Continue with rendered-page review and the manual AnkiConnect test only when learner-side prerequisites are ready. |
 
 **What requires the learner:** the corrected Day 1 practice and real listening/speaking evidence; later, a report of actual Anki workload; and any Google account authorization or confirmation needed to test Calendar. Lesson editing, Anki text review, documentation, and technical validation are assistant-side work.
 
