@@ -19,9 +19,9 @@ The repository's 90-day curriculum has received targeted progression and workloa
 | 3 | Audio quality | Package integrity and full technical decode passed | Human listening for pronunciation, naturalness, and accent remains unverified; do not claim it passed. |
 | 4 | Corrected Day 1 pilot | Partially completed 2026-11-01; not approved | Finish the lesson's listening task, comprehension questions, and final self-check; preserve separate evidence for listening, pronunciation, and text/transcribed production. [Pilot log](daily-logs/day-001-pilot-2026-11-01.md). |
 | 5 | Anki workload and transfer | Import reported by learner; real usage not measured | After several sessions, evaluate review burden, recall, and spoken transfer. |
-| 6 | Anki → Python → GitHub sync | Draft script and setup guide committed; not installed or tested | Learner-side AnkiConnect and narrowly scoped GitHub token are required for a manual end-to-end test. No secret or collection data is present in the repo. |
+| 6 | Anki → Python → GitHub sync | Draft script, setup guide, unit tests, and CI validation workflow committed; not installed or end-to-end tested | Learner-side AnkiConnect and narrowly scoped GitHub token are required for a manual end-to-end test. No secret or collection data is present in the repo. |
 | 7 | Calendar and notifications | Deferred; placeholder documentation only, no calendar workflow or sync script | After the learning workflow is validated, confirm schedule, target calendar, and notification channel before implementing a separate workflow. |
-| 8 | Repository validation | Previous content validation passed; new integration files need validation | Run syntax and structural checks for the Anki integration, then validate the updated tracker and status links. |
+| 8 | Repository validation | Previous content validation passed; new integration files need validation | The new CI workflow now compiles the Python script and runs parser unit tests; inspect its first result, then validate tracker and status links. |
 
 **What requires the learner:** the corrected Day 1 practice and real listening/speaking evidence; later, a report of actual Anki workload; and any Google account authorization or confirmation needed to test Calendar. Lesson editing, Anki text review, documentation, and technical validation are assistant-side work.
 
