@@ -30,7 +30,7 @@ Desarrollar la capacidad de comprender y mantener conversaciones útiles en ingl
 4. Use the [progress tracker](tracker.md) to record only demonstrated progress.
 5. Review the [evaluation rubric](assessments/evaluation-rubric.md) and [phase assessments](assessments/phase-assessments.md) before checkpoints.
 6. **Anki:** the ordered 1,000-phrase deck has been imported by the learner and the initial check looks correct based on their report. Daily workload and longer-term learning impact are not yet measured; see the [Anki tracker](vocabulary/anki-tracker.md), [Phase 1 linguistic review](vocabulary/anki-linguistic-review-phase-1-2026-11-01.md), and [Phase 2–3 linguistic review](vocabulary/anki-linguistic-review-phases-2-3-2026-11-01.md).
-7. Check the [content audit log](assessments/content-audit.md), [consolidated 90-lesson review](assessments/consolidated-content-review-2026-11-01.md), and the [current project status](PROJECT-STATUS.md) for completed work, known limitations, and next priorities.
+7. Check the [repository reconciliation report](assessments/repository-reconciliation-2026-11-01.md), [content audit log](assessments/content-audit.md), [consolidated 90-lesson review](assessments/consolidated-content-review-2026-11-01.md), and the [current project status](PROJECT-STATUS.md) for completed work, known limitations, and next priorities.
 8. Repository checks run automatically through [GitHub Actions](.github/workflows/content-validation.yml): lesson-file coverage, tracker links, and relative Markdown links.
 
 ## Progress at your own pace
