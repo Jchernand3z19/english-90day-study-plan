@@ -43,6 +43,7 @@ def anki(action: str, **params: Any) -> Any:
 def github_headers() -> dict[str, str]:
     return {
         "Accept": "application/vnd.github+json",
+        "Content-Type": "application/json",
         "Authorization": f"Bearer {TOKEN}",
         "X-GitHub-Api-Version": "2022-11-28",
         "User-Agent": "anki-progress-sync",
@@ -203,6 +204,9 @@ def main() -> int:
         # Preserve the complete daily history; refresh current deck counts and sync time.
         merged = dict(previous)
         merged.update(summary)
+        previous_days = previous.get("daily_reviews_local_time", {})
+        current_days = summary.get("daily_reviews_local_time", {})
+        merged["daily_reviews_local_time"] = {**previous_days, **current_days}
         body = {
             "message": "Sync aggregate Anki study progress",
             "content": base64.b64encode(
