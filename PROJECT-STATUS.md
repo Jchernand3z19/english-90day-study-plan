@@ -50,7 +50,7 @@ The incident is documented in assessments/voice-pilot-incident-2026-10-29.md. Da
 - Days 22–27 simplified: routines, frequency, interests, and daily activities progress from one or two model sentences toward short connected output.
 - Review days 14, 21, and 28 use a smaller, more realistic retrieval load.
 - Day 29 checkpoint speaking demand reduced to a supported 20–30 second introduction with sentence frames and thinking pauses.
-- Phase 1 still needs detailed verification of every dialogue, grammar point, translation, answer key, and timing total.
+- The 2026-11-01 consolidated editorial pass reviewed all 90 lesson files for objective/activity alignment, task load, progression, language consistency, timing, listening instructions, and checkpoint demands. It is not a line-by-line certification of every grammar explanation, translation, answer key, or audio recording; those remain subject to targeted proofreading and learner evidence.
 
 ### Phase 2 — Days 31–60
 
@@ -59,7 +59,7 @@ The incident is documented in assessments/voice-pilot-incident-2026-10-29.md. Da
 - Days 45–50: problem-solving and service requests are broken into one problem/request/solution at a time.
 - Days 52–58: social conversation practice uses shorter exchanges and fewer mandatory follow-up questions.
 - Day 59 checkpoint and Phase 2 rubric aligned to a 45–60 second story and an approximately two-minute guided conversation with two follow-up questions.
-- The full Phase 2 content still requires line-by-line verification; the adjustments are targeted, not a certification of every item.
+- The consolidated editorial pass also covers Phase 2. Targeted corrections are documented; every individual phrase, answer key, and external resource has not been independently certified.
 
 ### Phase 3 — Days 61–90
 
@@ -67,7 +67,7 @@ The incident is documented in assessments/voice-pilot-incident-2026-10-29.md. Da
 - It intentionally introduces opinions, reasons, disagreement, longer conversations, professional communication, networking, interviews, summaries, and repair strategies.
 - It is conditional on passing the Phase 2 mastery checkpoint. If prerequisites are not secure, remain in Phase 2 review.
 - Some 3–5 minute or extended professional tasks are advanced targets, not a promise of reaching that ability within 90 calendar days.
-- Earlier content-level corrections and sampled direct reviews are recorded in assessments/content-audit.md. A complete line-by-line certification is not claimed.
+- The consolidated editorial pass covers Phase 3 as well; earlier targeted corrections and sampled direct reviews remain recorded in assessments/content-audit.md. A complete line-by-line certification of every language item is not claimed.
 
 ## Anki status
 
@@ -76,6 +76,10 @@ The incident is documented in assessments/voice-pilot-incident-2026-10-29.md. Da
 - The learner reports importing the ordered copy and says the initial check looked correct. This is not independent access to the live Anki collection.
 - Daily reviews, review burden, recall, and spoken transfer remain unmeasured. Anki is optional and does not replace lesson listening or speaking.
 - Do not re-import, overwrite the original, or claim mastery based on a card viewed once.
+
+## Anki progress sync — implementation draft
+
+The local Anki → Python → GitHub script and CI workflow are committed but not installed or end-to-end tested on the learner's Mac. The script exports aggregate review statistics only; it does not upload card text, translations, audio, or raw review events. Unit tests cover event flattening, daily aggregate counts, local-date boundaries, missing review IDs, and historical-day merging. The expanded test workflow passed in [run 41346214358](https://github.com/Jchernand3z19/english-90day-study-plan/actions/runs/41346214358). A real manual test still requires AnkiConnect on the Mac and explicit approval of the data scope. See [integration instructions](integrations/anki-github/README.md).
 
 ## Calendar and notification plan (deferred)
 
