@@ -27,7 +27,10 @@ def request_json(url: str, payload: dict[str, Any] | None = None,
                  headers: dict[str, str] | None = None,
                  method: str | None = None) -> Any:
     data = None if payload is None else json.dumps(payload).encode("utf-8")
-    req = urllib.request.Request(url, data=data, headers=headers or {}, method=method)
+    request_headers = dict(headers or {})
+    if payload is not None:
+        request_headers.setdefault("Content-Type", "application/json")
+    req = urllib.request.Request(url, data=data, headers=request_headers, method=method)
     with urllib.request.urlopen(req, timeout=30) as response:
         raw = response.read()
     return json.loads(raw.decode("utf-8")) if raw else None
