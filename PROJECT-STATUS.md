@@ -171,3 +171,7 @@ The original and ordered Anki packages were inspected directly. Each has 1,000 n
 ## Preliminary Anki linguistic review — 2026-11-01
 
 A first-pass review of the 340 Phase 1 cards identified ten candidate entries for context, naturalness, placeholder, or register review. A structural scan of Phase 2/3 also found two Spanish placeholders in English target phrases (orders 396 and 398). These are candidates, not approved corrections; no APKG or manifest content was changed. The full 1,000-card linguistic review remains open. See [preliminary review notes](vocabulary/anki-linguistic-review-phase-1-2026-11-01.md).
+
+## Repository validation — 2026-11-01
+
+The latest GitHub Actions validation after the documentation and Day 1 updates passed both jobs: (1) 90-lesson coverage, tracker links, and internal Markdown links; (2) lesson structure, listening-evidence cues, and checkpoint weights. [Run 41269322359 — success](https://github.com/Jchernand3z19/english-90day-study-plan/actions/runs/41269322359). Earlier failed runs in the same update sequence were caused by commits that referenced the new audit file before that file had been created; the latest run on the final repository state is green.
