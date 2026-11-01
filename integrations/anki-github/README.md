@@ -7,7 +7,7 @@
 
 1. Anki Desktop runs locally with the AnkiConnect add-on enabled.
 2. A local Python script sends JSON-encoded HTTP POST requests to AnkiConnect at `http://127.0.0.1:8765`.
-3. The script reads deck names, deck counts, and review events.
+3. The script reads only the configured English deck name(s), their counts, and review events. By default it targets `1000 frases comunes en ingles`; set `ANKI_DECKS` to a comma-separated list of exact deck names to override this.
 4. It aggregates review events by local calendar date; current deck counts are reported separately.
 5. It uploads only aggregate counts to `learning-data/anki-progress.json` through the GitHub Contents API.
 6. ChatGPT can use the committed summary as historical evidence when planning review and conversation transfer.
@@ -21,7 +21,7 @@ The first implementation must not upload:
 - Anki collection files or media;
 - API keys, access tokens, or service-account credentials.
 
-The JSON summary contains only sync time, deck names, aggregate counts, daily review counts, and ease-button totals. Deck names are included because they are needed to distinguish the plan's ordered deck from other decks; rename or pseudonymise them in a later configuration if desired.
+The JSON summary contains only sync time, the explicitly configured deck name(s), aggregate counts, daily review counts, and ease-button totals. Other Anki decks are not queried or uploaded by default. The script stops before collecting statistics if the configured deck is missing.
 
 ## Requirements
 
@@ -36,7 +36,7 @@ The JSON summary contains only sync time, deck names, aggregate counts, daily re
 1. Install AnkiConnect from AnkiWeb and restart Anki.
 2. Keep Anki open.
 3. Create a fine-grained GitHub token limited to this repository, Contents read/write.
-4. Run the script manually with `GITHUB_REPOSITORY=Jchernand3z19/english-90day-study-plan`, `GITHUB_BRANCH=main`, and `GITHUB_TOKEN` set in the process environment.
+4. Run the script manually with `GITHUB_REPOSITORY=Jchernand3z19/english-90day-study-plan`, `GITHUB_BRANCH=main`, and `GITHUB_TOKEN` set in the process environment. The default deck name is `1000 frases comunes en ingles`; if you renamed it, set `ANKI_DECKS` to the exact name.
 5. Inspect the resulting commit and JSON summary.
 6. Only after a successful manual test, consider scheduling it with macOS launchd. Do not schedule it yet.
 
@@ -68,5 +68,5 @@ Do not paste the real token into chat or commit it to a file. For routine use, p
 - A local process is required; GitHub-hosted runners cannot reach the learner's localhost AnkiConnect service.
 - This is a progress mirror only. It does not yet map individual card IDs to conversation turns or claim spoken mastery.
 - A card's Anki ease response is not proof of listening comprehension, pronunciation, or independent spoken transfer.
-- Unit tests cover JSON request headers/body, review-response flattening, aggregate ease/review-type/time counts, local-date boundaries, missing review IDs, and preservation of historical daily totals. They do not replace a live AnkiConnect/GitHub end-to-end test.
+- Unit tests cover JSON request headers/body, configured-deck scoping and missing-deck failure, review-response flattening, aggregate ease/review-type/time counts, local-date boundaries, missing review IDs, and preservation of historical daily totals. They do not replace a live AnkiConnect/GitHub end-to-end test.
 - No live Anki connection or token is available in this environment, so the script cannot be end-to-end tested here.
