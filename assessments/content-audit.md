@@ -289,7 +289,7 @@ The tracker remains at 0/90 approved. Day 1 remains Pending. Existing initial di
 
 The GitHub Actions workflow checks lesson/tracker coverage, internal Markdown links, lesson structure, listening evidence cues, and checkpoint weights. The latest confirmed successful run after the documentation consolidation and README link correction is [41171624066](https://github.com/Jchernand3z19/english-90day-study-plan/actions/runs/41171624066), with both validation steps passing. During the consolidation, an intermediate run failed because README linked to the assessments directory instead of individual evidence files; those links were corrected before the successful run. These checks do not verify every pedagogical decision, every translation/answer key, every external URL, or rendered GitHub presentation.
 
-The full rendered-page review, exhaustive external URL check, and systematic lesson-by-lesson verification of all 90 lessons remain incomplete. Calendar automation is intentionally deferred. The planned configuration remains Monday–Saturday, 19:00–20:00 Honduras time, email-only notifications, and Google Calendar API via GitHub Actions; earlier attempts 40702109512 and 40702400684 failed with exit code 2 and are not claimed as fixed. Missed sessions must remain pending, never auto-skipped or auto-approved.
+At the time of this earlier entry, the full rendered-page review, exhaustive external URL check, and systematic lesson-by-lesson verification of all 90 lessons remained incomplete. The 2026-11-01 consolidated review supersedes the lesson-by-lesson status; visual rendering remains unverified, and the external URLs have received a spot-check rather than an exhaustive check. Calendar automation is intentionally deferred. The planned configuration remains Monday–Saturday, 19:00–20:00 Honduras time, email-only notifications, and Google Calendar API via GitHub Actions; earlier attempts 40702109512 and 40702400684 failed with exit code 2 and are not claimed as fixed. Missed sessions must remain pending, never auto-skipped or auto-approved.
 
 For a concise current view, see [PROJECT-STATUS.md](../PROJECT-STATUS.md).
 
@@ -307,7 +307,7 @@ Programmatically checked the available `guia_orden_anki_90_dias.csv`: 1,000 reco
 
 ## Anki phrase/translation review — 2026-11-01
 
-A first-pass review of the 340 Phase 1 entries recorded ten candidates for further context, naturalness, placeholder, or register review. A structural placeholder scan found two more Spanish placeholders in English target phrases in Phase 2 (orders 396 and 398). These findings are recorded as candidates, not confirmed errors; the APKG and CSV were not modified. The full linguistic review of all 1,000 cards remains pending. See [preliminary review notes](../vocabulary/anki-linguistic-review-phase-1-2026-11-01.md).
+A first-pass review of the 340 Phase 1 entries recorded ten candidates for further context, naturalness, placeholder, or register review. A structural placeholder scan found two more Spanish placeholders in English target phrases in Phase 2 (orders 396 and 398). These findings are recorded as candidates, not confirmed errors; the APKG and CSV were not modified. At the time of this preliminary entry, the full linguistic review of all 1,000 cards remained pending; it is superseded by the Phase 2–3 review and consolidated status notes dated 2026-11-01. See [preliminary review notes](../vocabulary/anki-linguistic-review-phase-1-2026-11-01.md).
 
 
 ## Consolidated lesson and Anki review — 2026-11-01
@@ -325,7 +325,7 @@ The consolidated review section above supersedes older “validation still requi
 
 Calendar clarification: this English repository has no Calendar workflow or sync script. The schedule 19:00–20:00, Monday–Saturday, Honduras time is only a proposal; neither the destination calendar nor notification channel has been confirmed. The previously cited run IDs 40702109512 and 40702400684 belong to the separate cyber-data-analyst-study-plan repository and must not be treated as English-plan workflow failures. Calendar work remains deferred until the corrected Day 1 pilot and explicit confirmation of settings.
 
-Automated validation after the consolidated edits passed in [GitHub Actions run 41270268659](https://github.com/Jchernand3z19/english-90day-study-plan/actions/runs/41270268659). This validates repository structure, internal relative links, lesson cues, and checkpoint weights; it does not test every external URL or render every page visually.
+Automated validation after the consolidated edits passed in [GitHub Actions run 41270702928](https://github.com/Jchernand3z19/english-90day-study-plan/actions/runs/41270702928). This validates repository structure, internal relative links, lesson cues, and checkpoint weights; it does not test every external URL or render every page visually.
 
 
 ## External resource link spot-check — 2026-11-01
