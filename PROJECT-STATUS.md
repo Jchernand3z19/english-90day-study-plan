@@ -14,7 +14,7 @@ The repository's 90-day curriculum has received targeted progression and workloa
 
 | Priority | Workstream | Status | Next action |
 |---:|---|---|---|
-| 1 | 90-lesson content review | Full review coverage recorded; targeted inconsistencies corrected | Finish rendered-page and external-link verification; keep learner approval evidence-based. |
+| 1 | 90-lesson content review | Text and curriculum review complete; targeted inconsistencies corrected; automated checks pass | No further text edits block the pilot. External links received a documented spot-check; GitHub-rendered visual review could not be independently retrieved in this environment. |
 | 2 | Anki language quality | Phase 1 first-pass review and Phase 2–3 review completed; candidate edits documented | Keep both APKGs unchanged until the learner explicitly approves a new edited copy. |
 | 3 | Audio quality | Package integrity and full technical decode passed | Human listening for pronunciation, naturalness, and accent remains unverified; do not claim it passed. |
 | 4 | Corrected Day 1 pilot | Pending learner practice | Tutor follows lessons/day-001.md exactly, teaches/model first, and asks one question at a time. |
@@ -198,3 +198,8 @@ The three phase curriculum maps and fixed phase assessment were compared against
 ## Anki-to-lesson selection policy — 2026-11-01
 
 The category-level Anki map is sufficient for dynamic lesson selection. A fixed card-by-day assignment is intentionally not required, because it could force unrelated phrases into conversations and create a parallel curriculum. During each session, the tutor may select one to three relevant familiar cards from the matching category when useful; conversation can also include natural supporting language outside Anki. No deck file was modified.
+
+
+## Ready-for-pilot boundary — 2026-11-01
+
+The assistant-side text, curriculum, Anki text review, resource-index corrections, documentation, and automated structural validation are complete to the level needed to begin the corrected Day 1 pilot. Remaining limits are explicit: the 1,000-card audio has passed technical decoding but not human naturalness/pronunciation review; a few external pages time out in the retrieval environment; and GitHub's rendered HTML could not be independently fetched here. None of these blocks the corrected Day 1 lesson, which uses its own short listening script. The next required action is the learner's corrected Day 1 pilot. Calendar settings and automation remain deferred until after that pilot and confirmation of the schedule, destination calendar, and notification channel.
