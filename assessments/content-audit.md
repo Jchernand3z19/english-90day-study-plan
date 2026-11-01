@@ -1,7 +1,7 @@
 # Content Audit and Correction Log
 
 **Audit status:** In progress  
-**Last updated:** 2026-10-31  
+**Last updated:** 2026-11-01  
 **Scope:** lesson alignment, conversation practice, listening evidence, timing, progression rules, and assessment consistency.
 
 ## Learning decisions
@@ -304,3 +304,7 @@ Reviewed the objective, listening dialogue, and main speaking/production task in
 ## Anki manifest and category alignment — 2026-10-31
 
 Programmatically checked the available `guia_orden_anki_90_dias.csv`: 1,000 records, phase distribution 340 / 355 / 305, 41 categories, no missing values in the eight fields, no duplicate note IDs, and 1,000 audio references. Ten repeated English phrase pairs (20 rows) occur across different categories/phases and were retained for context review. Created [anki-lesson-map.md](../vocabulary/anki-lesson-map.md) to associate all 41 categories with relevant lesson topics. This does not assign every card to an exact day and does not validate the live Anki collection or audio quality. The APKG package has since passed a technical integrity/decode audit (see [Anki package integrity audit](anki-package-integrity-audit-2026-11-01.md)). Human listening review for pronunciation, naturalness, and text/audio suitability remains open; the exact card-to-lesson map is still a later task.
+
+## Anki phrase/translation review — 2026-11-01
+
+A first-pass review of the 340 Phase 1 entries recorded ten candidates for further context, naturalness, placeholder, or register review. A structural placeholder scan found two more Spanish placeholders in English target phrases in Phase 2 (orders 396 and 398). These findings are recorded as candidates, not confirmed errors; the APKG and CSV were not modified. The full linguistic review of all 1,000 cards remains pending. See [preliminary review notes](../vocabulary/anki-linguistic-review-phase-1-2026-11-01.md).
