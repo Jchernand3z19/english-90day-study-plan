@@ -21,6 +21,10 @@ REPOSITORY = os.environ.get("GITHUB_REPOSITORY", "")
 BRANCH = os.environ.get("GITHUB_BRANCH", "main")
 TOKEN = os.environ.get("GITHUB_TOKEN", "")
 TARGET_PATH = os.environ.get("GITHUB_TARGET_PATH", "learning-data/anki-progress.json")
+# Export only the ordered English deck by default; override with comma-separated names if needed.
+ANKI_DECKS = [name.strip() for name in os.environ.get(
+    "ANKI_DECKS", "1000 frases comunes en ingles"
+).split(",") if name.strip()]
 
 
 def request_json(url: str, payload: dict[str, Any] | None = None,
@@ -148,7 +152,14 @@ def merge_daily_history(previous: dict[str, Any], current: dict[str, Any]) -> di
 
 
 def collect_summary() -> dict[str, Any]:
-    deck_names = anki("deckNames")
+    available_decks = anki("deckNames")
+    missing_decks = [name for name in ANKI_DECKS if name not in available_decks]
+    if missing_decks:
+        raise RuntimeError(
+            "Configured Anki deck(s) not found: " + ", ".join(missing_decks)
+            + ". Set ANKI_DECKS to the exact deck name(s)."
+        )
+    deck_names = ANKI_DECKS
     deck_stats = anki("getDeckStats", decks=deck_names)
     deck_stats_by_name = {
         item.get("name"): {
