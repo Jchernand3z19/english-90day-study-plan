@@ -155,3 +155,15 @@ Opened the core interaction sections of all 90 lesson files to assess progressio
 ## Anki manifest validation — 2026-10-31
 
 Revalidated the available 1,000-row Anki order manifest: 340 / 355 / 305 phrases across phases, 41 categories, all eight fields populated, unique note IDs, and 1,000 audio references. Ten repeated English phrase pairs across categories/phases were retained rather than deleted automatically. Added [Anki-to-lesson thematic map](vocabulary/anki-lesson-map.md) covering all 41 categories and relevant lesson topics. This is a category-level map, not an exact daily card assignment. The actual recordings have not been quality-reviewed; manifest references do not prove pronunciation/audio quality. Live Anki review burden and spoken transfer remain unmeasured.
+
+## APKG package integrity verification — 2026-11-01
+
+The original and ordered Anki packages were inspected directly. Each has 1,000 notes, 1,000 cards, and 1,000 referenced MP3s, with no missing/orphaned/zero-byte media. All 1,000 MP3 files in both packages have valid readable metadata; a full FFmpeg decode of the ordered package reported no errors. Comparing packages by note ID found identical English phrases, Spanish translations, audio references, filenames, and audio bytes. The ordered copy adds phase tags and unique card due positions 1–1,000. This confirms package integrity, not human listening quality or pronunciation suitability. Day 1's location example is now a placeholder rather than assuming a city, and the Phase 1 outline has been aligned with the actual Day 1 and Day 29 lesson demands. Details: [APKG integrity audit](assessments/anki-package-integrity-audit-2026-11-01.md).
+
+## Remaining independent work
+
+- Review the phrase/translation pairs for linguistic accuracy and level appropriateness; package integrity does not certify translation quality.
+- Listen to a representative set of recordings for naturalness, pronunciation, and text/audio match. Automated decoding cannot replace listening.
+- Continue exact lesson-to-card selection only where it supports the lesson objective; the current map remains thematic.
+- Continue detailed review of lesson answer keys, translations, and pedagogical load beyond the focused audits already documented.
+- Day 1 learner pilot, Anki workload measurement, and calendar setup still require learner participation or approval.
