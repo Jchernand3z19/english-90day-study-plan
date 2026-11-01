@@ -2,6 +2,7 @@
 
 **Source:** `guia_orden_anki_90_dias.csv` (1,000 ordered records).  
 **Last reviewed:** 2026-10-31.  
+**Policy reaffirmed:** 2026-11-01 in the integrated listening/speaking architecture and Anki tracker.  
 **Status:** thematic alignment map; static card-by-day assignment is intentionally not required. Use dynamic selection by lesson objective. Human audio-quality review remains unverified.
 
 ## Data integrity check
