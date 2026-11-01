@@ -167,3 +167,7 @@ The original and ordered Anki packages were inspected directly. Each has 1,000 n
 - Continue exact lesson-to-card selection only where it supports the lesson objective; the current map remains thematic.
 - Continue detailed review of lesson answer keys, translations, and pedagogical load beyond the focused audits already documented.
 - Day 1 learner pilot, Anki workload measurement, and calendar setup still require learner participation or approval.
+
+## Preliminary Anki linguistic review — 2026-11-01
+
+A first-pass review of the 340 Phase 1 cards identified ten candidate entries for context, naturalness, placeholder, or register review. A structural scan of Phase 2/3 also found two Spanish placeholders in English target phrases (orders 396 and 398). These are candidates, not approved corrections; no APKG or manifest content was changed. The full 1,000-card linguistic review remains open. See [preliminary review notes](vocabulary/anki-linguistic-review-phase-1-2026-11-01.md).
