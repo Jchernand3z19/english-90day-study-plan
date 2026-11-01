@@ -1,0 +1,29 @@
+name: Validate Anki progress sync
+
+on:
+  push:
+    paths:
+      - "integrations/anki-github/**"
+      - ".github/workflows/validate-anki-sync.yml"
+  pull_request:
+    paths:
+      - "integrations/anki-github/**"
+      - ".github/workflows/validate-anki-sync.yml"
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Compile sync script
+        run: python -m py_compile integrations/anki-github/sync_anki_progress.py
+      - name: Run unit tests
+        working-directory: integrations/anki-github
+        run: python -m unittest -v
