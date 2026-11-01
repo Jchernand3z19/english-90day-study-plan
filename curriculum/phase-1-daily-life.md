@@ -18,22 +18,22 @@
 |---:|---|---|
 | 1 | Nombre, origen y ciudad con frases modelo | Decir tres frases breves con apoyo; no repetir el diagnóstico |
 | 2 | Saludos, despedidas y respuestas naturales | Tres diálogos breves |
-| 3 | Preguntas con what, where, how y who | Preguntar y responder sin leer |
-| 4 | Información personal, números y deletreo | Deletrear datos ficticios |
-| 5 | Small talk: clima, tiempo libre e intereses | Conversación de un minuto |
+| 3 | Preguntar y decir un nombre | Usar “What's your name?” y responder con un modelo |
+| 4 | Deletrear un nombre y pedir repetición | Deletrear SAM/ALEX y usar una frase de aclaración |
+| 5 | Expresar un gusto sencillo y preguntar por intereses | Decir una preferencia y hacer una pregunta modelo |
 | 6 | Integración de la semana | Conocer a alguien por primera vez |
-| 7 | Repaso ligero o descanso | Recuperar diez frases de memoria |
+| 7 | Repaso ligero o descanso | Recuperar cuatro o cinco frases conocidas, con apoyo si hace falta |
 
 ## Semana 2 — Compras, servicios y restaurantes (días 8–14)
 
 | Día | Contenido | Práctica |
 |---:|---|---|
-| 8 | Precios, cantidades y how much/how many | Preguntar por cinco productos |
+| 8 | Precios, cantidades y how much/how many | Preguntar el precio de uno o dos productos y solicitar una cantidad sencilla |
 | 9 | Colores, tallas y preferencias | Simular comprar ropa |
 | 10 | Pedir alimentos y bebidas | Ordenar una comida |
 | 11 | Solicitudes educadas: Can I have…? / I'd like… | Role-play en restaurante |
 | 12 | Pedir ayuda, repetir y aclarar | Practicar Could you repeat that? |
-| 13 | Integración de compras y restaurante | Diálogo de dos minutos |
+| 13 | Integración de compras y restaurante | Practicar tres pasos de compra con apoyo; ampliar solo si resulta cómodo |
 | 14 | Repaso ligero o descanso | Revisar frases difíciles |
 
 ## Semana 3 — Ubicación y transporte (días 15–21)
@@ -43,8 +43,8 @@
 | 15 | Lugares de la ciudad y preposiciones básicas | Describir dónde está un lugar |
 | 16 | Preguntar y dar direcciones | Explicar una ruta sencilla |
 | 17 | Transporte, boletos y horarios | Preguntar cómo llegar |
-| 18 | Imperativos y expresiones de dirección | Dar cinco instrucciones |
-| 19 | Distancia, cercanía y ubicación | Comparar dos ubicaciones |
+| 18 | Imperativos y expresiones de dirección | Dar dos instrucciones básicas; añadir una ruta más larga como extensión |
+| 19 | Distancia, cercanía y ubicación | Describir qué tan lejos está un lugar y dónde se encuentra |
 | 20 | Integración: moverse por una ciudad | Pedir indicaciones |
 | 21 | Repaso ligero o descanso | Recuperar vocabulario sin mirar |
 
@@ -52,12 +52,12 @@
 
 | Día | Contenido | Práctica |
 |---:|---|---|
-| 22 | Presente simple: afirmaciones y negativas | Describir cinco actividades |
-| 23 | Frecuencia: always, usually, sometimes, never | Explicar hábitos y horarios |
+| 22 | Presente simple: afirmaciones y negativas | Describir dos o tres actividades cotidianas con frases modelo |
+| 23 | Frecuencia: always, usually, sometimes, never | Expresar dos hábitos y preguntar con “How often…?” |
 | 24 | Gustos y preferencias: like, love, prefer | Hablar de actividades favoritas |
-| 25 | Trabajo y tareas cotidianas | Describir un día laboral |
+| 25 | Trabajo y tareas cotidianas | Describir una o dos tareas reales de un día laboral, o usar un ejemplo ficticio etiquetado |
 | 26 | Preguntas con do/does | Entrevistar sobre hábitos |
-| 27 | Describir un día típico | Hablar durante 1–2 minutos |
+| 27 | Describir un día típico | Conectar tres frases cortas; 45–60 segundos es una extensión opcional |
 | 28 | Repaso ligero o descanso | Revisar errores recurrentes |
 
 ## Cierre de fase (días 29–30)
