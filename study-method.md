@@ -107,3 +107,16 @@ Do not force unrelated cards into a dialogue or require the learner to use every
 For beginner practice, natural does not mean difficult or fast. Keep turns short and level-appropriate, introduce only a manageable amount of new language, model it before asking the learner to produce it, and ask one question at a time. Explain difficult points in Spanish, correct one or two high-value issues, and let the learner retry. Do not turn every exchange into a rigid memorised script.
 
 Useful new expressions may be noted as candidate learning items. Promote them to Anki only after checking that they are reusable, useful, level-appropriate, and not already represented. Avoid adding every incidental word or creating an excessive card burden. Assess communication and independent use, not the number of Anki phrases inserted.
+
+## Session fidelity and evidence logging — reinforced after the 2026-11-01 pilot
+
+For each lesson, use this order unless the lesson file explicitly says otherwise:
+
+1. Complete the core lesson objective and its required activities before adding optional conversation extensions.
+2. Follow the lesson's own listening source and questions. If no actual audio is played/heard, mark listening **Not assessed**.
+3. Keep supported repetition, prompted production, and independent retrieval as separate evidence categories.
+4. Record what the learner actually produced. A visible transcript or text response is not, by itself, acoustic evidence of pronunciation or proof that the words were spoken aloud.
+5. Do not declare the day complete at the end of a pleasant conversation. Check the lesson's completion rule and evidence checklist first.
+6. If an activity was skipped or replaced, record the deviation and keep the lesson **In progress** or **Incomplete / not assessed** until the missing evidence is collected.
+
+Optional free conversation is valuable, but it comes after the core task or is clearly labelled as an extension. The 2026-11-01 pilot showed that moving into optional questions too early can leave required listening and self-check tasks unfinished.
