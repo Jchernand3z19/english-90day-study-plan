@@ -73,3 +73,8 @@ Completed a first-pass review of the 340 Phase 1 phrases and a structural placeh
 The first-pass review of all 1,000 phrase/translation pairs is now documented across two reports: [Phase 1](anki-linguistic-review-phase-1-2026-11-01.md) and [Phases 2–3](anki-linguistic-review-phases-2-3-2026-11-01.md). Phase 2 and 3 review covered all 660 cards and identified a mix of definite English-form errors, placeholder issues, and regional/naturalness candidates. Phase 1 has ten candidate entries for editorial review. These are proposals, not silently applied corrections.
 
 **Deck files remain unchanged.** Do not overwrite or re-import either APKG. If edits are approved later, prepare a new versioned package and compare it against the preserved original before recommending import. Audio quality remains unverified by human listening; the separate technical decode audit only confirms that the files decode without errors.
+
+
+## Card-to-lesson mapping policy — 2026-11-01
+
+The existing category-to-lesson thematic map is the approved working approach. A fixed 1,000-card-to-90-day schedule is intentionally not being created: it could force unrelated phrases into lessons and turn Anki into a parallel curriculum. Instead, the tutor selects one to three relevant, familiar cards dynamically from the mapped category when they support the lesson's communicative goal. Exact card IDs can be recorded when actually used. Anki remains optional and does not constrain the vocabulary or natural flow of conversation.
