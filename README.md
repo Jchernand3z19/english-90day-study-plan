@@ -145,4 +145,7 @@ El total de tarjetas está verificado (1,000); no se mostrará un porcentaje de 
 
 ## Vocabulary
 
+- [Preliminary Anki linguistic review](vocabulary/anki-linguistic-review-phase-1-2026-11-01.md)
+
+
 - [Anki-to-lesson thematic map](vocabulary/anki-lesson-map.md)
