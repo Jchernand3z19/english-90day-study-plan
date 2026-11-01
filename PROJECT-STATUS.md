@@ -193,3 +193,8 @@ A set of core British Council and Cambridge resources loaded and matched their v
 ## Curriculum map alignment — 2026-11-01
 
 The three phase curriculum maps and fixed phase assessment were compared against the daily lesson requirements. Additional mismatches in Phase 1 Days 3, 4, 5, 7, 8, 13, 18, 19, 22, 23, 25, 27; Phase 2 Days 39, 43, 52, 57; and Phase 3 Day 65 were corrected. Day 29's assessment requirement was also aligned with the taught sentence frames. See assessments/consolidated-content-review-2026-11-01.md for details.
+
+
+## Anki-to-lesson selection policy — 2026-11-01
+
+The category-level Anki map is sufficient for dynamic lesson selection. A fixed card-by-day assignment is intentionally not required, because it could force unrelated phrases into conversations and create a parallel curriculum. During each session, the tutor may select one to three relevant familiar cards from the matching category when useful; conversation can also include natural supporting language outside Anki. No deck file was modified.
