@@ -360,3 +360,8 @@ The three British Council pages previously recorded as timing out were opened su
 - **An invitation to a party (A2 Listening):** the page opens and the transcript confirms two phone messages: first an invitation to a birthday party, then directions to the venue. It therefore does include an invitation, but the second message focuses on directions. The daily index now describes both parts and recommends an internal accept/decline role-play.
 
 The daily resource index was updated for Days 33, 52, and 53. This retry verifies that the pages and visible activity descriptions are accessible from the current retrieval environment; it does not certify audio playback on the learner's device or every exercise interaction. BBC Learning English remained inaccessible to the retrieval environment and is not labelled broken.
+
+
+## Resource URL inventory check — 2026-11-01
+
+A URL inventory was extracted from the resource directory, daily index, and weekly map. There were 31 distinct external URLs. **30 opened successfully** in the current retrieval environment, including the direct British Council activities, British Council A1/A2 catalogues, Business English page (which redirects to its current resource page), and Cambridge Basic/Pronunciation catalogues and Travel programme. The previously timed-out pages are included in this successful set. The BBC Learning English URL was the only one the retrieval environment could not fetch; this is recorded as **unverified**, not broken. The check verifies page access and visible titles/levels/topics, not playback on the learner's Mac, every interactive exercise, or future availability. The repository validator still checks only internal relative Markdown links.
