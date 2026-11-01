@@ -97,7 +97,7 @@ The complete learning architecture and audit criteria are in [Integrated learnin
 - Keep mastery states separate: Introduced, In practice, Consolidated. A lesson may be complete while a skill remains In practice.
 - Map only a manageable, relevant subset of Anki phrases to each lesson. Do not create a parallel Anki curriculum or equate card recall with listening/speaking ability.
 - Use actual audio for listening evidence. Record the source accurately; reading text or repeating a tutor model is not proof of listening comprehension. If audio is unavailable, listening remains Not assessed.
-- Do not claim that all 90 lessons or the Anki audio are aligned until the documented audit has been completed.
+- Do not claim full Anki-to-lesson or audio alignment until the documented traceability and audio-quality audit has been completed.
 ## Natural conversation beyond the Anki deck
 
 Anki phrases are retrieval material, not the boundary or script for conversation. A conversation must have a clear purpose, coherent context, and natural progression. Use a small relevant selection of taught Anki phrases, then add the ordinary English needed to communicate naturally: connectors, reactions, follow-up questions, explanations, clarification, and context-specific vocabulary.
@@ -107,13 +107,3 @@ Do not force unrelated cards into a dialogue or require the learner to use every
 For beginner practice, natural does not mean difficult or fast. Keep turns short and level-appropriate, introduce only a manageable amount of new language, model it before asking the learner to produce it, and ask one question at a time. Explain difficult points in Spanish, correct one or two high-value issues, and let the learner retry. Do not turn every exchange into a rigid memorised script.
 
 Useful new expressions may be noted as candidate learning items. Promote them to Anki only after checking that they are reusable, useful, level-appropriate, and not already represented. Avoid adding every incidental word or creating an excessive card burden. Assess communication and independent use, not the number of Anki phrases inserted.
-
-## Natural conversation beyond the Anki deck
-
-Anki phrases are retrieval material, not the boundary or script for conversation. Each conversation must have a clear purpose, coherent context, and natural progression. Use a small relevant selection of taught Anki phrases, then add the ordinary English needed to communicate naturally: connectors, reactions, follow-up questions, explanations, clarification, and context-specific vocabulary.
-
-Do not force unrelated cards into a dialogue or require every target phrase. Let the learner's answer shape the next tutor response. For example, after *I like listening to music*, a natural follow-up is *Really? What kind of music do you listen to?* A later turn might introduce *mostly*, *it depends on my mood*, or *especially when I need to concentrate* if useful in context.
-
-For beginner practice, natural does not mean difficult or fast. Keep turns short and level-appropriate, introduce a manageable amount of new language, model it before asking the learner to produce it, and ask one question at a time. Explain difficult points in Spanish, correct one or two high-value issues, and let the learner retry. Do not turn every exchange into a rigid memorised script.
-
-New expressions may be noted as candidate learning items. Add them to Anki only after checking that they are reusable, useful, level-appropriate, and not already represented. Avoid adding every incidental word. Assess communication and independent use, not the number of Anki phrases inserted.
