@@ -308,3 +308,12 @@ Programmatically checked the available `guia_orden_anki_90_dias.csv`: 1,000 reco
 ## Anki phrase/translation review — 2026-11-01
 
 A first-pass review of the 340 Phase 1 entries recorded ten candidates for further context, naturalness, placeholder, or register review. A structural placeholder scan found two more Spanish placeholders in English target phrases in Phase 2 (orders 396 and 398). These findings are recorded as candidates, not confirmed errors; the APKG and CSV were not modified. The full linguistic review of all 1,000 cards remains pending. See [preliminary review notes](../vocabulary/anki-linguistic-review-phase-1-2026-11-01.md).
+
+
+## Consolidated lesson and Anki review — 2026-11-01
+
+Completed a consolidated review of all 90 daily lesson files, incorporating the previously recorded direct review of Days 77–90. The pass checked objective/activity alignment, task load, progression, Spanish/English consistency, timing, listening instructions, and checkpoint demands. Targeted corrections were applied to Days 19, 26, 29–30, 40, 42, 52, 54–55, 57, and 71. The exact findings and changes are listed in [the consolidated review report](consolidated-content-review-2026-11-01.md). This is a documented editorial review, not learner approval or proof of real-world listening/speaking performance.
+
+A direct linguistic review of all 660 Phase 2 and Phase 3 Anki phrase/translation pairs was completed. Confirmed English-form issues and regional/naturalness candidates are recorded in [the Phase 2–3 Anki review](../vocabulary/anki-linguistic-review-phases-2-3-2026-11-01.md). Phase 1's first-pass candidates remain in its separate report. No APKG or CSV fields were changed. Keep the original and ordered deck unchanged until the learner explicitly approves a new edited copy.
+
+The remaining learner-dependent items are the corrected Day 1 pilot and actual listening/speaking evidence; later, report real Anki workload and transfer. Remaining assistant-side work includes rendered Markdown/external URL checks, Calendar workflow troubleshooting, and automated validation after edits. Technical media decoding does not establish audio pronunciation or naturalness.
