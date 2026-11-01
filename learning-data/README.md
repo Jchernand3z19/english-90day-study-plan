@@ -7,6 +7,6 @@ This directory is the destination for optional, privacy-minimised learning progr
 - No live Anki collection data has been synced here yet.
 - The directory is intentionally present so the integration can write `anki-progress.json` after a learner-authorised manual test.
 - Do not commit Anki collection files, card text, translations, audio, raw review logs, access tokens, or other secrets.
-- Only aggregate counts and review statistics may be uploaded by the integration described in [the setup guide](../integrations/anki-github/README.md).
+- Only aggregate counts and review statistics for the explicitly configured English deck may be uploaded by the integration described in [the setup guide](../integrations/anki-github/README.md). By default, the script targets `1000 frases comunes en ingles`; unrelated Anki decks are not queried or uploaded.
 
 The absence of `anki-progress.json` means no sync has been completed; it does not mean there was no Anki study activity.
