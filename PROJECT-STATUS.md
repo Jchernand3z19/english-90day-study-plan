@@ -20,7 +20,7 @@ The repository's 90-day curriculum has received targeted progression and workloa
 | 4 | Corrected Day 1 pilot | Pending learner practice | Tutor follows lessons/day-001.md exactly, teaches/model first, and asks one question at a time. |
 | 5 | Anki workload and transfer | Import reported by learner; real usage not measured | After several sessions, evaluate review burden, recall, and spoken transfer. |
 | 6 | Calendar and notifications | Deferred; this repository has only placeholder documentation, no workflow or sync script | After the Day 1 pilot, confirm schedule, target calendar, and notification channel before implementing a separate workflow. |
-| 7 | Repository validation | Prior automated checks passed; new edits now require a fresh run | Confirm latest GitHub Actions result and inspect any failures. |
+| 7 | Repository validation | Final validation passed after the current content/resource/Anki-policy edits | Re-run only when future repository changes are made. |
 
 **What requires the learner:** the corrected Day 1 practice and real listening/speaking evidence; later, a report of actual Anki workload; and any Google account authorization or confirmation needed to test Calendar. Lesson editing, Anki text review, documentation, and technical validation are assistant-side work.
 
@@ -182,7 +182,7 @@ The latest GitHub Actions validation after the documentation and Day 1 updates p
 - Completed a consolidated review of all 90 daily lesson files, incorporating the earlier direct review of Days 77–90. Targeted inconsistencies in Days 19, 26, 29–30, 40, 42, 52, 54–55, 57, and 71 were corrected. Details: [consolidated content review](assessments/consolidated-content-review-2026-11-01.md).
 - Reviewed all 660 Anki text pairs in Phases 2 and 3. Phase 1 has a separate first-pass review. Candidate edits are documented; neither APKG nor the CSV manifest was modified. See [Phase 2–3 linguistic review](vocabulary/anki-linguistic-review-phases-2-3-2026-11-01.md).
 - Remaining non-learner work: final rendered Markdown checks and retry the five external pages that timed out; no URL is marked broken solely due to a timeout. Calendar implementation is intentionally deferred until the pilot and confirmation of settings. Human audio-quality review and learner practice cannot be inferred from technical file checks.
-- Latest automated repository validation: [run 41270702928](https://github.com/Jchernand3z19/english-90day-study-plan/actions/runs/41270702928) — success; both lesson/tracker/link checks and lesson-quality/checkpoint checks passed.
+- Latest automated repository validation: [run 41270932768](https://github.com/Jchernand3z19/english-90day-study-plan/actions/runs/41270932768) — success; both lesson/tracker/link checks and lesson-quality/checkpoint checks passed. The final run after the current content/resource/Anki-policy edits is [41270932768](https://github.com/Jchernand3z19/english-90day-study-plan/actions/runs/41270932768).
 
 
 ## External resource spot-check — 2026-11-01
