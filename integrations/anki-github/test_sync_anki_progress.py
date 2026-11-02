@@ -116,6 +116,13 @@ class CollectSummaryTests(unittest.TestCase):
 
 
 class DeckScopeTests(unittest.TestCase):
+    @patch("sync_anki_progress.ANKI_DECKS", [])
+    @patch("sync_anki_progress.anki")
+    def test_empty_deck_scope_fails_closed_before_collection(self, mock_anki):
+        with self.assertRaisesRegex(RuntimeError, "ANKI_DECKS is empty"):
+            collect_summary()
+        mock_anki.assert_not_called()
+
     @patch("sync_anki_progress.ANKI_DECKS", ["English Plan"])
     @patch("sync_anki_progress.anki")
     def test_only_configured_decks_are_queried(self, mock_anki):
