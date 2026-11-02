@@ -1,6 +1,6 @@
 # Project status — English 90-Day Study Plan
 
-**Last updated:** 2026-11-01  
+**Last updated:** 2026-11-02  
 **Repository:** Jchernand3z19/english-90day-study-plan  
 **Overall status:** Active; consolidated review of all 90 lessons and all 1,000 Anki text pairs completed; targeted corrections and editorial candidates documented. Day 1 conversational pilot partially completed and recorded; lesson remains in progress. Local Anki → Python → GitHub integration draft added but not installed or end-to-end tested.
 
@@ -19,7 +19,7 @@ The repository's 90-day curriculum has received targeted progression and workloa
 | 3 | Audio quality | Package integrity and full technical decode passed | Human listening for pronunciation, naturalness, and accent remains unverified; do not claim it passed. |
 | 4 | Corrected Day 1 pilot | Partially completed 2026-11-01; not approved | Complete the lesson's listening task and comprehension questions; close the final self-check using the core speaking evidence already recorded. Do not repeat the three demonstrated sentence frames. Preserve separate evidence for listening, pronunciation, and text/transcribed production. [Pilot log](daily-logs/day-001-pilot-2026-11-01.md). |
 | 5 | Anki workload and transfer | Import reported by learner; real usage not measured | After several sessions, evaluate review burden, recall, and spoken transfer. |
-| 6 | Anki → Python → GitHub sync | Draft script, setup guide, deck-scoped export, 13 unit tests, and CI validation workflow committed; not installed or end-to-end tested | Learner-side AnkiConnect and narrowly scoped GitHub token are required for a manual end-to-end test. No secret or collection data is present in the repo. |
+| 6 | Anki → Python → GitHub sync | Draft script, setup guide, deck-scoped export, 14 unit tests, and CI validation workflow committed; not installed or end-to-end tested | Learner-side AnkiConnect and narrowly scoped GitHub token are required for a manual end-to-end test. No secret or collection data is present in the repo. |
 | 7 | Calendar and notifications | Deferred; placeholder documentation only, no calendar workflow or sync script | After the learning workflow is validated, confirm schedule, target calendar, and notification channel before implementing a separate workflow. |
 | 8 | Repository validation | Content and Anki sync CI checks pass on the reconciled code; rendered GitHub pages still need a visual check | The latest content and Anki workflows pass. Continue with rendered-page review and the manual AnkiConnect test only when learner-side prerequisites are ready. |
 
@@ -79,7 +79,7 @@ The incident is documented in assessments/voice-pilot-incident-2026-10-29.md. Da
 
 ## Anki progress sync — implementation draft
 
-The local Anki → Python → GitHub script and CI workflow are committed but not installed or end-to-end tested on the learner's Mac. The script exports aggregate review statistics only; it does not upload card text, translations, audio, or raw review events. Unit tests cover event flattening, daily aggregate counts, local-date boundaries, missing review IDs, and historical-day merging. The expanded test workflow passed in [run 41346214358](https://github.com/Jchernand3z19/english-90day-study-plan/actions/runs/41346214358). A real manual test still requires AnkiConnect on the Mac and explicit approval of the data scope. See [integration instructions](integrations/anki-github/README.md).
+The local Anki → Python → GitHub script and CI workflow are committed but not installed or end-to-end tested on the learner's Mac. The script exports aggregate review statistics only; it does not upload card text, translations, audio, or raw review events. Unit tests cover event flattening, daily aggregate counts, local-date boundaries, missing review IDs, and historical-day merging. The latest test workflow [run 41488195537](https://github.com/Jchernand3z19/english-90day-study-plan/actions/runs/41488195537) passed compilation and all 14 unit tests, including a new fail-closed check for an empty configured deck scope. A real manual test still requires AnkiConnect on the Mac and explicit approval of the data scope. See [integration instructions](integrations/anki-github/README.md).
 
 ## Calendar and notification plan (deferred)
 
@@ -92,7 +92,7 @@ A read-only audit of the repository tree, recent commits, documentation, and CI 
 ## Repository validation and remaining limits
 
 - GitHub Actions validation checks lesson/tracker coverage, internal relative Markdown links, lesson structure, listening evidence cues, and checkpoint weights.
-- The latest verified content validation after the resource-index and README updates is [run 41346840885](https://github.com/Jchernand3z19/english-90day-study-plan/actions/runs/41346840885) — success on 2026-11-01 20:02 UTC, against the current audited HEAD. Both checks passed: (1) exactly 90 lesson files, one tracker link per day, and all relative Markdown links; (2) lesson structure, listening-evidence cues, legacy Anki rules, and checkpoint weights. The preceding run failed because `PROJECT-STATUS.md` linked to `learning-data/` before that directory had a README/index. Added `learning-data/README.md` and reran the workflow successfully. The expanded Anki sync workflow [run 41346775075](https://github.com/Jchernand3z19/english-90day-study-plan/actions/runs/41346775075) passed compilation and all 13 unit tests.
+- The latest content validations [run 41487759983](https://github.com/Jchernand3z19/english-90day-study-plan/actions/runs/41487759983) and [run 41487689600](https://github.com/Jchernand3z19/english-90day-study-plan/actions/runs/41487689600) passed after the README and workflow-filter changes. Both validator steps succeeded: (1) 90 lesson files, one tracker link per day, and all relative Markdown links; (2) lesson structure, listening-evidence cues, legacy Anki rules, and checkpoint weights. The latest Anki sync workflow [run 41488195537](https://github.com/Jchernand3z19/english-90day-study-plan/actions/runs/41488195537) passed compilation and all 14 unit tests, including the empty-deck fail-closed test.
 - Automated structural checks do not prove that every lesson is pedagogically sound, every translation/answer key is correct, every external link is live, or GitHub renders every page correctly.
 - The external URL inventory is complete for this retrieval environment: 30 of 31 distinct links opened; BBC Learning English is unverified because the retrieval environment could not fetch it. A visual review of GitHub-rendered pages remains open because the available GitHub fetch returns Markdown source rather than the rendered browser view.
 - All 90 lesson files and tracker links exist; this is coverage, not quality approval.
@@ -171,10 +171,10 @@ The original and ordered Anki packages were inspected directly. Each has 1,000 n
 
 ## Remaining independent work
 
-- Review the phrase/translation pairs for linguistic accuracy and level appropriateness; package integrity does not certify translation quality.
+- Follow up on the specific linguistic candidates documented in the Phase 1 and Phases 2–3 review files before any future deck revision; the first-pass review of all 1,000 text pairs is documented, but it is not a guarantee that every phrase is perfect.
 - Listen to a representative set of recordings for naturalness, pronunciation, and text/audio match. Automated decoding cannot replace listening.
 - Continue exact lesson-to-card selection only where it supports the lesson objective; the current map remains thematic.
-- Continue detailed review of lesson answer keys, translations, and pedagogical load beyond the focused audits already documented.
+- Continue targeted proofreading of answer keys, translations, and pedagogical details only where a concrete uncertainty or learner error is identified; do not repeat the completed 90-lesson editorial pass.
 - Day 1 listening/self-check, Anki workload measurement, and Calendar setup still require learner participation or approval.
 
 ## Preliminary Anki linguistic review — 2026-11-01
