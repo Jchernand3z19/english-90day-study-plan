@@ -152,6 +152,9 @@ def merge_daily_history(previous: dict[str, Any], current: dict[str, Any]) -> di
 
 
 def collect_summary() -> dict[str, Any]:
+    # Fail closed: an empty configuration must never broaden the export scope.
+    if not ANKI_DECKS:
+        raise RuntimeError("ANKI_DECKS is empty; configure at least one exact deck name.")
     available_decks = anki("deckNames")
     missing_decks = [name for name in ANKI_DECKS if name not in available_decks]
     if missing_decks:
