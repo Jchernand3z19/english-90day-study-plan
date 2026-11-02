@@ -68,5 +68,5 @@ Do not paste the real token into chat or commit it to a file. For routine use, p
 - A local process is required; GitHub-hosted runners cannot reach the learner's localhost AnkiConnect service.
 - This is a progress mirror only. It does not yet map individual card IDs to conversation turns or claim spoken mastery.
 - A card's Anki ease response is not proof of listening comprehension, pronunciation, or independent spoken transfer.
-- Unit tests cover JSON request headers/body, configured-deck scoping and missing-deck failure, the required deck-list argument for `getDeckStats`, review-response flattening, aggregate ease/review-type/time counts, local-date boundaries, missing review IDs, and preservation of historical daily totals. They do not replace a live AnkiConnect/GitHub end-to-end test.
+- The 14 unit tests cover JSON request headers/body, configured-deck scoping, empty/missing-deck fail-closed behavior, the required deck-list argument for `getDeckStats`, review-response flattening, aggregate ease/review-type/time counts, local-date boundaries, missing review IDs, and preservation of historical daily totals. They do not replace a live AnkiConnect/GitHub end-to-end test.
 - No live Anki connection or token is available in this environment, so the script cannot be end-to-end tested here.
