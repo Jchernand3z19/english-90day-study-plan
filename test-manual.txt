@@ -1,0 +1,25 @@
+Para escribir un saludo de prueba desde la terminal, puedes usar un comando simple en el sistema operativo. Aquí tienes algunos ejemplos según el sistema que estés usando:
+
+### En Linux/macOS (Bash/Zsh):
+```bash
+echo "¡Hola, mundo! Este es un saludo de prueba desde la terminal."
+```
+
+### En Windows (CMD):
+```cmd
+echo ¡Hola, mundo! Este es un saludo de prueba desde la terminal.
+```
+
+### En Windows (PowerShell):
+```powershell
+Write-Output "¡Hola, mundo! Este es un saludo de prueba desde la terminal."
+```
+
+Si quieres que el mensaje sea más interactivo, también puedes usar:
+```bash
+read -p "¿Cómo te llamas? " nombre && echo "¡Hola, $nombre! Bienvenido a la terminal."
+```
+
+(En Windows CMD, usa `set /p` en lugar de `read -p`).
+
+¿Necesitas algo más específico? 😊
